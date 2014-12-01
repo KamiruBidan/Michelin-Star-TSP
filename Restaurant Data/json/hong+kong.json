@@ -1,0 +1,484 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6QAAAPTsFC2XBppYQ8k5W01UHEoEU9go6FuCkWzf0JQXTk9xrM_W9RV0t2OMK6H5Ho3lCVyLMxBjjXyEXMJN7AONP0HhGxPo4ch2L89uKNnJVKIk6vnA6NSHnzX4dVpqEGrrkqcwRmNYx1uRoZtxNa5FGh6owyEiKs-4iwTaf_tGZ0zZIJy8TTESNl7WipiPQ73Al31J68HPRTUf_oRWCA8Q8J22FLoLdfEgkOU4ecqXJON1Q7hAIcLtWVuEjE4WqGhLianZFNjk5jwCynG8h34l3cWsuOgmOvL2GPBZt4VVkH5suIlDwwQDBtlbFoMrJ-odrBIQs_1c1AHAXOU4jpQ0_TwtRhoUg2_v1UDjmRkl_UJsQ4lJ94fugNU",
+   "results" : [
+      {
+         "formatted_address" : "8 Peking Rd, Tsim Sha Tsui, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.296343,
+               "lng" : 114.169728
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0cb4ae777058e115f63228312bbf9c8d459767cd",
+         "name" : "The Langham - Hong Kong",
+         "photos" : [
+            {
+               "height" : 1096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/113615325065597115682\"\u003eAdhi Goen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAM3Dq_N4aq4s2Mc_-NaH1koqhTi2BqWWF3fxFB1uX-EtSe0RGaYdJ6GMobqRy2Ya6DB0hNVfa-b6DcDdA7EdAFiwv0AkBnYzTwNaDH2o-c1hYX79D3jRuwSvwKRfXpO5y8aAhMjTtkkTHdexTClvsSxIQxGY4wnMDAfsk35-wq5dWyRoUpx1mHLY7ALUALpCNql2naKkP144",
+               "width" : 1096
+            }
+         ],
+         "place_id" : "ChIJP1HU7PIABDQRKWuDzOQWZpg",
+         "rating" : 3.8,
+         "reference" : "CoQBegAAAAuNodI7VRiBJpCrvGG17QiI5ygdjDV1eGg9XSnXiXRpYDFfu_bNdojbjxUwMbCjPJZaF9CYA95BhGBG8lC-y1S15sgkjOrYsndSgeJXKBvbaoi-B6WQdYl4w8xXw7_wm3WcjaDX1vXMpymrVqB2LBmkC5oIJ5RjlVEMmVJmj8KuEhC12GjKaimcrKWsGXWAloTqGhRvJDetNbSrvlEzoCc7iRzyRztjWA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hong Kong, 上海街555號",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.317843,
+               "lng" : 114.168066
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7777ae994b41221381913cd370cc80a2df18a1f1",
+         "name" : "Langham Place Hotel",
+         "photos" : [
+            {
+               "height" : 396,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/107877492209753250296\"\u003eLHG e-Biz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRlAAAAicC2nLYdKpElkEgeKjoSr6I1D6YDwYWZilS4LePfT9209X8Kq0OqnU2gFk9BVsmAqGAn_hLRO6y-oh4OauisIMdKW9M-YCENYE-P4diET3jchp4u0kpghUqFneciv6vJCDhSyzEWFcKDWgNaw1jsTBIQCcdWc3_N2_JvQLhgK9-Q_BoUNvcQ1dYHwCTtpYzhOItZwp1YEso",
+               "width" : 592
+            }
+         ],
+         "place_id" : "ChIJzwi8hMcABDQR1ze5ZpYh18o",
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAAP1llqKz-JjEKDEIyfkHMpaf5jBketqzSMMHkr4eDxVUtRAa0oyKbqnR2_C5T9M0lTK7SpHnV_PuFJOyTLBLBi3YPJpL9PdvXXkWQJCUqLrGBN-V2Y88IFXoDEM_bdbxF3QbUdX87jxEzF37INWfCGKwwkn7jNhjXf4R-omRBb97EhDXUPrp8yroDlA8wrnlZalfGhTMw1_-ytTFJn4ZnETSEBGpbfxECA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "3 Kau U Fong, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.28436,
+               "lng" : 114.153145
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1aa48a796e7e55379fb74275beb229d74bd241c4",
+         "name" : "Lan Kwai Fong Hotel @ Kau U Fong | 兰桂坊酒店 @ 九如坊",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALtFUyFIx_Coi_fsprT0LKHE39YUT7P6DZ9EYPJW8YVNYi3hViK1nem5MZst1mCLXl6ZPw7nH0LVrPPwo3fm-jmqFWnf2AlFmcUEbctpbNvpwghMgCcYMjaROkkDf7uT3WsLHoYFjsXi8r-TM2lZ46hIQwCf2eT0I8UtY5XO30TF3ZRoUcvgcO_h-Irop7OsqK81VC4YvYt8",
+               "width" : 1423
+            }
+         ],
+         "place_id" : "ChIJsQIjhnwABDQRf_27hPtHWXg",
+         "rating" : 4.3,
+         "reference" : "CrQBoQAAAPR0sP7Hj-lFIvpHZI6HdO_uSrHB3QxZU5AT-x7TJzp_uXUVBy6ObuZxAyosBZZMhJTEVfwKQowRCwjE2h0aI9d5iuj_YYDGbPjREsAsTARszRcZtUR1GU_72aIIhT4cps-9rm1nZ3r_juRa31cy9JbqTpOhGn1Fsk4pIdxgYJbFp28DFDpME8m1DvBUVDY1fG2wGuAQS56jBWkgIAU-l7L6iqLB04puNhtg6oKbZwpvEhDDiLDbQms5jZZkxQ4ryBlIGhSg3N10mXc8AztsyG5gPzVqV1mtzg",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "118 Nathan Rd, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.30009,
+               "lng" : 114.172475
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d7e9c8b4797aef11135ad11affc69ec6344f0b50",
+         "name" : "The Mira Hong Kong",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAxrc4pwrNqMzkTWekjd5LEYmHcIlbS9tbYEBRFm5nDR95xXma9NuAAVDuABQIQ6GRAPZ39Llev6jhZarT1KUzOhuKjUrjhvHAYYzjHbxwkN1aMnuqUjk7cSc0f_rBWOyvihGHp0lUKv5yZBYjn5DMLRIQuIf_NYlGJbSZnqexlX1-SRoU1rIqCGMzXjxTIlY74i-TCBajGBQ",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ5zGete0ABDQRiMFCaPXrGYQ",
+         "rating" : 4.3,
+         "reference" : "CoQBdQAAAKMTtNlpTHXJyrn75Q_eEfthmTF0V5Ugu3TlLPM9lwc8zcjUvEQ-SlgtFKOGP1UP4doAS7c8nA0wQrIDMge9Iou4EdGJOTFt8lkNstZMbZQO6ubeKr1k4XEk7LQAG7tq7IlYvFsyQQmGKk64AZqWjAP0TFWcqASl9PPhRaWkEsGNEhC8JoSElV0qnsNeEZusLw4hGhTRJAL8cg2_Gl1VdxAY_7FSa5FBzA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hong Kong, 5 Connaught Road ,Central",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.282098,
+               "lng" : 114.159551
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ba2fec68b3f5f354f597aac259cbc22e4f01080f",
+         "name" : "Mandarin Oriental - Hong Kong",
+         "photos" : [
+            {
+               "height" : 609,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAmrqJsmuvrJss2fxo48_qLmwPAfxQOZISfGqTZMivE0k1fK-9qs7nd29ZfJu51ms9F7Tz1wQhwyIFwV2zY8v8toqFl7HhT9IFYjlMd8lR2aZTpngCoIg0UPt-Nv35YuGQvELJxFvAIF1U1sMA5a6kFBIQO8JguvxPSarItDJ9MgKxehoUZlIyEpGuNEk7myl6bURpiOiY-ow",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJQzUr2H0ABDQR3Y172DXrizQ",
+         "rating" : 4.6,
+         "reference" : "CoQBfwAAACsJJYSziyyZwP6rrGzebHreVGv7O0mPm8WbMuD1DsXalKknvem4lJxMC3-q5R51LeSH7XnbFNL0c39OyoVMkY0Im6PVDi-xJaIPhlPmWV4k5ntlENapL6jR-DZc2hjUu0fx_nDDBLugkVDNQm0Bj9ZDGVg52D1L-5ZvrzVWr-CqEhDOAlyZfA0HvuZl8QxyRTsEGhTqBXgco2-a5ZG2xyANLt8640TFYg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "9 City Garden Rd, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.290278,
+               "lng" : 114.194132
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "797d568beda229aef18fc9e3046ba9ec67281a48",
+         "name" : "City Garden Hotel Hong Kong",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8ALx2WWfP3wTgYnlVLIDwrcC0uhJS-s313mge-WFnslpyH2N7vapnCATDlmOnarYFQiq3tfgT4z69OqEMtUZ5My9dTG3mrtLJ5Igbz3a2wlhUbZgUxfQS6h-yPWlnSL6_vdM_zhQHcqSI_JnWFnO2xIQBNmzjPkE2kYWL4NMnFF8fxoUAguzv5r_BbQIUF2H8KVp6QjzxQI",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJS-suTAIBBDQRLPBdctl0dXo",
+         "rating" : 4,
+         "reference" : "CoQBfQAAAFOVZBAWKnYNIBv57zQ-9r1gSKjqfqWQKvnX9hgdKxzXOxzRLE7DMSRFo8PJwvFIaX7x3y9AOP1Mkt4ihmmW_3xGnh7TPNcYGli6fzSHJdRN1xwRQYI5cccIgW7IqLZStSiI3Pc6dzXylGtu7XljxjBVl4_xW-gsqGqV6mMslCrBEhAQShDU5hUeO1wzB4VGdTXdGhSqel_4MetabWS8jdEr2lKL_NzQtQ",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "18 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.293542,
+               "lng" : 114.173668
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "06965e778e9b2d4ce9e6012416b231df9fe55c37",
+         "name" : "InterContinental Hong Kong",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 402,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3MTOU7345W9GE9iqoGq5_sq-RheAafXxUicVpZHg3ZB2jzgN9TeRveC9Mp-Lq03h2fbt-3FRiH-azulP--6JxYDYC5zrlZAzyGcjQ9uc54Ab1txVHnsUeoU3nRspCtA8H2iGoKMfegNmmRkxPEvisRIQv1tZIFqmwGJ2fnlbIOF7lxoUq1XV1BBv2aeHemQEG_VpIu0eQTM",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJAAAAAOwABDQRP_PjmMCBYQo",
+         "rating" : 4.5,
+         "reference" : "CoQBfAAAAFR4S4WnXAGjG51ETvR27GzMVGoFrS-QmBMGZMDc6WjZb9YWDaxPhd958-X2666FbQ0jtl6whEvii81d-f3KbIl6rJ35LVvb2R7ky_AmFEPpDIxZGebC3pW31omc_F825lgQT1u5-F1Wt5KtxiF8yP2T8A7U2Vb5JeUHDdc0oXi5EhAxAq4Qmlqk9PJk6Jj13V0bGhSI7RHbvTlduGpb2u6miUOvWvDTsg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "1 Harbour Rd, Wan Chai, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.281513,
+               "lng" : 114.173782
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "496a617203f3d1aea17fc38e6b8e1faff0d1ec92",
+         "name" : "Renaissance Hong Kong Harbour View Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAekIu6VU_Qu3RMqumrqJ9BgBLczu__cg_PBDf_BrXr04jnauUloBdoiS--7qjZ25-upKk7P_pV1AW5IRiKO-LyYPufd_9LVJ_oIDP4pPnF6fGSUVCfpyMtm_O9gaT9NwQADK6iVlRI9vTAsWx4dC-PhIQUfCK2R3L2rT-Y2tP3rE2yxoUwLKHeMbVDmjZT81hboZ3_3YprFs",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJM6O9TFkABDQRwnJ75YVlUwI",
+         "rating" : 4.1,
+         "reference" : "CpQBigAAAOncueVexi9eezbpJhKpd5Z_raoJxioa0g4EXoPbRTv2XHajS1V6CWaBjFgPFOJJHhmXvRufrFSfmFiJdiQKJ7610zQ_v0JR8umTQ4mPCjLSkwxBBEfql9WUk8xWj9qwyrhc5QV8ANneEI7GT3RLcytpdga8UK3W2BLdcJRdD1XiS0Z2ZbJOTAtY-EyUlcGBfRIQwwUTWTALYXnDPcJdGqQFuhoU-gr1DlCy_yyEw_ZLJpsUnykKvF8",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "69 Mody Rd, Tsim Sha Tsui East, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.298412,
+               "lng" : 114.177745
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e54cc348307422b0531accc88f25e918fdcf6e42",
+         "name" : "The Royal Garden",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/115071755307892545905\"\u003eThomas Tse\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMpxC8TrN4FF9Y0jeWJXLbmlIcwZ-3H5Td7nbkj6B2J1aSfY3Yf-p17rRa7zNdIUKz7oQZTakdVu06yv73oy9HYSsbJq5M7dGlCJFoNV1jWHU-mntUSRbi9M_QSZyPVOliT2UA6IEtM4s26MRWwnTi0xgcvfub6ZbCzkZLiopcUEEhBUE5ajIroZqb_qbTqNUuITGhTX3VfdKBIGNLgoRyJkHJ03zftw9A",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJRROdu-8ABDQRvUy37dzrim8",
+         "rating" : 3.9,
+         "reference" : "CoQBcgAAAFoN_S_mejpXXI2qIhJsCFXm7NBaAdrYuuRShAl4xqSzSjMvVOYkdbRWW-pGBZAmOrOISPmzg56beBXKsh_D94x24w3y006WJ3CYD0RY51pN_Aa-xkntoBHfpm5Zfb8H2bdIV16TWIKAmt36GdFXpv4fwDLCb883xUYKmnEiMiRhEhAYoJsjYDZxmeICH7x0S4wvGhSkp_FwHXGPq0LabOFD6Gbt7VmtAw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "88 Yee Wo St, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.279262,
+               "lng" : 114.186866
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e7590c2742168d834c91864729a438723cfff4d0",
+         "name" : "Regal Hongkong Hotel",
+         "photos" : [
+            {
+               "height" : 1050,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9HNSmqObIguQuhvCLVTHYNnoDh6tSUrgCoP1j_dY5IAeqkv155tEczNJeHYw1X3558vcq9LfwgHbzGyjvCcBFF90HEDXZeT0r1DzR9CV3QqK3INX6iVMkj-7YlNQAJjhaJDxcw0jAmKHn5PXVjMJpBIQ7UjuhTO8XtXHyMy6YbuijBoUzMOPgteUM4exYlVtelib0PnqJq4",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJ5etlElQABDQRs5FqyUfyX2g",
+         "rating" : 3.7,
+         "reference" : "CoQBdgAAAGnKxoirZO2Z1sX_ws3L68I7JMVkEA_PgCporvdunpV3WgVG7iSq3uFZHYGMelmjqGUGTAzEcybVySuRSYNWXG1A3HjUVs3V8z0-nGbP7MTf_GBBOC8mwBKU_8m98-E_H37f_81TMq9FT4lM8CmXuCPC3v8NaJbYUkDutdnuhpIzEhB-3CUCjXf21bUrzPjNaNPzGhQ7p15ctthxMQwZeNHk4wTfhGsiRA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "18/F, The One, 100 Nathan Rd, Tsim Sha Tsui, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.299827,
+               "lng" : 114.172728
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c9ab6229eb81406e6514c5102d89ed5e164fa54f",
+         "name" : "Zurriola",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/117208714503966607625\"\u003eBen Luk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdQAAABKJ_c2CSmUk3oEl7dm2GhBe2Eg2KB_hAXo7kPb9kZVvb7KUYde4CK4y1bGYE3IJ_-3U05baU6w0i3h9vyZtn9E8ge-6f32qmGis-BKa-hSHWvLnpC2f5WxBOSQWKs0JB8IsJmTS44_nVNq8SD1uR-CIiVXVk845Bep_4U9ES8w2EhDpoR9QpzQufU_Jy25VNUbBGhRRu2_aOw2PjP-aE5UZ0y8O-3Bu-Q",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJVSEzzO0ABDQRKmMTNOMA4xo",
+         "reference" : "CnRqAAAAI7XoKptJGkjkMBNXekTNOIjVcQC0VaFlMzV-z3aTHv2yFbPQO_JAdAG0ebGLIvSJ2OPFUa-eliOnagwdgLyXcdK_4H27EdXMIzT3UPwlg_C-URU8tnyixN9d4QTNc1duG5Yhy8xODCY9iGD2EaHxkBIQp0o9ELKa_33q2wKzXUK9UBoUloMuLR8DH8007yuVhrixIzZgQ-k",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "102/f, The Ritz-Carlton, Hong Kong, International Commerce Centre, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.303381,
+               "lng" : 114.160231
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9aa731c5f6c99f1485056cb3972ebb55e1a5f18c",
+         "name" : "Tin Lung Heen Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdb45FZEABDQRW12akQkMM9M",
+         "price_level" : 3,
+         "reference" : "CoQBewAAAFtMhiZvEqQ1x30KUG_QuyPtsMZEkRHFQnmGyrT2NNo9RShODJnbojri6A27UiGgvIr3rBbr4SEELrZfjkEIvq26AJnVW_aWSkx7m_Ni-d_lvYDD5rJ1eMxmKtkiXETkYzcu9l3NOcp7hu6VcnmoB07imGdWas1PL-yHX0Kwvz8PEhCy--0Gbx-uaQUkraGjwUx4GhS4UU9lTauiZdrh1hC8gBhfgmaw_A",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hong Kong, Level 4One Pacific Place, 88 Queensway",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.277729,
+               "lng" : 114.165031
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "428009975e9ad9502524ddf3d9c8edc160b4150c",
+         "name" : "Domani",
+         "place_id" : "ChIJ9QcMt2cABDQRBFoK-KE6uP8",
+         "price_level" : 4,
+         "rating" : 4,
+         "reference" : "CnRpAAAAuZjpJJ3iXuc7xtPq7_qbIXvPDgi2jrnrULOF12FpF7zl5K47po1-HXW2SVbs1Xnujp9l50obxhQur8K-0QNuV8WkeEJ_v_zhx4wzRchT-OXCg0q3hiVVqaK2zWbYyTVyMizX6Mxa8rjk_naA61IOBhIQ5opDOcTaBFKUTXWbfFd4LhoUlkNpx9_6d59os8Du_mW0j_EoAzQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "8 Finance St, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.286776,
+               "lng" : 114.156631
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ccb042e0f90a70181edc6d42a318293e2d575a43",
+         "name" : "Caprice",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVGFCEWotzrVi1Qju3utDYlLOrVsUG0dZ35nH_gzjfIdEcOAVbbSyBPYoxLBdsdzxgdzZU8EwNjW8--fqFiXVISYgekyQ7P0SMdRhiUZeLF29gvBDrLhQlr6ahTmvwCv5knDoKbMxpoLJ8iwks5R5CRIQSJkMW6jQm1v3WSUijutsJxoUWmnF6Z2oTriaog5rJRYFTLzf_ak",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJzbDWTWIABDQRfEbzv7wxi40",
+         "price_level" : 4,
+         "rating" : 4.3,
+         "reference" : "CnRqAAAAxcAkHThS4pfBxlZuKtKQolAwhrAek8h7Su24fIKNQDL5Uj34X41BM0oONXHfg7sk6Omiep6eNhNc2TA7abNEmOpmIde2WsM6Qd6YW8TMPkRvftEYlT1GwQdJccHvh5xfQ17tdB9CM7JCE6OSpdd_FRIQFpEfftcRg4tplzBVmLdKRBoU3lvtswVBzftdTAJIn4TXHo-1oXE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hong Kong, 灣仔船街22號地下",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.275894,
+               "lng" : 114.170745
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "acb61811f42aeff3de0a4824fc056689af690387",
+         "name" : "22 Ships",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/112622165014196426977\"\u003eMini Yoshi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAA67rvwAsN_gT57O1FJi0h11twxb58SKMAmrvTt9M9SSOh8eiQGqZHABYJ_acfar3j26ZVauJazr2iVG9DzwYFPqF0-rRX7riazNxc3zGUQ0kjLwV9I9GBDTm1LO7G4fAlXTETewTDAcarcl40njC96xIQeUj4rHntXa3PZMNUWrULexoUCL0C-MkDIQRfbYE0fS6U_H8romo",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJtw7F11wABDQRHRoWJeTBB-Y",
+         "rating" : 4.1,
+         "reference" : "CnRrAAAA2wTWaMJQ_wbeB_J84tD_XZLfhkElsbyZIg_OioZ7yDtARgJdpbIFNJx-ZRUB2eZ3ezjiEZDz-vD3PrUpfl5h48rcHNgttwkEGc2OHi3V3Fv0SfYyvBeQQRnHegy19L2qTJFWOZCCpNEdIl1PPjSZaBIQQj-pN52fFYKRyvOFDnNyMxoUw09G2McO8GNeEvEzUVvriMs1RRM",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Supreme Court Rd, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.277135,
+               "lng" : 114.164419
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e494f8f8b6f0b0d976d66f2e58c1e24591489321",
+         "name" : "Island Shangri-La - Hong Kong",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALnIdkPqegcx4TLpZsd070Ymv4pJnzKzC0J6SagnMRa6wfLMSh5rBBQoeUqUpStfnGUDL9GF0y8qRXCfuWN1rjOVL1zH2YOFYcA3MkzxPge8sDrBiEgyWBrQSwB1KzxtJ1i78qPaFQXB2R3zM2y8dHhIQrF8X0_XQXwJJ5CoFAd2_oBoUD7DbG6GV-1R4WHqCx3OFMfzFrzY",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJSUycMWYABDQRgyxi89tuRwA",
+         "rating" : 4.7,
+         "reference" : "CoQBfgAAAGkQcmf6adlMuzx5LO6R-WPYZn08_qaWmyKbQOLdejrs9id1cibkHk-O4RCTTJqQf5CHb3lrGu05aKIYDBv-vpD3OSCWNNa2M_hduBX-GW8ZOdTNRSaW8yMFJN0AYZFtZ34eAnctfnU0tP4m_n9nT00fOqZK8G-smBxfS-D-0ajvEhC4nwAFWI08jcc3j-SYiVFtGhRz3bKoe0Nyhj9mkRbM1nZKa9pjOw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hong Kong, 灣仔灣仔道199號天輝中心6樓",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.277692,
+               "lng" : 114.178585
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c38b949de65687c1002986f8d633f6d2c3817286",
+         "name" : "Mirror Restaurant",
+         "place_id" : "ChIJwysWb1oABDQRi4164wswPCI",
+         "reference" : "CoQBcwAAAFFJRJpUR33hdvvmEUbZ_OeWnPyF3g3E27MXBaFsTRmuyEGuWBDpa7h73FV3SOyl0xlrPO9VObPm7iC9-QZwmdiJ9liOBhW7kPUw46IwyUfztcBAlvMMRcjb4BsdtWA3aps9JM522NvmqpJqfgARX-wsO1GPRjRkXlu3Se8prpPbEhDYL7yt4-tmBXDvsBoomuMNGhRVADJoCyxEPlc8pU_frnm5T6Ts1w",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hong Kong, 干諾道西5號",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.287646,
+               "lng" : 114.150113
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b902d158cc2ecb0a561927f4350663b750f4202b",
+         "name" : "Pierre (inside Mandarin Oriental)",
+         "place_id" : "ChIJo3jqP3sABDQR40mG_Jv__-E",
+         "reference" : "CpQBhAAAAGcQ4-UST0xY9uHdR2RraKhuUu4pDkfV-T5-nlF-lAf1KFk3iStC3TQnwOcs10_I2EO3Jgq_Enc-LnCad-aAZTrvW3BSyh-C3QU61nrq69nvuY0JvmEoIJyuxDC-X2wKNHgok7nntmc8Mmw8TkkNRoVzKQxyiCmqwN3pAvX0Jm33jizEAHzlwkbrRZP4_qutahIQQG8XsiB-TTvLH2KRDrXHuhoU2ZarFAGBmIw_-M9R8pjtdn4oQpk",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "8 Finance St, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.286776,
+               "lng" : 114.156631
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3925296c58fbc2c289b674012966ed9842fd5cb",
+         "name" : "Lung King Heen",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAA1PL_jjDmlqH3BUABOUR8rWZvbox6_JJ15Kc8Itzwvw8ubL1pNIz__SAp4uPb8x0NLTw4bo00q4yJyY9L4cESlBziUlBUe1R3QrnP4ftRu5vQhg6w5ByjTVQLSEx81L5whAZAejQDFw2f7eFwlGBpHBIQIvwiKNp5_vk6ogcnkQFdTRoUAnB8ujbc0PX62IrpA3sERRR5nYs",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJzbDWTWIABDQRhRm8m1oEQbc",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAALQ2_3inymYsRsa8PQJglPfnvSu_Fex_Ce4RPssyQg_QzRTbmhmuxTh7gMdBkDggt_jtWPstnZwDaldZukOhfvXdGR1lzCJr4WywZG1uLftCHm2QmnvXbIlWKvjaslX5PNJUzevY0vaLMn4TJ4stHERq5ixwsBAaq7T8lGv6jw_OEhB186s2BTNOrMBVoQbjCnCzGhQ__2JPSNIBvSMR5DMxG02jYItLEQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "69 Mody Rd, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.298408,
+               "lng" : 114.177741
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f6a402fa71f4ad783796fe3f9b9b0d251ab3e7a6",
+         "name" : "Royal Garden Hong Kong",
+         "place_id" : "ChIJN4JGee8ABDQRmDOviFyCdAg",
+         "reference" : "CoQBeAAAAL2MljUNBH3AWufq09kexb5KSMu-5Tc-UVK-3VrDRNgThwwTJZ2eE08UUZ30QhWKq38LnX0AXW04mWJoLPyVERBkpbC_5wSjrbMLZxtVG5-9SCAylBSb_exnmOPlqY2UjxRrX07oqYbxaeN9dz2rLPywDkg6fhNaNao7O69cOg9GEhD5BBJKFtD_C7efu_OYwaK2GhSUBLd8MtDdwMmwOsoMB3tm9X_GvQ",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

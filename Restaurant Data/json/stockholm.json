@@ -1,0 +1,273 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Södra Blasieholmshamnen 8, 111 48 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.32968,
+               "lng" : 18.075817
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "af0f0e142c38ed86e26b5e1c4ba7e809f6552a3c",
+         "name" : "Grand Hôtel Stockholm",
+         "photos" : [
+            {
+               "height" : 546,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAK4z1nEnXAzslLSQTlJSx5e8oxdTQY2WZ2C2s-d470-ZKh_v3UfPfonP98FXkA0z6DkkptoyUnoMy4_CBxXEfFXUHIczAwqO1EsqZx5uQtIEsmfN-kEU8eyeV0XOZax8k4DD6-B_lbl7YnjJPZt65KBIQ-LjN9a-Y940rVhLRW5E2OBoUrdXbePSBuNUNJ9aAiT0tQQEgEso",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJKcNgo1mdX0YRZ_wU8-ZX24w",
+         "rating" : 4.3,
+         "reference" : "CoQBeQAAAJLN7wDZD56fCPp-YrLL9458tJCROYbXg3k-anbJ5lfPXmqhRxsrIHNcbLv0DjlOVfHcIJant3agYZ9D_4Otcr9wh8WEDJvQKTUAygEGTpLqzhzXcFfHtwWgiAHcHIyQUejFXio8vbKctCZQJY1shhtXvtd8nh0iz35AyCTWQY5sEhBIe91IxB19CeQfyXpqt18IGhRQtU4G0en5b5TUYXN7KtU6n0jntg",
+         "types" : [ "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Kungsgatan 70, 111 20 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.333968,
+               "lng" : 18.055921
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ee6b26b3ff47dfca20a06cd9e129bb4138910f3b",
+         "name" : "Scandic Hotel Grand Central",
+         "photos" : [
+            {
+               "height" : 513,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/105251211062753967628\"\u003eAndreas Gu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAA6zFZO_2gOaQ2lZ7MRbF2j1JcscUjZuVdXqa5uoN5KoT-7K6aqmpaCcEHxCBg1QM90vSLR3YJnHQ7OpgZXRawGjQHfIGx-vrVrvAby4rM_A0eKJkdY2v7838dI1rK3aqXxdTn12ukVK4jrUicj-P9bBIQGiiT99nkSP7KVjVQhLRqoxoUmMwKgNrNlwSLAEoFGTBqCYiafyM",
+               "width" : 1231
+            }
+         ],
+         "place_id" : "ChIJ60cbLGGdX0YRPi5cg1pVO_8",
+         "rating" : 4.3,
+         "reference" : "CoQBfgAAAM7rfb5jdsCc5HGNTi5amf7UpIFZab3-jLsF5XTHNls8y39RQRfHgoWxQDlAlsHALl6c4VnpVon2AxXuNAIsxwDUxqKK3NWGda4HIZmxkZdtBy_nRH7yT06plmGqf7OifPkjtX0W44zopz6S-ManWhLuGK8BoST72PwZzDluNoTJEhAtto7t9dQ6W6VuiGgPDVXlGhQPNsJTWTq90n0JsZKR8kWT1kdIQQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Österlånggatan 51, 111 31 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.323137,
+               "lng" : 18.073974
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "af7e376dbc7f1723699cb5e3b035a38a9064b7bb",
+         "name" : "Den Gyldene Freden",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBhwAAAKfagNF3nti6hAscmdAbhqof57Eq_FU1BDPQZ_YW7Z4VDbnmb64uwVwlrl1AwpPwYzGmLDloX_aVcktwWQ7mS8qEBt1T4FGLwVu8YuHN0bCS_vI3WKPGpDswG8v9evTTLvXu9KCPIWrTSPlA-APlrbFnq9HoocBVNLgTyJGne3WhaovyvY66-nD_DmypebdNohIQFkojmz80pFwoRV1I9wtfmhoUePxDYMVikCeZU27ZOnhXkdRRP0M",
+               "width" : 2010
+            }
+         ],
+         "place_id" : "ChIJo2D60OJ3X0YRpSgBrukx24o",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAAMVwye1fVoKHQxk3xwMAb3Oqv4p_BVU_K07ioZNHHs5Voy6mfOv455Gw8zVzEVPUMOMYZ2yuAezM1j1dm-DH-YlSBxY1aN-_xuN5Xlr1HiFPhRH72A7vskDbO1LkAJ5mX9AVX9Weu-ZIfw41Q9tEtfW0SrsTyxs45akZB2kwBxm_EhDrUrWA9aZAsUkTCo96A220GhR1_3yR6vnPS2AmMDobPjPwJTNHQw",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Norrtull, 113 47 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.351742,
+               "lng" : 18.042898
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c5aeac62fab64eb6151009bd61d13176315db3a3",
+         "name" : "Stallmästaregården",
+         "place_id" : "ChIJxz8mmXOdX0YRe61ZFNPCcME",
+         "rating" : 3.8,
+         "reference" : "CoQBdwAAABYl1hTbejlhhackK74YUcLC69BbmHMYYVR5he15MxQp2_NIKGJHAddRdFgUsVWphvJ1fAWyf_3PQI3DqT82ip2pFBFKFU2RyBFpexhPOZmrkA-DGnUBy8mzKHzjB4l9XPkNCEskni0CJEqYYmXs2psTxQSBhbFj92gvj4_sglm0EhDn3pAy9FGjLfhMxpxiXuZaGhS6zzcypECS6xme7Q9CP4UxhAguDg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Oxtorgsgatan 14, 111 57 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.335227,
+               "lng" : 18.065321
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ac37dc244ba77b05cfa63199c0eb342e0668998c",
+         "name" : "Smak på Restaurangen",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/100181892280262105889\"\u003eMattias Hultberg\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAbtfDxyixZpB5EYRVxLYaAbEqDXXEBt802cC4845GhBBhZm0ZSxjBz_ZOCzLR-y4qfLlDVBhqVqo9eR9Lhpaod6aqHcjMHx_nRA-2O2Nk4MpT5injSUti-0Ek3BpYBBMpaVwco9Z8ExiJ1d_nGKGDDxIQN_n-vEr2B0mOdDRQ6vqHoBoU-ZdyyazZ_03jXhPzeD0zpEAL9e4",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJpYipmV2dX0YRC7CLhAHIvVo",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CoQBdwAAANKAcjr4vbyYg3lJfijzw-hZIA_eYHg18vjxlQOuJyCXxqZJ7UbMqSN6TZHvywnSfraxOYmDXG1u707aZ0qyjyTS3mZRmuq11pc4kk29xm0Gixbuqun47QFEqn1sTFGFr9_MUddrdP5Aw4ynAIG6GtUq9Th7edCVf9nqZQAkHSS0EhCqvibjaSwR3xjHamTl4J2tGhRCC6uLonDwlDlwUtH7S5pcJYId3Q",
+         "types" : [ "restaurant", "meal_delivery", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Tegelbacken 6, 101 23 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.328944,
+               "lng" : 18.061712
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9327742e1d88e27eeaecaad03e6bb84d5bedd366",
+         "name" : "Sheraton Stockholm Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 222,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBggAAALncqRRyV7cqun3Dp2Bv_DjdJN9URpPy_fbwwJ-6qTnX1DYxPIrcxs32A5a_BOjIypTpv4lDhKa7srvTAlFhZgqmO4whT_znXqzpEuYDwG9aGT0yeTaw8SI6TM7o96k-xyTR2D0amS1JMW_jnZE9OSrlyoHudxPyv9ZWsjQ_lfQX0IFXE3hedaQvv2gTgz6LshIQPD3HwfUUsKOlcO5VM8XZVhoU0sYAdbfT0T3fmyogtCwePqmpzuA",
+               "width" : 335
+            }
+         ],
+         "place_id" : "ChIJZSiKvV-dX0YR22Nrrnlx-Eg",
+         "rating" : 4,
+         "reference" : "CoQBegAAADVtTa0rguWXSOXssm3LPKrUbZ7T3jp3WXcLtAJkG8RbobQV3u7Sss4evG_RTokZGB0MbfRhXBbgmPO9uSuFZiqsx0M4P1YU-a5R_aQ9HJLjG0LDMn2eU1QF0DlF_1JTTx2pHtOsZL-ssVvf1GL6VOOHFCkDB8fPx3naL3n9YJ0WEhCi2-LdfoUoNfc6psl8oAXSGhR5e4HcazwAMQPxCccRyLCTsLzAzw",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Lilla Nygatan 5, 111 28 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.324344,
+               "lng" : 18.067863
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0f2e51c575c96440cdf1757d8776255eceb11603",
+         "name" : "Victory Hotel",
+         "photos" : [
+            {
+               "height" : 1125,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAodRmjk9PJ0VvVHXAJ7NSoHMO6argEWx1X3jkSj7puby4EtWa-vaT1bT7mAZD6-EPPme3jQgwMfTubSO-nbHifNv61tY3uBd-QBS3uA0Ym1TWtWCj0P9lA-est3Q2YvLgxpF2VaMKqKHKu8AMOERHLhIQ879Qp-g55bSM7gpmdWbdkxoU_1P3OnnUidhHS81Zd1tk34yFDfE",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJWRj3R-J3X0YRNglYYJBbOOE",
+         "rating" : 3.9,
+         "reference" : "CnRwAAAAwC4ihP_zOiBsdZuc6e63mr-4KZWu3qAIuZ9W-UUK3vulhXiq7veqfarTT1MfFj3cA-YHv14gBFtS8Ffj-ReyYp7Lp7PKHUvy2bDZyHlO5aCNKhkKHrSbURgOrCGGgvg9PgbNRAfnSxpqq8s0UGOimxIQgVRHhRsLTK4zATZEXbgc9xoUsWoG6btAkrLidZchAUJjI_StmSM",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Operahuset, Karl XII:s torg, 111 86 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.32986,
+               "lng" : 18.071543
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f738e6b3e4fd884104c86b71ce426166cca4312e",
+         "name" : "Restaurang Operakällaren",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/117262990311676543541\"\u003eRobert Benjes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRrAAAAPhQYo2lDpxCFqXxg4huI0hdp-Q_-qfy0FbGWzklzKEfwimtYuQDFMtOmIcwkRkoiVg15CqweRVk8RczRzp_bHP_8OEgIt7LmNWiLUfLF2cIw-2uJL9N4XtG0CwdqGzBS87AC47O6b9yyCv1dOQFZUxIQyOytjrCNdjMAC9tRKkjnXhoUGLcG7UAwTLuh6xqxdPNq-cREc4M",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJb6M0N1mdX0YR189aG7qitog",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CoQBfAAAAFwZKa3pA7ZiHNeMJnRAhfqYOcmDYEHn2_AKB4vpkU09z0UGp8WKAe5xdLBMhN_SaF_cfITlU-m0FTjW2QnY0iKo3GbsNm6e4L63k3CFDFv4Lbue_sIxPRAPLBoiY17Ca90oQnmvzfwyOBo27gDEuAStlqAUxeSGl2iVx8pwyy2kEhDsGkgDGQVbr9kgMc7nOeQLGhTG-tRmdGNZbPX1--yxezmOlIN8fw",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sodra Blasieholmshamnen 6,Stockholm,111 48, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.32932,
+               "lng" : 18.076235
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f861f7a9ee95f4c934c630a0b68e03971867c545",
+         "name" : "Matbaren",
+         "place_id" : "ChIJyQo-uVmdX0YRG5Qju_68Lqo",
+         "reference" : "CnRrAAAApBdpy9Cy4CNoU-jj3gulYD7d5wXX1yF15006pp6PUQfWZ6TCLPolZekmWgxAveN-uhV9dB960aOY5t853ya_PYTqBcgxb-EjH1HnN8o61G765_V7kSDgZC_aW1DYOHojtwHB8hPmXsku_X0L3LcCoBIQryrsituTLzUhy1KqvnAmbxoUwLqc_BG35y42S2hOjAUy9_a8lgg",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sveavägen 21, 111 34 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.335714,
+               "lng" : 18.063053
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c9cf9a0e1bd4db779a4e58a740e47d74ddeb7554",
+         "name" : "vs VisitSweden AB",
+         "place_id" : "ChIJzw8tfGedX0YRjmdfeddqSJM",
+         "reference" : "CoQBdAAAANh6td0eG3Cgn9F-CL4qWZJ7KcIGK5MvVH7aP1TvTdvjulWPmUlJFCOhQ3YZsT4SdiufYGnaPsgvK5_E8_A53YPB-wO-qUZe4r7jQK82_Nr9FO32suvCT4xCyn4BwZkJnZOR5BvtrzhMA0C2HbnBHXYZCVuQue4gZnnPSiwuRAZJEhC4c043GVP3rO-Uqg5Q_JQsGhRmLyIVLJIEveenwb9XW9m0u-5Yjw",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Jakobs torg 12, 111 52 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.330167,
+               "lng" : 18.0709
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a52b0cb1c8a66ca3714cc2e880e92844b7de886f",
+         "name" : "Bakfickan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAQI8Y7CT496sQg7Dt-I6AmB6bVTjqaXNRsGsyX-x9T76yj1n6KgRmehp1BGwebXAktPG9QcpMUt8EHWOgwOmsoVTwcFC0yXFKZSDijDI6IayL2F4wk6H8d_kp1mIDwsWstmblBJ-ql9YH9STIEpKT4RIQV2v322nX_cvB_uzmpLYnABoULt-GlA8SsfhOJJHVFYbmkYAio94",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJdb__OVmdX0YR0SHeoKw5ZlA",
+         "rating" : 4.3,
+         "reference" : "CnRrAAAApYeZw458pIl7JVWNpOutxtZlIdPNyO0tbw9n-uz0q4XcoNd48yZaLiMPJzx7-UDnHevmuPxhG2EQg2iEStR-7lyVP2YdOWLTABLVSxWMunbhGVGfNCHNm4hzqxEXKqm6s7VMQXg8ZdUayTldnWy48hIQzbryUnzdFeQDlhYQdeKE8RoUyuTOOqvub8wCZ8_XwBViNlj-FIY",
+         "types" : [ "restaurant", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

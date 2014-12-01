@@ -1,0 +1,528 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5AAAADaxRFmuzPUR-vsOagMl19AC2y0UTZv8_H2_GOE5tmJVYo0ddj-g15lmtNeSf4ibbAYwG2jYvg8nlzOV0tZiSmjwcUCfbiIH8lBL3-q09gbm5YwZyXj-tHBvEkYnXq--AKvAHSARDTABGT2qYIvkh1wpYuNTVtqvH5EKPdqNbPOmDhl_RoCMoPqAtIWMaCo6c-YwZrTP9n19d7YIUbIdq6h7tVb97lIwFt1Q-wxk9a9I41-hTx9MGypayBSz0OWANzKeL6tHKA7AoPbCHIBclj6m6tCyhYGK7Ghx7DwdgU0VtSUO_jqsSYIUq8fS5ydZrBIQGb4JSujXJeVKCDoDHyp2ehoUvQy27sFqoK1Ha59faR_P3-2CtDw",
+   "results" : [
+      {
+         "formatted_address" : "Via Alberto Cadlolo, 101, Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.918831,
+               "lng" : 12.446491
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "63e3396a81bc53226319f350b3357ebf3129e26f",
+         "name" : "La Pergola",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/101774867537142928950\"\u003eStephen Sander\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRnAAAAHI7uQZfoPH1xHvDceRL9yOsRBGDqjEr5eUYEpft3Sxi7fHuEeTqkgY5KXx4epsSpfAhEJ9Y4Yq6z6uD9fCNhBtUO8DIYLhvnl6N2uYqVnbNeZflOc5qVR7CbjJKUc8Mq7EBTWniHOR_49FWK9hlbCRIQplwBhoepsAQQQHjKI7dMrRoUDklX7zZZIa-P1JlXZRaHGEkwA8k",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHw9AUoRgLxMR2Up1TWI6ZS8",
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "CnRrAAAA5iS3RRmtItTrv2WhcsV9iZZR3lUykLAPFKnhh3FeJJtoAcDd089wXZR68ENWEwAumewdt1SwQfVIyUGZBkSQ4ehXrflQlGr2XM-BLn8uD0QjTZvsG-r7z6V-Y8dOI5ejsYbH_74Nm7igE0OPg7kcOhIQLnU543h2NQlhAZqyBeMnNRoUgaOO-DmS3pMbANTAhnBVVKCLfyc",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piazza Trinità dei Monti, 6, 00187 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.906099,
+               "lng" : 12.48385
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7b0f4344186b5160331e6be8195da63a81b02337",
+         "name" : "Imàgo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1149,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBfQAAAH7aV5BQKHFoMu0TCrX99SjkCXWDbF2L_Gm9LOldE6mNI9EkkxbRpw2H55Ju-aSpISLeXhxQgpAHRFOjObRdpXQQ3Ah3mzhMemFOMXoJVgxtW2WgcBA16jPGw6en-FR0rv83PkKXDwMPCINn7pU3O8W31a6Gcw7YF7RMbG6bqYHUEhDqYKioxg1bFuV5Ao7EwhPPGhQfrekGBAVPtEZuWWEt0W_wtLSadg",
+               "width" : 1149
+            }
+         ],
+         "place_id" : "ChIJW6tyLVVgLxMRULTMKJiciGU",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CnRnAAAAtTf9Xa9gtvcgj0ggR9lkEDKGYDeAMpWt2lBTSNkhIwwN_8ThqArn654hGd0E-EFwveZInKl7vGAdGZKZqwlWIOOVYtuERHdK6VTNfRfu_4MN-BiXZiYuCdzFvYKcT6RW-quJrHNWsvQjo29_47Oq8BIQvDM2zbmeB_eRsS69Z09aehoUvdeGWBy7o7Q2v2h9xL6RXoj4CvM",
+         "types" : [ "bar", "restaurant", "food", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via dei Banchi Vecchi, 129/a, 00186 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.897884,
+               "lng" : 12.467397
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "14d5197882fd3e9046a5916a02ccca8eb643b6d2",
+         "name" : "Il Pagliaccio - Rome",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJfWjlhURgLxMRSFnLZXunRYg",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CoQBdgAAAO1PifvDj1okQLqVYLNjGFvc-uXI52pwpDzvnIF_ekEQ4Y1SQfw-rMtKUUD6H8nvGhoC3mG2UQ9R1Fpvp3UWvl5z4hlFwKQko6H06SYTL-sz5nSVf02rSMU6YHnhs5c-iNb0Fm_HjhQj8hsbaTrT8iwZ-Wv6eevUtT8RmPdnNeVmEhCGQUBi4XThLUeie7d7Lv6aGhSj9dVPY5pnwgwlUkNl0chE3zma2Q",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Vicolo Dè Cinque, 58, 00153 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.890529,
+               "lng" : 12.469172
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "35a2b6f30432997bfc7590cb7580c66cff79dd4a",
+         "name" : "Glass Hostaria",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/111756381632303207630\"\u003eJoe Ouellette\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAUKitLOsPd9Oz3XKevzLviqc2bLom6VtA3VkpwIW7RZvKLK1_4iTmACCHvxhVOLw-vkO-_EmiIvDB7M28JYih1QHD3_dKcLPoarnLl31uw9IgJbZNVC3lTEIvWKvWvE-Cm19bhKiKYWQGfFYF9hNB9xIQGKaTCSNhMXRIEjPJI_6JahoUPgvrL-4VXSGDquBYUO2FPR2QJGc",
+               "width" : 320
+            }
+         ],
+         "place_id" : "ChIJ5UjGdkdgLxMRzT7K8LNlcXU",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRvAAAAIPzwhHWXTQ2RHDS8-rUHzX44CjdKerWBJDMxTDlGP99WmZgLbee-87DkdEGtJJViVq7kLP7V4TVUhbpVAlngb3mqxB3ndyCwvbiA5VQkKZipXdWXrimFj5KKqkMTaEXgYDot1MPK8Cz8Tyq90YUYJRIQEhnn96Fq134C46YEG61ryhoU2viu0J1pFEUtzXqfk96yGsT2Jgs",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Ulisse Aldrovandi, 15, 00197 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.918688,
+               "lng" : 12.484895
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "cf9157415c022110e99f632bc729d0f113e4989b",
+         "name" : "Aldrovandi Villa Borghese",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9xg4qTj5taC7Qv-ijFWBMIviq5sP96WtFQa8HEUkDdSL7D8v4bzHbVll2pjmBFH6MztCaHECQdL7sHdJ0TqcywDhmuOxUnXqWDGwWUaGPnGK4hPV8PZzFdHzPCmUMgZiEUJjOnvBJcEh1GQRJRcwfRIQnw4d6jCY-vdNlNwEefDKERoUw2VJTJHsa4xO-Zj765onrffVKcA",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJp1wwQB1hLxMRVVQOJirA4vg",
+         "rating" : 4.5,
+         "reference" : "CoQBewAAANwIeJ0D9a0uYsuMvNvOUz2J1jdnhbdSyGrTFfU6VxY6_w-aB3KwUjCEHlCAvXBpO3oG1phmNsqaPvmovmXLs6foE3JKr1t0yOGhBVYPr42SlSfxm52QEE5LTpzErmvlEVxNk2Rsg4sGOAEKhOxyJfPC8jtagUhvL8I7cov3f71hEhD4_et17ph5KVXHT2E7xUAZGhRH5t0sirL1Blo4vjGlwVDx9CQstg",
+         "types" : [ "gym", "restaurant", "lodging", "food", "health", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via del Vantaggio, 14, 00186 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.908712,
+               "lng" : 12.475275
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "517d05d0b067f472a433b5eea81838f5a7686cd9",
+         "name" : "The First Luxury Art Hotel Rome",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1179,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAgPMOFDE9gOjuUrkua37RHQkT38hlXtPk0DpjHuacrI1UBTHD9oKIThBRAb1WHou4qbYY5BoCbkKHGy48DetRnhK7rQtoacXwr05zlCcF4DE0y0qaPdIT8ue7qe5OcK3drB9_k9ni_6KsgmELZYEfGBIQBGdgvd5yFbM7g8hpl-rwthoUsyHeiI54jcVYo98uHamod4PNXHU",
+               "width" : 1766
+            }
+         ],
+         "place_id" : "ChIJkYnSJ1ZgLxMRinaZxWR9ahk",
+         "rating" : 4.7,
+         "reference" : "CoQBgAAAAIyA5bCfa38up1D6_vn2qlKrWjY0YsK1nItkPXurCzkVNKLptwwICxVVz5ZmY-a_8UYLWzbW4GqtyiR9uwEkeyocTEw_k-nxWNv-taf1t3UnDoBPJ1ErxdnXl119pp1c0bZeMhX_Lr0S93NfiH6eLyfYACZmsnwxGXsuGL2X0cCEEhAw7J0tNABYs9_eFSBbYnMWGhSLHsvfcR2Vo8JQMMsTTZPS6LdPLg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Alberto Cadlolo, 101, 00136 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.918865,
+               "lng" : 12.446504
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7f06071d60b9f53a3928967de29dcf8137d3863",
+         "name" : "Rome Cavalieri, Waldorf Astoria Hotels & Resorts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBewAAAG6El64d2MO9i9ESeO0iZrw5SK4F9wt6PDbrEmba3CEQaIB9Y1Nqre_XasXDEINZ33l1yTrAy1FvIdKZzHUAtUtt2M2_8pJMzO53-JFZeobEw8ZB2kPx0uKQsmEMblTuFgAgW-49AC3APLnR7Kvz3XJSjzHYWFbShXxr9iUuJ0P-EhBlh_EjREvxtYvHM_GU3VOFGhR54g-2H9Pj4YvGWbYcLNjigxncfQ",
+               "width" : 1079
+            }
+         ],
+         "place_id" : "ChIJHw9AUoRgLxMR5jT9M_JvJeQ",
+         "rating" : 4.7,
+         "reference" : "CqQBkwAAAJjigjvJRiBmrEButbx_h4XeqTNN1XzXjRLDaTWrdpMnPScXLh7vYupwqr17plxsbOXH_AaONM-PAeo5Wn6H61vCctpQEEoS7T5iRxOX72ONvjuakjmB8U-rP6ys2qOypg7DSWK5mqLGn3wIhheOvLBtLXLEARicIHsVZPyR9OgF1RqFvHv0rvnZpiDRpcnTUxf0fxzlN-34Edv50ikJPOMSENrYDsz02mghP8VsPbkZ2FwaFFj7-s--nMx6SNDxUl2smKGpjIQA",
+         "types" : [ "restaurant", "lodging", "food", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via di Porta Pinciana, 14, 00187 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.907919,
+               "lng" : 12.486932
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "51efa2a8fb1d5fe83c645d8f820e374d1a1e6a60",
+         "name" : "Splendide Royal",
+         "place_id" : "ChIJ3yLYfQBhLxMRHZtDqn639zc",
+         "rating" : 4.4,
+         "reference" : "CnRwAAAAWtFE0krtuhBFg_jmiK4gOL5ExJMisUjoWAe2WAbePfuWyYab5rl3Io14uQdGcDorF4XRq5l9QtIkoFaTcKUgXealbuPGzdfPitngITsQEW-bSfUGyL-69Yu5SwCIX8G97gLB5B4TlIbzew-ZPS5kgRIQE_zFnDohGL7hpP5LmQc7yBoUcEwNq7fPhZ1MjM82jTaeLWmxyLc",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Fiumara, 2, Fiumicino Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.770088,
+               "lng" : 12.22738
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5591e9838136b86dfece382923bf0cdb88fe77f7",
+         "name" : "Al Porticciolo Hotel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/110868695537688096457\"\u003eRossella Carnevale\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAFYztANEvRzbgv0rb9sExFyxDxQCWkCqQrzkSlU-tvmcG6uTBTFC99yhKdjDz389f46w8D6mNJT8VUrLt0FLjUCwSeXemz-xftEgGvJn0C5jiARBpU73KNNp2KWMLQl9v7sJcJTxf835FHyhvRSiUFxIQWFZ45z4xYbJpUhWXtDTiFxoUC806PEejk6WVZiSpTyrprQJSHEw",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJbfJ4EfL6JRMRDouOmm3izlc",
+         "rating" : 4.2,
+         "reference" : "CoQBdQAAAD9bFGRyp5_2nuLD_opN_uyyCbnykOwWrrhO0BA8PMWm5S0H8FL9r97eQlE53qIoQC49_KATfr8NebFeipk8WHyQ9LpyNDX7TaPi-qUgaxciyNE81OOL7K0jTUMn9hng8Bvf9Ee-zvTFUNcB5D9J_hsvaAwn7avTcmqwx_k8ufQIEhCo86JMMN13Sy98WPF-0flBGhR9X9K744Vx-4kRzFd8hJ9PoQ_1ig",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Monterone, 85, 00186 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.897821,
+               "lng" : 12.475633
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6218ab9cd77955975eef64f15101eb6c55f9b682",
+         "name" : "L'Eau Vive",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/102166399120704759492\"\u003eOri Vidra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRuAAAA3Tx0PkVKtnTzakFzBRCZmn6F92AD8MDz1VNRXlRONQ3F0xMlrKtdwDerPV8_xoa4rg6MCxXNuM3rnXiCSbcxFZHVF9qYGmm2dgLnUYtcKLNArM0g7DK9xcW46WK8Pjh9-sS28BWmcNzDr58IVbn-sBIQcn4nsJmp2g1zRCTFEogXMxoUEINEquzMm65sIVi3s_FPy0HQFCI",
+               "width" : 776
+            }
+         ],
+         "place_id" : "ChIJhYyBNU5gLxMRmN6zN_cJCDs",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRrAAAAuIyqgZsvz8AL36IEKmKdfq5GuYcsk1K-dyXD5lo7Ve4dZjl4S2Q5-gCw-Z9ywLOGzzXlZ2qLzN87RzoV-_B3zi429fTTapwXNeJDx419zxofYwtXGQxxVrbhNWYeplm1wc9sRSfvfgIvX2H1JBPbVBIQu3nB-Q6ercgxvTVy1N6l9RoUr4wJSS7ydTiEAzUHdc_al9WIDtc",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piazzale 12 Ottobre 1492, Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.86997,
+               "lng" : 12.488578
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "709933ab17d0a48af7c22148bcd3a7efaf4304ce",
+         "name" : "Ristorante Italia",
+         "place_id" : "ChIJVa9hxtVhLxMRvFrcvTKp5m0",
+         "reference" : "CoQBcgAAAPU0VU96KiC2VUiHxEwCc_JdpH6EVvU1K6orh-PnKsgtAf0PIA1qUDlrElIe5UPuy4SXNDmb8lPWMWIqRqY5kfQmzRKyrCRN23KSRFVVpxXxmyI7uBkL4CmIS3fDYXmtYoG7VETzSkbFjJtfocqNMM-IxrfCOr0va7lQBcJqp8EmEhArNKhzGqaNxqEgvzcDDHD5GhTvBBJPaL6f7-aT6cyNQXMqkhFrug",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Palo Laziale, 55, Ladispoli Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.932929,
+               "lng" : 12.104589
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b33237618ba8441d0bf3db31dbbc868bf683084d",
+         "name" : "La Posta Vecchia Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1025,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcgAAAG0WrMQ8eis9QsYJy90CilPT1qLzZcG8VAitBLGr2p2PyxjUU7aJPmelmx_V41jxtj6d7wt8SSASs15PQ76Ml-LkebekcPR8F6ZdUxgfoMuhfxKZ1VM7sx1hy1XkwGqiHJosf_X6N7GjqKmf2OdV8f52rEB-847YfDZfz0SoFDdmEhC4yHEPPPNKP1kXupMCvQjAGhT0mfWzBR5Rzzj6l6bfH3W8cg_19A",
+               "width" : 1025
+            }
+         ],
+         "place_id" : "ChIJe_p-RhJVLxMRKbHYbevgK4s",
+         "reference" : "CoQBeAAAAK_MAZoPNegDYzgUl6lZcKRCoHn7knHUZHe0WWsmKBYUABeiuu5e-hA3i2H_imdt_vfRWi6eVVMeZa1pfxNqVk_cX3LjXVblsDjJ_87iUcTPQ9uZKWYyhvCrDcxCOQKHZnXtF-IqJICsfJbUoTZ6M4a33H7zIoc8CQCo6rU42J4FEhCkj7lfGiNsak9pZeXEec9eGhRivJMqfSn1fF5arno7NpRhd55txA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piazza Trinità dei Monti, 6, 00187 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.907184,
+               "lng" : 12.48285
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b12f4889f6c5e5ece48866f92b5b038259b8bbe1",
+         "name" : "Hotel Hassler Roma",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 665,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiM-FsFCreyn2JBM2D9h7LFqAhpJe9XgA1nErf2NC-R1YlgsMaLwoluuzQPPtrKeR0LxXa2nGwdBkfSFL3WEWdh9lbOKtv7M4SrTAzpoRrh3N5G98YVcrY-Ly3nf_k-w0vS2lbj9Vv0BJN5AA6Z-JcRIQrDZiz9mEZjPh8f65p-em8RoUDW_nyoEuDOnSQ1_s0ToQbaAuDp0",
+               "width" : 993
+            }
+         ],
+         "place_id" : "ChIJW6tyLVVgLxMRZWOURk7ZVIo",
+         "rating" : 4.8,
+         "reference" : "CoQBdAAAAMUAPLjMx-1hCAFVMDIUcGlPyjS755s7bqporZAsYV8fnUqikYZcEw7pxvcQfmQUzTVDGePi9XS8CdMb_GHR3gFXhm2580q05KGVcQ8tedFP1p7wRtjgOIt_YqakuOHxtn5Ah-zDvgb_O-bOZshuJWvb6M0DtfpFRgH1TDb-YYyvEhAmOHWYaMz8kiRHrR0CvRb_GhSy-J-4HxbbpImTGCtl6Of7VizY1Q",
+         "types" : [ "bar", "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Ludovisi, 49, 00187 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.906499,
+               "lng" : 12.486374
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b7ad760b9b7416ad2eb9d5e0fad4bd19ee4d14ef",
+         "name" : "Hotel Eden",
+         "photos" : [
+            {
+               "height" : 852,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhQ8_a60uKpUer8BwfCq63jp61mXZxkSoPzDy3NUWIP9R9a1RC-J_49_oajYmySzQcsx6VOXuJaCNlGdy936X5uWcKwstDAHMFsso54hwWkmYIv58-UjQjWg4GPzdbeZDREnyLFlPnjaNEKDwkUFUJBIQw3FJZRczKI4vj-AFKMfHExoU9-u1ezzr_O5zFZ3RB7qP28Max5s",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJpduOjKphLxMRm7MPRmuuuKo",
+         "rating" : 4.5,
+         "reference" : "CnRsAAAAEVImUHTvto0LWIIsDLNeM6t7YcQ3zBWF0xzjlriAMa56BhMy-36ISz5dXgnhbiMBgAoKvCYFBW4cBnoUAlGvkrlNqMl0URoT9TEbWbA8gkOvA-xgBSXvUdKBz5_0cfUVP1yZTaZ6hY7h8M4J1UFd6hIQStZ5KuJvxftZ-7muY2aoWhoUsCzaztg-hcyOhCJIE8X1n9fGYTg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Salaria Vecchia, 02030, Ornaro, Torricella in Sabina, RI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.286278,
+               "lng" : 12.8669
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "271d2f9321a502cec17686edac1f8b1c9a2d318d",
+         "name" : "Il Colle dei Leoni S. R. L",
+         "place_id" : "ChIJI5qUzxemLxMRjAwjmAz-8bE",
+         "reference" : "CoQBfAAAAMf4RsQ_8ghYMlsTdTcIW7NIGSRPzOeF3ntC1FS1DvM-AM4OYKZ7fY6H-NEYKQEwB5K5JtA0mYo_RtIsJoXg3FoUzKYBCPbzig3q82U1LlLfRLMaW57B8mxFfZSB1bA2R-5Pw2om0Kt4_CIZXAlueZgZPf4_G7KL82w9OXCw4nJyEhArXUhQYBmA-1AzkOx_xrC5GhTdZ9iu14gIxv5Ux3Z1A-tODI7-Iw",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Vittorio Emanuele Orlando, 3, 00185 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.904031,
+               "lng" : 12.494977
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b5e17dba0b9680e51688df4c66bb505ed6fc808",
+         "name" : "The St. Regis Rome",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/107987899020247032478\"\u003eKhee Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAOnVOSlI9uty92Be3yFobzVXICUHqKirj5cajn3tpAXVxKjJVi18h4sSIOHrpoT7FHCkyAzOZ_0qT4v7Fik4tHskrMiF2MWNtLQaIC_a8wHB1zJiU3Yg_gYuylClMRWYbb5TbNPBHCxwpXJjGfp0w0o1ohpwoTnfN_lKa8XeVXCvEhC0A-YJI88o8XWIItRUSSreGhTot3L8HimpDyKLt8l5W0vbzrDGgw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJx2SA37dsJRMRK89K-Hte_A8",
+         "rating" : 4.4,
+         "reference" : "CoQBcwAAACYuX8Yqy5dJWX549F53zvs6PcuY7E4z-iMaoE1eQY8O5x27atNTzEGroc59zFo6TXU0OOymDjRgVvBPGOvZxzU2iA59AOjYMuUr6ZToXA_67hpzf-0exXj_3XxxI94Q8WL3EjFhk_YjRNMD0vFv7ZORVX4iJCK4ip7kf770vOUQEhDJWzVQx7ixHKFxyZie_xRLGhTqw9Ar4qD_eSdBA_YaYNElo4AERQ",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Vicolo della Cancelleria, 7, 00186 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89784,
+               "lng" : 12.47135
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ceb7c383d5b6068afe6d38f2db57f1ebeda85998",
+         "name" : "The Library",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRrAAAAzY5qiYov9fxVqdUjmrgd8rQGULlDYoLlsx8upFHskOu8zCazoClrmFP9qaY_rTcG2AI2CtAXW6attzDGjAMGP1tcy6xp5rP4keXhwD6-8HGEZEA4sBlvldTYh-ccWANpAE0qIHXCtlOsQhEqsNEMvRIQ0D5NFdoNXa4SuLRvSv2cDRoUIdVtH6kY9F0fgvcO2MaLsupT7IM",
+               "width" : 380
+            }
+         ],
+         "place_id" : "ChIJUbQSckVgLxMRupXzUqnqA_E",
+         "rating" : 4.4,
+         "reference" : "CnRtAAAAuumrh09GfOlz-w5g8e7FGWuBNvM45KX26iAUfX6GSYJI2uVsv0TL2hBBqXy1TuprL_k8WuPzsCvVUPOrhF66SWhTyxX2AGi5NgAK59JHFHpLs-BrGD1B2UBDhJFPRmsdKHpwNc1pPro5zn0bXx5eBhIQaVnkLbuChhlBKCcBs-XpLBoU8dr2Xr89lPZZVvDOFqwgNOXOeQA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Giovanni Antonelli, 2, Roma Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.922832,
+               "lng" : 12.48675
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "809b64a138542b26acb85c7ee7a1dc1d0531d11f",
+         "name" : "Ristorante Gallura",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 733,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/104929765914709031129\"\u003eEleonora Baldwin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdgAAAOU-glhTa4gNsTxFDhv3gHCAFt56lIFWoFOSVkCoVCTnICmTH2HoGxd8z8hNghKTq248yIeG844Y9tPfA7VHgO7Si-p29o9tERbCOFH9OIP71XI3k_iVdVmGylQAoSYc4xwzWX8zkgC-iqX58NKcW7setK6zsaMwKZYv_a0Fs8xyEhCqgGQSNLXz1cuNFcad60ArGhQBvymvYoYr6GAaS9ghTToR15VN-g",
+               "width" : 1100
+            }
+         ],
+         "place_id" : "ChIJMV3-hh5hLxMRgj_4O7AWeEg",
+         "rating" : 4.1,
+         "reference" : "CoQBcwAAAN0ji4yCDCcTT5D6OrZ0q9ytb3dQIb3xHle1XXHBSD2JOpF4clVkbwW7vogS_OJuvztMXlPFMHCya1Rgh1WHoIYSpF8xx27uzfi7DWQjExrk9T2ZIVbeeBl_4sc_UQz1xL9Srf03sId_zHozctsKZonBqR2WMjAjl_6mA08xpSCTEhBoKUKAwlpWjmWbKgXsIuvzGhThYmegDoA_-AB4EW6OTyIyg1KzoA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Diego Angeli, 66, Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.977166,
+               "lng" : 12.630944
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d109acb565a5ba52d1dd94b82e83737b2590b5fa",
+         "name" : "Raya Visual Art",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 120,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAATBR2ldpsbPS4sRS7lwYtIKznJHXzxZGjm2wkL2O3FAqdlvpvxEkZDWRCZZM59BoXLzU1ydfauNqkBfaaf6Fesk0ZqBE3z_KMVz_6BdN8ILoApREnTUvv1xpKF3r98oscTbE9M7UpXMwaEqFG4opqXBIQtF1gKTQvUtZoiyppHApqjxoUQbDDLjG4DWn7EW3KxaUkF_3LTfs",
+               "width" : 118
+            }
+         ],
+         "place_id" : "ChIJd-wIX9B6LxMR8u9Eavfvkno",
+         "reference" : "CnRwAAAAzEoGxw3GFrVYv_1GHscD8Eox23h6qv43YaWgTJq3AvuOmYnaJC-PEn3_-5KXP_eVYAVxhkmKs8dcLXexw267PZBXURf8ia5zzJRJ00asVqmFihdkwPR6vzO3qoLC4Ae1Tjq3MKCQqx_UQoMc1THT_BIQA5BkZlTaHlboLfD2-quBABoUk2oWt4gHaBlWKtvsCi9p_eKrTqs",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Via dei Delfini, 13, 00055 Ladispoli Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.941688,
+               "lng" : 12.086194
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4cad8a3dddb9ab3f106ed7eac990f78fd8550af4",
+         "name" : "Hotel alle Tamerici Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcQAAAG-vb6cE5wpN1C05XRdy25wtL_743PUlFp2TRPUW6IH--bZj4kJEyCisX9VP04l4eJhgr2BODE65-8xOGZkGKZ7_ZlYbyAcT1vUbvysavK2YiW97WQ8GIqEMABto-xRPog0I5OGtVFJ85oJK-iwajDJ5mVkWVi5ACAUwf_q-FNseEhCu0CXamPPXdzC3zDktZYuUGhQRf-5WLC4lIVNh942S-pYmszKvCw",
+               "width" : 1394
+            }
+         ],
+         "place_id" : "ChIJ0SlNjCRVLxMRahlphxh4VBw",
+         "rating" : 4.3,
+         "reference" : "CoQBegAAADCpvSGhEvjshT5RrdbX_QrXvalCm6PTTRYZqvr3p1_eS1NtrgY02yK9OuXX9b5RXIwFRnZz-8fDJkX06RNg2r3niPebXa8yZPwn44O8UgXDLPoriOx9oGg9f7nWLHac-tE1qbcdi3e2w6N3RUl52bBkKS93cIANxJmqDkY8KZ6MEhDHbL7fyQC6OcEiua_9lmLXGhR5THe9zIgJ-NXI5wLy_eYeBdVAqw",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

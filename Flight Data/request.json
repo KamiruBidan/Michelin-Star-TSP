@@ -1,0 +1,15 @@
+{
+  "request": {
+    "passengers": {
+      "adultCount": 1
+    },
+    "slice": [
+      {
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2015-05-19"
+      }
+    ],
+    "solutions": 5
+  }
+}

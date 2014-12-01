@@ -1,0 +1,470 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5gAAAF-GEDjU2Rwg8pZHg9cbsV8JdLwZ1k81Nq8k2LU2SRoaAWrJyfAg76_SO4CNXsno6bRHHgVEbi7BLUsMiE0JyRNSlH4XNGW6WcJdUSRJ2HeE5aRC-ADr1cSKqIjSVdrMCIW0t5hzM06nP-AfmqEnkHJWoALYICyVSiROoC3wlTZV1rE2lSwxtKRcCqI-F8VXOXYQEUdN_BA_n_cmvHyKDs5Jqiny__CHWKuUJNTShP5wfhWRiU-3Lw1SGi3LK8AzNaOTYhnmoVCmAYf3d-7v7MRY-7FJXYFV6HkB-YKEXyFgnuMcrw3nFB_e7kif-39aABIQYyxKGNFy9Ri_a3yevFJRjxoU65yr2F01y9KgN9A5eRPgGynB7jA",
+   "results" : [
+      {
+         "formatted_address" : "Pontstraat 41, 9831 Sint-Martens-Latem, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.004356,
+               "lng" : 3.602298
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e0b7d06dc78d83e219181039887c09f9c275412",
+         "name" : "Auberge Du Pecheur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 661,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJbihFrZ2UWNpZEMBJ23HswXoew_zMjW8DvVpv492gyNhsF-_2bpqTLB3QEQxLYEXhl5RCslzPh59s-mpfDEgOXvnrczjiqem-kob9YIEi_s0pY4l9bD7oBqzcLEkCOSqhb1W0jV0LdStyTwv2XRRbRIQyvOEPFXq4dt1B-7kHAl9uRoUgj8p-lFtXrwDatpidZELC1lH9G8",
+               "width" : 992
+            }
+         ],
+         "place_id" : "ChIJM_cyBKRtw0cRIfq85IfKO3k",
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAAOZlFgt_MEDjtF08M8Sb_bi2WR_u08Ke4_VQ37i1K9SyTRH7LQWNj7Z2EfiXzdXwmF3PsReGSEu_SX0DyiLr4JXqf09y_Dc2QW_Q0Ang6c-vlpHB81S_sNSh1LQAIsvrvbKTrb0OGYV75cgGc7eVYDy1nh7GJFNFwJRZM3PkK5ysEhCh3rjJ36HXlf27mkcF1yNyGhQ6vmAYKaDs2maGu-2RdTk_BMHCXQ",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Langestraat 19, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.209743,
+               "lng" : 3.232407
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7632d2bc6e64553615e8471b1882dc9d37f7fca4",
+         "name" : "De Karmeliet",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/107110475347863800398\"\u003eEric Vrielynck\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAXV_OmVtvohQT3nnBULhhQWeMnR5yNGi31Q4LzHRRkpdzxdm1toNLZLbVGoYkH3DUkkRZdpq79pCcxgiiACx83TPrT9kHxI-B5UVL1O8wbjX7XmcUDhs7aKsYg4PxRRpqRN66jgrqxgOGPiq4f-dQsRIQqlaisQwNbwl8jr8mFuXjUhoU5LPFadrQvaeaTZpxzSguzunZrQg",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJ08tRxshQw0cR292a7nfIWDU",
+         "rating" : 4.1,
+         "reference" : "CnRtAAAAP8Py7ipqrrNvIFG9eryitJnY4fTGzfBVSZuF0GkT3XgpWnYGfOzwDQE_h_srSnJmpvwaypLI_ZptFLa0WS3Nj1hF-CZMUF4LlVlH2sslHAgL_MWubZbKPu0-1RngqoMeaAhl7znvrXJ72UQ45i0AgxIQ9wqrdxw92fvUKkwyuzCGEhoUYIL44y_s_ouJ7VMSVulbkqRoph0",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Kapellestraat 146, 8020 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.144441,
+               "lng" : 3.245824
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4b1a2cbcef07c0796d3f77de01a1d637389a7185",
+         "name" : "Van Der Valk Hotel Brugge Oostkamp",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 682,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbKcqSITsObzAW6CQHVmw35uT-FGXw21iYnJEpoiMtcyW6_-T3VMzVVAo26A_Xcf8zpcrccs9ln5CgzYdzUhYbFfck_eSeHqpvmhDiaWP5t21oI1NQ69p6sM2p-2bueSsaDm9KOLWTSKOZiOdBP8ZIxIQii8QUL1QzFHqcuPw80kRqRoU9QcrggmTEOx_NGq8mWIVtZqbwnA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJk0lSlwVQw0cR-NXg40P4pes",
+         "rating" : 4.5,
+         "reference" : "CpQBhAAAAGculqYTmGHvn4FKyS-UVxSdsbNWWTLCl3lsBaS8vZ87qLHilgQ4Mo_XVBSDRHjj7rVAhBxR2f1Q6dF32ObEA_LQe3Or0VC0KQjI-Usv82bxYgDuAD5pZT3ZYvWYQuwZQaTOaugucDYKJGzyofd1fbSXq49oGXci-2poHUGzbrFMm2ElHiFCJlqpg8DSVEtDUxIQ5XPKFWZt9fCxQDJJcy6PExoURlx8V0oQagaUlrHjGdY5Dch-7Ds",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Dumortierlaan 127, 8300 Knokke-Heist, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.352518,
+               "lng" : 3.293074
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ca8a583c6be7f852661f2b1cbd5b678e55ec24ba",
+         "name" : "Hotel Figaro",
+         "place_id" : "ChIJYQjuEjCmxEcR21d71HRjXVI",
+         "reference" : "CnRtAAAA0Keq6WVw92Q_rc4aBZd-_bXLBDmXSNa3QLSCnOB24M0qRWaHQgov4_FpJjY0LgRUD2NaZSDClN_z6wPcict6htTe30_2mRP7bL9SkfsYqloBhSiY3tKG-T_zJpZQe6JMsN-NSaqn-v0cAcXPZqk4XBIQQKUqqU7B5mHHh2F9qTMakhoUXSQSBB7o3oHHCdk6zzCMUJccT1s",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Boulevard de Wielingen 49, 4506 JK Cadzand, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.377821,
+               "lng" : 3.38624
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "7bc43e2287b065a0e2c34898f14541887a98ed53",
+         "name" : "Strandhotel Cadzand",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 525,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArqZEQI5__jsayzHzXXmSZvNDT1WfR_YSXIc1M8xicLYsTz_FiUTQ_upDecy9OmLlGOUqlnsbeFAEp78_NYF9sMlD4M_pVwJRLQ1YmO8fXPu_UyWzajqL93VITvWPRdGOwPH7brg1xmTVc4eUcZGFJRIQ60r5xkJCLSWPaLbfO0tOfRoUx5S3W4W0KcFl9bx2CqK79yBR_V0",
+               "width" : 789
+            }
+         ],
+         "place_id" : "ChIJH_Q_PVShxEcRVfT6lBEb-3c",
+         "rating" : 4.3,
+         "reference" : "CoQBdAAAAN3v1pHhmKPtYtm_KcABXnugSPMNYrC82DTHD_o0MIzTy4WsWiS8ajTO94SAS50jxq_v_IvzqX1jwzKGNhKhe7wugh3vZPTnsWV1ciQGQYFi3tcMpjWKskO9oPRuaZAUap9_5Y8X6AdmeYkEf539R6gDKizPAnEdsav3XGPTi0HSEhBxtDoL_13F5SOPslxN0MmpGhS7VW6YrNRksjp_ktGc2S2l5Sxayg",
+         "types" : [ "beauty_salon", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Maalsesteenweg 2, 8310 Sint-Kruis (Brugge), Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.211876,
+               "lng" : 3.241739
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3821ad115d6ce5a3e840801547f6d7d1ee098634",
+         "name" : "Restaurant Goffin",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 998,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAA24Du2sXCLD7XCnqZrDvGyGLicGGHZQ7yDIsJKzI_pwJAKzB1ykMdZISMryHbmaiHuWYZKfXqMwivu7FnAXwMxQ_YbMEEQoQeVCcvTVMIcwWRDyvWd6g0vq8jua-t6e4KG7HYyZA4B7AeGyAItSE7BIQWZgLYgUJCWXNRqIqnMupzBoUpTG7kVs5nNNNH30z1vrW6lNE33o",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJM1e4kq1Qw0cRd-VL6SDO-LY",
+         "reference" : "CoQBcwAAAE0oPY0JSMvBcj8BLtxn1exgoqeIeILYp33zPF3781JUFG_yfwc1HoB0rDBhc-AI8xiHk-q-igZGElmzEpDByYw84u3zYUM4JgSthRBafmAVxS8W5juDtxdiqlJwUEpKlXC13vC94KUfTDGRIkWt_77x19ycN0LBhSoQcZ6KRKEIEhBROdjKaZ1yyRoxz84MIKkMGhRZw2YrmfDHY47Q42Jojlir2YJC2g",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Groeninge 4, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.204752,
+               "lng" : 3.225507
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8ed33a1939afa8154bd57cd38fe83258a0c3f8f9",
+         "name" : "Hotel Bonifacius",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1119,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdwAAAFErYRqbKUFFexEK1iivHdCSJhFU71ovZ35_TS7Kc5Qlp4i6TTzwey7u3p53FXo3YXiBi27OCbpixrPH7F-c4bPePaQpL9buV3KSHzbj4Bhlb88GgTnvP53R_b5qyCl3-Z0ttM2tN04QpXJU1tf6KqxkCHw-zsj9exYvFIMoPXyGEhBpGx1ILybBz_f9DutcvdcyGhRwFtl5Twq1mAmM7dATdL1aWd4iAQ",
+               "width" : 1118
+            }
+         ],
+         "place_id" : "ChIJZeKYxsRQw0cRJtsp_AkcN3A",
+         "rating" : 4.8,
+         "reference" : "CoQBcQAAADSWLN7vf69Q55p0bv30sPSFYMxmZl1S6JBOcZ-NULY84Cm5AjHM6XRxHNj6YREVrBHivehZeBmRGnKroNWDWNk-ulWmbBpvhMYB9Kq6nTx8OO21vx_g1qCkbTsKwXLZdk0YQhMwIqwWvMiejYIJADET7V18Iqf5T2n7ysLXDmbPEhD6L18hRhqbrFL3d01V6iS7GhTK9JyvcJacRjqi-rCePREedEMIbA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Niklaas Desparsstraat 11, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.210103,
+               "lng" : 3.22381
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3888b8a115667783a10624b9b5b9e7fe51d33570",
+         "name" : "Relais & Châteaux Hôtel Heritage",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-P_lQbCSOv7Sd-1zrw-axiRfJe71N2O_xqvrLBq9_2iBS_5jtDIMfg-ILMY9t1KBj-dwf8q1BnUpN7xANio28QY-D4VWZyAZ6lCdbYpg6Akj4A1qjaXRjAapWAfndMa9D_gPipbImP7K0fVVzOw2sxIQsDhSlVcqJd3phNsQb3sJXhoUccdzfo-OTnLvhmmd93IzG_8D36A",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJfQidQNBQw0cRi_-vbwQi_w8",
+         "rating" : 4.6,
+         "reference" : "CpQBgwAAAOj9-YcaFkDwIicffut6xertkIWC5hC_xZfPKdLFRiYl9pQbjVympo3dzzPizT5zZmQrQAqItNiSWlSSgTTNlUtGlyzaQ87SP4fqPqn0ox2jygGb9PL1oPkgbvz46eZ5t71tS8AZQUDwqzzw2kS4W1byFT1IOyrErJRHBTSBxHJv6el4eqTBeM8a_giBAqPqzBIQzDN8myaCjV2mt8BXrUhGuBoUWgbKMgYKoC4uYYx9whKCjJ5pc0E",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Naaldenstraat 22, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.210665,
+               "lng" : 3.222194
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "43f4b01abc5480c73f04aabbdd1edd9573942787",
+         "name" : "Hotel Aragon",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAAlKNYZ5Lx8R5rj74_QYK7v-5XeTV-r3VKDwRw2rEmJUcKptk2gjzgyzbeELaYAutsCOSlDam-xoOVDqtJuKt8YN-HG1FIFs7X5eD8cQhdRPZ57jjEP_Kev8j4hhCqveWMB07phTp6heOa4ncy0lnG_hIQHSHx41bGjB1DGzc3bUtH9BoUplOysZDVjIFBmBP7Zi9yyC-_7F8",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ-8DJ-NBQw0cRfTt97aeWn9A",
+         "rating" : 4.1,
+         "reference" : "CnRuAAAAec12uWcC4IUOqSPHniOnS6HlkdkYyMk1UkL1BjY1kWX039x-Civ2VLE5DgffpHEdXeNfjnmRyQ-iQPoaq0XuiN1xLqaVmPQA4zy1vytT50umEchCsmdX5k3XmVW99jQ8wGJ-tZ9UPAC8NwEnWP3FERIQ9kIYrpYi5Y8UcnzTP8fHbRoUnrJrBa7eCtyWCUWqJX-hz20Cdsw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Heilige-Geeststraat 1, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.205412,
+               "lng" : 3.222358
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "797accb8a82ce8ddf123a4e55ef167af97121607",
+         "name" : "Hotel De Castillion",
+         "photos" : [
+            {
+               "height" : 951,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/109318817128585783597\"\u003emashal momand\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAcoUiz0RdJeiAm5dsXRZjQWbPIO5ig6KuxF7_YdpMXoGRcObk20_ZfuRCPTvS-ehaSKS-xqRG9ub9L7xSwQfYuD_-_9zDGFGCVx7WAXxZNMIQ8ve31K8MBpUZeCub1LynQOapkULhfSYRN2xukA2DEBIQnPxk3UO6kw1aPVMjo9g-mxoUjWsaTJ-JeY4gQrxY7dRyRfB5NBU",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJxeEJBdtQw0cRAzIijkVZtTQ",
+         "rating" : 3.3,
+         "reference" : "CoQBdAAAAFrMUhASwgDc6o3AVw1WJxSzPh3yA21C0dxxGi81QdGlG62MqWrS8gYqyftZB9mo845recMSg852iOgFRIXdCToSIA11NaCbRRViFHNqBK8QxV8_ipKNk_e2IqhLFiZppxvVTgevd5aXcH8rqPOVVULmz-uqrdIvde-p8cMKHnq-EhD3CpoBWnBeeSBD62lXReUKGhRhv3epFq4nC57iQb-RrAn53lkvhg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Steenhouwersdijk 1, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.208271,
+               "lng" : 3.228369
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "95437822ee577a02309f3b80341b1eb1cec5d1d0",
+         "name" : "Die Swaene hotel ****",
+         "photos" : [
+            {
+               "height" : 3572,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/108211707858231512170\"\u003eJoris V\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAf6TZF8aCPvxbaqVWRaaoWV_lDerx3IRa6_YeQIkKOI4ZxsMVNdPgAhZrhBMW3xDnuVXuN7eEZyz-dwcerq6gYGBUQ7rxd1Ctu1tuhafWkS9yEksQFQDRee2bqKV9MMJuDCKozDOX3vZUmlBWz-5FPxIQ8VWF3cARqnhIpvSGFl37UBoUKfnLSxQspLqUtxzqrdW3ScWYd84",
+               "width" : 5358
+            }
+         ],
+         "place_id" : "ChIJ12jOf89Qw0cRykh-ysCswsU",
+         "reference" : "CoQBdwAAAJEmb8PZgVdO9L7RaMi8p3vKRi3sXMJaUUXG-nM6TebhC_i0HiEJDQsfLj-ODRUwjUx2PUvIt4FUPuz8zFJ_eOt5ruddtMbjcPwY-z9romVAI0s8fx2q4l-sJarh2UUpr_baeVnn9U-TLHwwXxjBOLbkQsrJewkEErBcAh6tAsRoEhCM_f4aI-Q8sNgedGmCN36YGhTEnCk2lodN1crEjAhoxHZ3xSAUpQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Walckierstraat 2, 8660 De Panne, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.103561,
+               "lng" : 2.592068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d371cbf085fd512fdc986e643e161e0089133d2e",
+         "name" : "Hostellerie Le Fox",
+         "place_id" : "ChIJB-7py-aW3EcRQE_PwTVX910",
+         "rating" : 4.4,
+         "reference" : "CoQBcwAAAGaHIfFRRyJPuGBRD8l7VoBG_K2Wsic4m01lulu9jZgoKAwYbw2BhS_RIsnqc51QcjqZRmNASjSDinTkDZvqQc36weczz7iFtO966NnaR-EWhPV5DT2Sm3YX07BOPhF9UuK_BdhHQJwgxrYRWwJ4ceNO6yG0j7JvY-SqE-ma5RH-EhANYFbeMR4A32ZYNfKXmFTHGhQEFL9UiOUImZlDaQDelL-_GzvvCA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Boomgaardstraat 15, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2101,
+               "lng" : 3.230195
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3367a36aead41d22f023550e53b3975ca9e10895",
+         "name" : "Guesthouse Mirabel",
+         "place_id" : "ChIJ45sEPc9Qw0cRDcnkbccfNRs",
+         "reference" : "CoQBcwAAABLkWzsSvPpeOs1GylibJFUAMNI_fJPeow0h_GpOtFdDeJbBuJ87TnRfLxpCbTypx1lQhy2b_hHvB_lG8t60Df-NFgRN04uIInCJFJuDGJMJ16I0Gm_wU3qP-7xcTxke52GwLS5Outhh4ZikYlhhlcxV36ySYbGu7ga8_nSiwREKEhANoWtGAsuIpZbmlsQ7s1EgGhT6PERmTTgF7B7Sf_Teu2fEKPa3uA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Stationsstraat 33, 9810 Eke-Nazareth, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.957596,
+               "lng" : 3.639124
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55fba0a8ee2c78a2e79116bef3e2529daaf09519",
+         "name" : "Lotus Root - California Inspired Cuisine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 520,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAE4zmAKV6TNwWeFtqpoQ1yCI4P_ZkgGSt-S-URJbmCMVT3LJAWTTkysi2g8apXfo1cM5SBWbWnIQXXwyDYeqWota_bDLaAOX37cUYSAyjibPqJ0rAS0uaY8EKJKyTpf9nBDuPV7QH8nrpQ8iAnTQXnxIQnf7pe3EawVRZm-WXC5oeKhoU1ffFEBLkqy5lWiPrco4POWzUBdg",
+               "width" : 390
+            }
+         ],
+         "place_id" : "ChIJzaVTbq1yw0cRqqN4iUMSBUs",
+         "rating" : 4.1,
+         "reference" : "CpQBiQAAAHKR5QG_8wxJU0A9MGHz0lIuZRXwZjn7a3j0O3IPpRHAB6bpJRG8yYUA9wEFQXqIhWyYM8WJ7oefIVHbXWnEOEOPB6S2JuNTnkTeeetIINQGW270OXW8TyFWF2gu2RR1CvBdb9wACQhM7POj_pKvn7Ib3tBPzAPsrSSWy4iKTol6pw-d6lAVUiNoLgCi23nDPxIQkMSod-6d6jZHNykTlqxD5xoUehpkmTQ8mXvmcGCJLlIiNw_fPXI",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sint-Jakobsstraat 41, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.210348,
+               "lng" : 3.221193
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "afadda350356d0a822ab44ce5a9810b51666b96c",
+         "name" : "Hotel Navarra Bruges Brugge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1060,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBgwAAAIpr04sBReaOS0Zi4jtw3-2LOyBNJWLVm4oByBpv6PHqWKHvhPmN4sce0Wm1ZvIXWWAtRcQgLYXXd-tgsLv357Ina8xrXThIL5KbnqareUre680uhIugP-n9mm7OjZ0pOM2ALhi_Ryu9UMmfyc_rj-oO3bwW1EnJk5DCYRl3jFhjQLxzX7UFt3UT425V4Fy-kRIQEAAWDR74HqKnoeZOMyKN4RoU-cg1AF10L2HlN7K8PspoQmeJDG4",
+               "width" : 1060
+            }
+         ],
+         "place_id" : "ChIJ-xgv79BQw0cR1Yw3wLynY9c",
+         "rating" : 4.1,
+         "reference" : "CoQBfQAAAJa8aGgxZ7q3T3H8qY-7qksnAqpPhzTqFshrilkrjOJjoL1f5sWrHHfRcQAmdhM35JXNyvWlSh1vtGPaB54AaxVo8EeM2Zd5dsXfHQYLOfYb7tvrusY2dtI3N5c1YAKhIQdAUZRAUAdWZSMSiv76y1AcJPQ6sALqTuv3g9jpIusBEhBF-a4kKq8utYLnQj2ESsrzGhS4i_F_yrdyAQaTa4UIuu1YXk6_LQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Ganzenstraat 32, 8000 Bruges, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.20892,
+               "lng" : 3.235085
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bfec14fdaceb2668b00572600137f74cc4f71bba",
+         "name" : "Russell House Bed and Breakfast",
+         "photos" : [
+            {
+               "height" : 532,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARYknk9OC7cPsyW7wi6rxPmTRAQFO159LsjfWykE0Iz_bkvX4eeqOhv55bnm2p74c8AJ5v95oQadfSXzvlVrf0hOV1dJpYTITtG3xg-i74S9EE0cwh97U2v8wFMwdu2YVu4n38l3ofqGGvctso9N9LBIQCfj3Mx3RIbHu-AOTR_eS1xoUMDNHhGYNS3jp0CW5ClRjlkTN-U4",
+               "width" : 710
+            }
+         ],
+         "place_id" : "ChIJ1WtwZMhQw0cR9XpccdmOHsE",
+         "reference" : "CpQBgQAAAP6H2qyCfsnI8Qyc0qFsDMkZIrox869ak4Gd_r3yGBhKzXDf2aOBdvMaWSdgmM_rZjEB4L1VCTw_LgKPuEroq0d1ip1begtRb0Jqp79K2ORBlQuThkByOGWLjhjqW5hbLECeK7AnhmPivWf9lRJebU3JR9z4l5tu6ZV4cfBHRvLMOsoNMb2P-HefRQKnCPNzKRIQGeFCxwd-lOjS5Q6Fi42srhoUiPIjHvqUMB8YANtY9WaTgCXQnZQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jacob van Maerlantstraat 6, 8340 Damme, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.251846,
+               "lng" : 3.282421
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "868797cace858113a10feb18d69df2407a40cf2e",
+         "name" : "Restaurant De Zuidkant",
+         "place_id" : "ChIJ7VDTVs5Zw0cR1l8QHDX_BFA",
+         "reference" : "CoQBdwAAAG3znlZrqYHWfbeg2r1AEmo1yFo92MiRhAUmQNZTVjuJobdPpZpmiqO38d7nHEYIACdSqzJip87909V6Gpylfm4eo2Yj1pz1Pbvsk6NU_3VUf980QNcYAGIS0PKHa_pxzKBSp8u4hBcMMnCtwtKY-1CRm5nEYylStPYAQEJrULi8EhBi1xctnJCguDlWZUEgAf0rGhRbitJhPdHrlxPFprF9tnmIGXLiaA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Onze-Lieve-Vrouwplein 3, 9100 Sint-Niklaas, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.165571,
+               "lng" : 4.137355
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e720cf61dbc9bfb00267c4f08ab3b8c4dead3142",
+         "name" : "Dalmacija",
+         "place_id" : "ChIJqY-RnpaOw0cRxCwWwRhCLRA",
+         "reference" : "CnRqAAAAIEDPo82UU5jt-rdaA7UAkPd5Crm1z8QlnnwlTtM-s1e4duQUPY6UjQ0TPg99xswh-xt0fE0hPK7YGrmoIyqfY2DiRoYQVuMvfxxpj9IHLpvRzvwM3abuk8gvQitxrrnpRfa-foPp4d8Pirf5mxvAUxIQ1aehrqHLOv8NiMw_5xjgcBoUGDjVsNR3uO65IIehwSbGDtHTuFY",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Riemegemstraat 1, 9770 Kruishoutem, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.903648,
+               "lng" : 3.509724
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "830eb5a285e7fe5907e2a403d969adf7e00ba4d2",
+         "name" : "Hof Van Cleve",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAADbYxVZ62L2EYmykajbe0IIQfv5ooUP0O-hdLcwVWp-Wq6DKfzdHj1QHdHN-b-ZqZVX_ypkkoRIeHFEcu3J4wLeKcdqYxB1fGhfaLDuENoNmsTrCA7QqzNC1qhiI4MJREGIozi13lBU1SfXa4LJOY7BIQIMVhxEhqPBwITfhmsk0ScxoUIID6b6AsUUy-XnuslS3aBFIk1iA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ6U6ntWgUw0cRZrq8q_ohqUU",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CnRuAAAAxmYmJrEaU_P1abrIIAD8t7NKRiInOau_x7_aVYJZrqhJfmml6oiQEPgjRX0A23mLB8eMKvwIbZvk5ElzFfSB35Wb51DSQD6Pns5UJulFMJ_WyKCTT_W838DFyyCKcoz5xEhDfGOnYdhxC82EV1uZtRIQzqtArQY0Ot6uIRP16CEaUhoU0Zx9pe9DdwZwtf0McTO6TjibpMc",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Kaai 1, 4527 AD Aardenburg, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.273724,
+               "lng" : 3.441791
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1c0cdd2860002dd0918035519bb551b194d6b532",
+         "name" : "Appartement aan de Kaaipoort",
+         "place_id" : "ChIJo8d3sL9fw0cRUf1Al_i55Vo",
+         "reference" : "CoQBfQAAAKz83o5YxQzIIkrqjlLS030TUkBstH_wdfSTi7ulAuV_SpgsO-uiS1FRvsPOz2s81dXL1XQbSvaTKxZrzS88PzNGDXAwm_Eua6D5DjhZr1ccyMPKnSFvmmF35OdUeeGuwl-Sjz6rcDc1H8bwo6vKrLf6Maas_6t1JHqySRHkjG-4EhD14lKkeuoQzvG9tNwVy9ktGhQmSrJAlloiDUCtZr7SupDN8LJi_w",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

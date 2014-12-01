@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Norra Hamngatan 10, 411 14 Gothenburg, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.706226,
+               "lng" : 11.962368
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8ca81479d887526a1e8c2e2929cbcbf2f72f7d2b",
+         "name" : "Bhoga",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJT2LYWWbzT0YR_MDSzuwXa6o",
+         "reference" : "CnRnAAAAKme55pABrHk4eQi0ZW_2oiYpKcI4WBOlcVrZLxosPKMFF5addn4xT3GI8QKT6jmt4VUX6Ad0w71bMFwR1Zk9L3pCZaOqBFVtaEF42WqQ0v_wq2beu1QU6iikADz2Mz31uj8CagfU8KKycZOn_AejshIQveFBeG7yM-AIi3B7kRcWHBoULD2obFCvlcIky2NxEFsMpAijycM",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Skånegatan 33, 412 52 Gothenburg, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.697688,
+               "lng" : 11.986352
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc3159f30a5cfd5f1cc89cb2b7f58a51be522233",
+         "name" : "La Cucina Italiana",
+         "place_id" : "ChIJLURKSHbzT0YR9DuLi1AyS-I",
+         "rating" : 4.5,
+         "reference" : "CoQBdAAAAIRFTX0UhJcIDtJQeDEMqsgsMIXONmss-PWPhGoruLjYTY5I-9phLXNh2CIs3xM328t4yQGhLhYL5MCSi8D2VtoMhQqGWAnPEBssNUCTzGMTKuVLqMd3V7b8fTd65wZDtEvkK4rFy9zLZPq4HbuCuLO7VkQOg46tIlg9ahrtCEZ_EhBli7fjcTS5kQc4cQg9PDfOGhR2lsRnsChSpJKshwW8WwaErJ8qkA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Södra Hamngatan 59, 401 24 Gothenburg, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.706861,
+               "lng" : 11.972829
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "aa4fc3e735d78dc263c30524c40176c1d1a424bf",
+         "name" : "Radisson Blu Hotel Scandinavia",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 183,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAqHIhhCyRhq3UnL7MjO7ljJnrZrvnuQcfHMhWL6narh5BvC3_sM43r45LGLTqkg4Ool3doQrW5qH5hwgggiF0jUKUkGAKNl5z80F2-nz7EQZ6vaCp7eOmsYq0ausV2rzOGotDVn0tLJOrZZ3i67AjEhIQxBrBbpGwM2ZkZ2tg2GTF1RoUdNusiHv-FgT1ix-PgXKpV8RQDPs",
+               "width" : 176
+            }
+         ],
+         "place_id" : "ChIJe1eFlWTzT0YRMH2eHpkwnhY",
+         "rating" : 4.1,
+         "reference" : "CoQBfwAAAI_VCXa8Bt4tdfceLUSC-5MtzbBlpnyvPEnbmgzuzsRjnJwbyogf299UW6CiDPYbrKE0qcJFsku-H3fEogoEbKSgyAFuKJ1aFkv_5xgk8r7m--4SX4Lww3R3DZ8h-_9c9TUvUGgm8D6-0AYczYaDgp73TEuA8cqP7AHs2hf00sQCEhACSMbriDeGepXVqZiJxoxTGhR-lF1XcaihFsqX6P4vkSXi3RiHEw",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

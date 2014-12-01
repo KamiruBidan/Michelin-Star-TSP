@@ -1,0 +1,278 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Japan, 〒600-8494 京都府京都市下京区 四条通油小路東入ル傘鉾町52",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.003831,
+               "lng" : 135.754559
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2a996018cde31ee9be3b0f04a74cdc5a332adbdf",
+         "name" : "ホテルマイステイズ京都四条(Hotel MyStays Kyoto-Shijo)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAC3Jt741X1KXMEfG_8L6VCOUG25OUzBpV_Ve6aznXExZ1dBcTHsmqGvbaWjPWmHT4bsIIVfL1tvl9CM7nN89sdriysWyvtUXNI555SdpFxe4BFGL9flEJ4inyvu1z-s5uOiTi5ttaSA5OmpMDyohrzBIQ2ypIYBYLQEe13ePA57wNqhoUg6i4c6ttQws9uaxTjKbx-jxfrww",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ7VPD35wIAWAR-9VNK7vqn6g",
+         "rating" : 4.2,
+         "reference" : "CrQBpgAAABTqqE8K9iWYITqMbyoqMuiXqXCfwgLgCldIs52DnG1xcmc8RqgNc2OckARQX1ZObmOWAkhhnf5_DxFhdOT1inxGR-e2Vaup8NnilZh3Fsx6XuPr4I2e8MweiLbNbJzSehbfYvaD77tBh1_6sZtiTLsiSie46fBKgvf1iA2eKap1HWt44TpRNjnLhstpI0dhwZN_gw-zoVRpI56NlBtxpWrOfjwYZoJG6_FEjAM2dvU_EhAVd_omAWD_NMhWgAPw3xyPGhR4vzMBkduFeRtVTruRKRLj93rwRA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒605-0825 京都府京都市東山区下河原通八坂鳥居前下る下河原町４５９",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.001531,
+               "lng" : 135.782044
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "54dafbcc869dcdbb7d912b5d8e5bcbfaf4b5adaa",
+         "name" : "Kikunoi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJB1aZxO0HAWARuDAKNcbp9h8",
+         "rating" : 4.6,
+         "reference" : "CnRpAAAAn7Q_S8cnVxN3nvl346dZjphYN_BSLrJvggs9G8i6k-Q2qgaLomU039V6qU8qFdBsWXxz_pSF6MveMlUiEpXA8l0YA5smCmQnoPLa64U0BJV4zIGXYanI0Rdux16dsbBqNwBIjj4I0sFiaoJz8DNgmhIQOmMeyDIN4Oz0mS7iPsmrMxoU3IxxAEL0SPeUewR9sUNNUDz7JXY",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "11-2 Arashiyama Genrokuzancho, Nishikyo Ward, Kyoto, Kyoto Prefecture 616-0007, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.016544,
+               "lng" : 135.666582
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "5c1d09c397a1b51c2ae2fcf8e848d563566de098",
+         "name" : "星のや 京都",
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0S7zK8ENpDfIgPgSeoEC7RFIwZVI5t_r0UmfWz5a1h8kSOEREGaoajat9qfQ6IvXzcLhHY8NlZuso8uDpondhz7oxQEjS8OxVALUxUbTs9h4lMiJrBIVEyGsJve1RxQhOydEzBNV5Tlvdn6yl-nuuRIQmTKBN5zgCdg69_wHf5ZOrRoUpdwJznOdR8Idaqd0JXNADM_Zs5k",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ9e5EmAWqAWARpQEhPRuq-Qw",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CoQBcgAAAOdh335EHLsnbzFygKYWSWbv8pjICJZcoEm0vnqHinDSX6-Gx5SAbpU3E90C5DMJ_n5LzPqaZqUscfqZnz0qsF3SLwJ2iQ6He-LqSA-it2goXyV1pKH2n0Rj2BYDVEjVVD0Qc5hiYG8lE8eVbLvLuxkPRYAxJIm0JsDRpJ-hrN0bEhAG66qGiA1wNgMcdsRRLCr3GhRSGyFLADs70uQRUldQN6iQT_4D9Q",
+         "types" : [ "travel_agency", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒602-8071 京都府京都市上京区新町通中立売 (御所西)",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.024346,
+               "lng" : 135.755898
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a8f0486e3e9af9ea193488443337f4dcac0678a4",
+         "name" : "Kyoto Brighton Hotel",
+         "photos" : [
+            {
+               "height" : 343,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoZWko-4GbczsAxU0fTPTHwgwgbRTifuvwMihk9LFMWAYMIoVWUcw4Ss0S5pGF0MGsiOYfHPribdiRRDEsI1Us2KcZ7aZ3quWFJjTefNmgQuSKQK-oGdUj2JgRZv6Cjvsuj2_APOD7pUkZ1auY3x0jBIQTboe78xcwA3T4Cl7tRCLgRoUdgG-hOuCfzm4VeA57NHiiz2YutQ",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJSdpNdnQIAWARDdhcmpKx0ec",
+         "rating" : 4.3,
+         "reference" : "CoQBdwAAAALTRRbPOLgCjqA8zxPe3G50ze5VdxQpJEohGS10JPz28eAz2514ijuSXgjP1v9CwmF3I4Sj4Cv8jSOaIheu7xRzEaPeXSH_DUO8m76Z9StyURhnBqadOyX7J0cMz4y6g-Tz0MVUCpTeQw7UNySwzyI2uqe9tcj6yNmoBjSSdCRYEhBptrWJopd-nxGKJv-0v7kwGhRHosokVuMf4iWNgHKoy9vkb8ZB8Q",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒604-8004 Kyoto Prefecture, Kyoto, 中京区三条通河原町東入ル",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.009075,
+               "lng" : 135.769507
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "de3d5068f5cc3797388b3da6b7af24f72f55f4b8",
+         "name" : "Royal Park Hotel The Kyoto",
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/108908939676421230477\"\u003eFUMIHIKO INAMI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CrQCKAEAAEL6LHmZuYCW1DJ1KiqPL7kPzuHmU9QMrAE5EXFI6zTlttGhZl_eZeW_Dy7vXXSb0u76L2rymPxXMVDmx-nd2cQyq06-VkZc-LGKGC5OV7m_RtDnnvkIFjYwrL12md6x-GGBk_MaUxp-1GNolDbYCikWCFLdKPKY0fqUWuoONqk-9HD8BcUjAIYdXn-aOgY7mhKsazojV120EodI_xeICWAy-LBWBCDuQw9zy16yGl7iS-klJcE3G5TUhW9mFARglLAozSCJoCnUlattcF1_DUEgwjL93Jg8-oT2FgziV8aMdG_rXRUZGkwMuUvi4b_eZ0XHpa-BB5MbVmtZEfKUSXd6kzhUYaBACo07FVbO3MbCemA87bJZPqyA_zEVbG8ZdJU9w011k0hVZg8RmUxUGhkSEKgJFHBXoklHgQRpngZ7NjMaFEy-AeaP79NXCUf55Qdc5ocCuX2D",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJydhUfYMIAWARxxNEt8I2cqU",
+         "rating" : 4.4,
+         "reference" : "CoQBfQAAAOthUshmbmNZ1NeI5d9vYd6fHW7QkJyh1nZ2GcT3zrpUhNFUxXRZTItxLYKxKYryIYq2hfqaaYESpJ-9Rtj0enCUKr2Nl_HcNof-XUGAtlUuePLGcAoy-FiH5337yynBkUg8vfGNAwDk8vI-Si2MSnljQatNMDPDISIum4ZXintrEhCrM99mcFxxOukkI5CivVATGhRff3KSOC45Z8twl54hNrY6cHuKPw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒605-0073 京都府京都市 東山区祇園町北側279-7 四条花見小路東入ル",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.004098,
+               "lng" : 135.776164
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5b1693efc477f319e2a4a5c148278b0d4d9d101",
+         "name" : "祇園なん波",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1662,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASvxovy5oRUVot-33OYs1v7rtMMRHUs0BkHW-lS4YnLfUkEbzpIdMR4mkdW4qNSBVGnrU5AoWbegUyyNzL_K5ZAvs7PhPMdyCdh-9HOUPw-sca8Z2Z9w4FhPZNE_qbbf8ksGaE1l5AnknASkVygKMmxIQpWjw6231ieTusKypEQBTyxoUkpxYbYto-kueTgrtZEQh6w-xJmE",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJO7opKcIIAWARkoH2tY0jk1E",
+         "price_level" : 3,
+         "reference" : "CoQBcQAAAMbyGsRDGSoqbivCCfhDlJ6iwFKRQ3j01LRoW6xz4rcTZFlabOh0ieYVUwRGGMn7EdBamGzsG6-giy49DOXhQdxpRsdpF6i7xGWqzO4IC1sXAGgpW0GodxHjLkS56iIEh-pJsgT3GSaxS_5nxZGXjq0f0YRIQ6gqp7O2r4DTVLoTEhA4Ah-pwlvwfS60-63vA-_lGhSGTZIfxIAh6bzRd7pBVy_8veaMog",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "69-3Itsutsujicho, Chiekoin-dori Gotsujiagaru, Kamigyo-ku Kyoto-shi, Kyoto, 602-8446, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.031297,
+               "lng" : 135.746986
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "39a8b0d08fb08859eea32ce515faf571b811e52f",
+         "name" : "Soba-ya Nikora",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJp0V_LeEHAWAR65kWi0fD8M8",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBcQAAAEG47Hpu4kj1JB5WNZpWg6uF3ue-8Gc3Aml15zbwURTn7OG-1AjTkFBeVHmOM5osF0UUWUaCJpEknf3YbSWw8gPdP3oM9ehhTrFeFUNfKeIrNlYjYZm1nM7Z9cBxjJBIOb9CS5RdjdE-fby_2nALu6wFtTllmswC26UuvsV5U3vsEhARY_cNhQEdsl2FIVrtLPUjGhQAXUDEtSJR4Rm0g8XeCftaIh_khw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒604-0995 Kyoto Prefecture, Kyoto, 中京区寺町丸太町下ル下御霊前町640-1",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.017036,
+               "lng" : 135.767071
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7fc644c73faf3c661beb8bd5f2fa3f6b9871d26a",
+         "name" : "The Screen Hotel Hotel",
+         "photos" : [
+            {
+               "height" : 1371,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAN4rjYpSPNDiZBlFcqBgYf2paALabgqg8pneDBOmhItpWK_MBgtP3ulaIWYpOOTamOvEXT3U0YtNCpijHiMi5o3fhUclq2E0TTvKMtGr7j1EdpKhjVGbfoVizKM0Cpv2DSJgexSBqoRlzCA8BLDYUjhIQUi9YBZ0POH9h0BHOZH-9ERoUPLZsA8iZQFcihbDgZFSxZDUW3Ac",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJXbfSzYsIAWARSAnTLGqonms",
+         "rating" : 3.9,
+         "reference" : "CoQBeAAAAJvkeUr_gTBbEzKIIX_WmP3GP9WjBGvXt5HJCG9cOIULE9EObyQkBVL7GUcLwZrsrk1DgbFOFiFDOuR8N363-0rTX-E-6ktEhg_3I51lBW6X_hZLQGbTXEPyMRc0uv7KhO6FiIVELueA8I_6hAWZaTCR1R63yssHxyWibYwJqODcEhC4S4kdQ02-K_PhjqO_WucAGhSsm8K99MUUTS2h4rBeIU1NCGGi-w",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒605-0812 京都府京都市東山区東大路松原上る四丁目毘沙門町４４−２３",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.000479,
+               "lng" : 135.776676
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dcc78d9a15fc8649d9663a9bd3bc54689757d6a0",
+         "name" : "モナリザ",
+         "place_id" : "ChIJ0bTZPcQIAWAR5TZ7MyhwT-I",
+         "reference" : "CnRvAAAAcCBiKjcKmbUdbSiNgAI8iFrYWA3b8MCrcNvwSMUtcEfb3_iEPK5SikGCRSOfayS6Sgbsvsh1_1Iaqht55hbj4j83_TlLwAcjBCeA2HLDZgTj5giKXWdcK0VOEr7iZutNrsDwNt-McSxcRSkv9m7dJxIQ9rOZJiAQMbcusTA8I_EHRhoUhgIdZp8590ohasdHwFgKp5oUt_Q",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "137 Wakamatsucho, Nakagyo Ward, Kyoto, Kyoto Prefecture 604-8011, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.007499,
+               "lng" : 135.771224
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ea4a304e09c36b957b18da410a8d9818b96a7f48",
+         "name" : "Misogigawa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJW6SETesIAWAR5RKHlmG5Cj0",
+         "price_level" : 4,
+         "reference" : "CnRsAAAAzNnjle4Vv-a5gUeSHrHK3Bq176MTuy9h0kZAfgEtN4gm6ctYQu4YeRhZTGg9HRFob9fZ0H70XDVH54VSUJZI6v5_zN4pdyMcj1q2qt9TmBdUFScqHnkTiw_iZAnKfW6ByL8C7iAFbplpx7tLWbwFVxIQZZS0L46_-Y4XiflgliV6ZxoU9LSQAw7ge_An1GSuBu1m4LeXzlw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒601-8017 京都府京都市南区東九条北烏丸町９−２",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.98164,
+               "lng" : 135.75997
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0312157c4a2a3fdc0e0669cc6b7daca6ff5afbe1",
+         "name" : "Daiwa Roynet Hotel Kyoto-Hachijoguchi",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/108571149691691705490\"\u003eMichael Butz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAA7W6VP2z4eZktsgs417VxQXxSupjNxj9s_LfZ3OvC1F4P6aZxTKyoJLhjGAINRq0hPfSkPo7uoH6WvkE3xT4g8FPDlO_edBug0Xz6Iubl5p15CfBNO323fV5lywXzJj3ZAcu2BWmEb4cmv6a61zRHOhIQ_KAr6_rtNl2-fGtrSINXrhoUKLlAAsM-0gORHo7qACk_eZonU0o",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJ-aRTPK0IAWARkDLcRbtDIsI",
+         "rating" : 4.4,
+         "reference" : "CpQBiAAAAHhStTU0XOY2kMBQV1fhW9RbIQ0T3n07Yu3eYFsemuvXyrLlRUwnxi1JMXDZIOupGPRNvNT9bEco4MtEUjCmv-vYhgrD01bmi51hYtR3fXtkMQaw_FCuiotdekmzrrjZZviOC9YVfIp8YXDuHniEz00uzkXn0Gt3E8BwtnNG6DAp2M4XdFiqEHyHXQsCfuB9rRIQVQndEn-FNWVK3D2QnY2zcxoUHlSD23-jTsKYR_hB55YYGOkVGGo",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, Kyoto, 52 KASABOKO CHO",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0981,
+               "lng" : 135.719
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3e03b136959a2a9e3b94be066443c8930b381ba8",
+         "name" : "Mystays Shijo",
+         "place_id" : "ChIJMxzcMtGoAWARNCEUvEQ7ay8",
+         "reference" : "CnRvAAAAoe2Aql5ZWSaQ5OmYSeyG1P7f4MvWNrKky1XYcKEjhY2Zre6Oaia8Mi2iWfP6pS7iH9dAhMdoRnztsoaq8QHsLWRcme1XcBSF-_grW41-psZ8Ox-i1NNM_pY3ZNU2k-CpwIZmpsoq5sk0VV6ArVroLBIQ8G_cm0h5Zh-Og5fxpVKHnRoU-gnWU1GuGjnzC6q2PNr1M0siQSQ",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,516 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6wAAANZavca3QtOm4zgiLlZzcY3OpdcYmgU9sMBCODfwmGbhDRcPgHTx0YnISZl67gMTQiVtHpnDF6oOlkqfOS7jRduAkiuAuLvgY9hg8PvZQu5bZyCY8BCZrRubdtmnGEti4k5dqSxFszlZjDTdDPxIwU1GatwklSw2E-CYOngwHJXUKxWKxAqIRzMAesDEMdgQUq7_dCcEONkkqFc7tpauDLXUNRJyLdlahnbmpCs_kY_rYLXmtPCryU8lg69eazuQUKlpUgBBCmAW-xmRits6ayusW-VBrFlDjTw_PFcARhCP6xegd1712YhwsPXK3jV2lRIQnkGRQaDLN7MZgCvDMXN8IBoUotCeXWEqwa9xMao7oLIToW6IZSw",
+   "results" : [
+      {
+         "formatted_address" : "Casino Square, 98000 Monaco, Monaco",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.738794,
+               "lng" : 7.426954
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5b7a880767f5b12e10269ce99b552dd4402d90de",
+         "name" : "Hotel de Paris Monte-Carlo",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAtWDWR9hg9zu4qIqtzKD8CPTAXh8gmbOT4olO5IzIUMFBEPuTdPm5EF4tSZMbWo6K7jwTud8akeDV-woz685pvk8YkAhfSyK6AlvYCv44mk5Z-razAaAeRyXt2lx7K0KGVci6fGr4CjWQG1lNhM01XhIQErrK_8t3hrulj61NxUC93BoUuRkiuLk7h-324v32PXdAQncMrk4",
+               "width" : 1539
+            }
+         ],
+         "place_id" : "ChIJFY1s1ofCzRIRtwOFQihi098",
+         "rating" : 4.6,
+         "reference" : "CoQBfQAAAIlTbCk9J-D92W-xUxJLg-54WjL8m2zMbf42RHG7zOG_wy1Wnq2O6-C3kNPGebZA4SG0eaPuhMlUfm4CuANHzqXWk-bSNZPFB-xhilREcPyDCu3KIMEcCXkJP2_fgOUookgZcP4wLOrGkLztyoXEtiJs3bhbjhGDMJUFf8rtawxbEhB_2_knZMvXekvU2MChbOw3GhTqhi6jdIIWEchzi6J1Pef3Y-Qr2Q",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "48 Henri Dunant Ave, 06130 Grasse, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.64672,
+               "lng" : 6.926307
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aa9dd9fc77f505b5a63acc45f6407de1011ffa87",
+         "name" : "La Bastide Saint Antoine",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5aJh_Wo_miiPkCRfYezZmZ8KCdgQHdQsjHj6PYgR2PIWamuhKJWsTa64S4fwKiT1qgHKVtZLUquUBm-F-wtnrbFfJ-dyk9fef5McV1NK6MXtEub_BjiL0sgA5-NV63BYdpGXjrUfJ1ze5IE6E1Sv_hIQkuUmObGFDzLQ_lML9kCtfhoU6mmNvEzsIlCXi8LIs0hUJd5kORY",
+               "width" : 620
+            }
+         ],
+         "place_id" : "ChIJQ79G36UozBIRLiPsWYikag8",
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "CoQBegAAABpeEevtS8mlNrcqZvzHJWU73o1gjIp966tJzSCDkEa_Nu7IJwquHxmDrW6lre1fFT2I4pTLrkfeTXH8h4qQb2yCmuz1EVVrRmN_hd-EddzOLZypHmI--yVl2iAogC1Oc_uM2ZlzVyBMEKpha1rUSuNOCZGJNJj2Z_FArOpPJha2EhBi9bRxNL10F7Zw3FB4eJeSGhTVtC9HKSw2wsKU5jipmk8vYCxJDA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "45 Boulevard de la Croisette, 06400 Cannes, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.551004,
+               "lng" : 7.024617
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a8310257f28f99875e72ee8d089a04b61fb9eca7",
+         "name" : "Grand Hotel",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/110640002739699718411\"\u003eZiyad Altwaijri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAA4BAISWe7QxrtP5TrXn6H1-QiZ26gZS6oDipTWsng51zlRTGEp64zXmJFkcvxxbeXFUepPixUFNIy0nVcYUIiKLyvom9BtJCJST1BLtOwcceVxNoRZRbBvH-ggmB1Ba1WFmRv3c3cf_NbUlD-kXtyfRIQYwnihlZyUeR7eBxczdSVZRoUdotRAiv2hj8XkgANiMN9Kv6et4M",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJGySg6paBzhIRb3VVNh-ZOs8",
+         "rating" : 4.1,
+         "reference" : "CnRuAAAAcuU90BijCGLJc0o_M3LhiJvMONZqaHC-i0hAyjYMMPoGf6bhEybPhzsYDk4mhkTQ9eHupNy6JhF2axeDFRIYjfqdgfYbgLsUNdBSuXbIbE7qYsiSWC_Bku88sQ7w4D3pLpI1riPWND4qpvc1MUL8UhIQQvAz6tl-5pSeNyBuToARQBoUIaM41nVuBb1a4uSKt6Jq5akY18A",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Pise St, 06360 Eze Village, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.727732,
+               "lng" : 7.361299
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "086ff49a2337d455461b754009afd0675d874877",
+         "name" : "Château Eza",
+         "photos" : [
+            {
+               "height" : 111,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAjxYjDLeylfPHi-tYJtVLL2Dp92Oi7M6QLV-ZaV-cJV5jxPsjV8OQE7zHWsgSqAECJgFG0vTgqVCX2f-dROJ_6oGG6Mg89sechqL7DZR8uqavgyddXgvpvwsA12UvFo3qqpK1WQI8wZOPSyPXJw-N6RIQssd2piQdmgI67pUyMos8FRoUsI_MB1gEHkAhCdlKjfwcICntFx0",
+               "width" : 152
+            }
+         ],
+         "place_id" : "ChIJMU_UF2bDzRIR2OeasRNgJbk",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRvAAAAkNYN65Gwf08X-Ms4EcneCmM__siELmB9fCWKGT48Cx5kOk6_f5Jbu6OBZQxrenL5kA3fHDValozFyhUxmgw4-Iqq36KbmoKt0T52e3z7uz4qDpHkbJZ_JcyD_FTq5xaNqkyFa5jj89arXFWka95wgRIQiswbdD96c6qVkNB0VMaG_RoUr73yzhVDRR2B6CHR5O2ONmFpDsg",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "2490 Templiers Ave, 06140 Vence, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73284,
+               "lng" : 7.105901
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "866059c305387959ddda0ce97a3a5c60ea9a65a2",
+         "name" : "Château Saint-Martin & Spa",
+         "photos" : [
+            {
+               "height" : 326,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAyJkaFvxX5lJDh_8UFFtfCkKn0oxbVQ2WBwwdt8BC84KogSw96D83u3OvpEpdlTZFt9TMGiPsGTJZOWOfApnoPDfFNwTy_BboPx2ttfhwJe67dr_YXltf_svn0VgKMQ0JbzpTD0Uu22HSNViuuprM5BIQId3XGv6JwI7IfR3GK-v6WRoU1fBo3ZWteo0WbtYtM9VZMWlqlyg",
+               "width" : 326
+            }
+         ],
+         "place_id" : "ChIJvbAgLEXNzRIRIhrJfPGqQQo",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CoQBfQAAAMrGeLGDhT7as9EeZLutMOKLJUMNrH23HizozgrOpHkOuI2kcEtfGE91p-OotRS09k6qiA0y3b3TEqOLTrpNI3ivHwon97khzhlElPFh9q0iOxKAjzBly0g8q3zWqUg_rSyFPkrQ5rhXDOIQJ3fL8lIS6CCFOgm1qomQk8Mr8daCEhC5ik2LB-x16RwRN9AhTk_NGhSN58LzaoFIynrmHoRhluFRam8aQw",
+         "types" : [ "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hotel de Paris Monte-Carlo, Casino Square, 98000 Monaco, Monaco",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.739127,
+               "lng" : 7.427154
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45af3d38a22b4c843944d25818245fb75d827654",
+         "name" : "Le Louis XV",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1069,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAGy3qWWsPZ3sBJH3tCUqGPVSTYEwV71CUpoAJnHcmeTkE_kzje0Y47q3_jl8Ma2-6UBwHDhW-7-uV_yh9FbLLoraGzs4UDdPYiUOv190LOnyrsZXGU0HUiIPn3pmuPHb0MGcyrRTvLA9t-aM-h7ER7kw1CIscn0gYeIIeL08H6IlEhDou4gpV7RbgANh_9Kb_bXhGhR0iAnb_E5Tkk4RJT9ASyYPbn5PnA",
+               "width" : 1066
+            }
+         ],
+         "place_id" : "ChIJF-Ovdo3CzRIR73yXhC1KpF4",
+         "price_level" : 4,
+         "reference" : "CnRtAAAAfwThhrW43sEIwpYlT9vCPEKilkpat-ON_f-eahbgu4XfR_imJbJ6vzwaYa2nSFtIHRj3mnWwW__dH45ng4eVFgRgfHcPXzlpQ3zAJJsuGrf9BlUB1NCeP3XaBXWRWrobJDCd2MNz8vUup_M7lqPvfBIQSq4jbhQMpf_x6Gx6_krd-BoUrLFSJ-m9-E4KRbv2MaDE-Q40zV0",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "73 Boulevard de la Croisette, 06400 Cannes, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.547672,
+               "lng" : 7.030828
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc4045b3e02dba14ece7fd5e4b229c9f4c00921d",
+         "name" : "La Palme d'Or",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAtydpXcIiAMVEBngLWBdpIdIY-E2Ht6t5UX27eNKbEkaO6GM-oVorpx8SLOX35NbiBOn0cQrpHSTrVlDAdVdXoiKLYFyIHjaFeov5pz23qgKkhANy_qkAVcCg93v0cnqAz7MiIeVvaNSX7sUWKNFmhIQ62KHtzCkN3pKNCrI3Ie4PhoU2fSSilX1CjyVe1UoiEch5nlOQz4",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJecNdHr2BzhIR0pJ-zd3EL1Y",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CnRvAAAAQMweuMF46eqNJVXPJyevKPbQun0oMfnX2DQ3nJ3i27MQ3B932c5fSqmctc04L4iOoSdwAvzHL42YzWvjA9Nt4fv4oC30F-d3uSJqoj1XFbZdHt0wRb7ke39LAzBWcLRrNiWxpslDcSH0JjiQpXFnNBIQtQ3TeZnql6-gbIeDAGCjQRoUAHyh4jfmkeeSxBgy5H5zBETT0mA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Boulevard Clément Rebuffel, 06250 Mougins, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.599468,
+               "lng" : 6.991349
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6116841f88aba1cba5ec2918d6cd11a28027e0f1",
+         "name" : "Le Mas Candille - Hotel, Restaurant, Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1196,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAJmlm_-P25M7pxNhwOZYshLp9NuXLvy2n1w4kqLkV7-dBgo87Upc8hXTcVB7XChSTOiMmNpj_8fXqi25Z2pQ_d4M0ve5XwY_OoHOnOl5Qz2nUyFS3mixQqDgETkxiMK3bKnCHQMTYiKnLvJfFh52eYxIQTOpiDTzikf2APgSZFlVeUBoUzCrYlTD3MWPkmVkREX4cThDYBBU",
+               "width" : 1196
+            }
+         ],
+         "place_id" : "ChIJbZ7DkJMpzBIRwEOkM07fa1E",
+         "price_level" : 4,
+         "reference" : "CpQBigAAAD5EbTbrxCGMZCkkFHAn0yUF4mdEQGuXGxvK5nElsNMRwXDegOCItytX2ENxwap5J7RGt4Qc_Kig7y9TKJwBmSZe4Ik-BCXcfTKdmaQtJFCyii7M44d4cWambelMEi9RxdlWp_vwyE9dgSFjvpkW66maVwtgQvBpl5AVrHi3PiC6AKs3NvAvLcPg3JCetUqbbhIQYyklhn74lHdoNMqnwbxPShoUlboNkjIXmL5JI5R-rT5XiMsfO-Y",
+         "types" : [ "restaurant", "lodging", "food", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Quai des Etats-Unis, 7 J.F. Kennedy Ave, 98000 Monte-Carlo, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.737158,
+               "lng" : 7.424122
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "54e70a5c1c1ce55a1946109f08d98999a5fb5500",
+         "name" : "Port Palace",
+         "place_id" : "ChIJ2SPK34jCzRIRdNoLKW8bsMc",
+         "rating" : 4.2,
+         "reference" : "CnRuAAAAwD0FAXeuuBMldWG0Jgi57B6SWRz6shp0AFT4wNxXfq9TVI-SosjH1ft5wy_t24WPT1Yz6JqMUWTisf-7p4p1y8B7LvCxvahqFKcXu-caY3pjgwT6v3pu8ruTRojtoQsnjkoletd8HvFhlU8yfGB0zxIQJ-rIVe_5DkbciaVjFeJoqxoUW8L7olgDb-b_lMhr7fOI454-2dY",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "lodging",
+            "food",
+            "spa",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "4 Madone Ave, 98000 Monaco, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.740948,
+               "lng" : 7.427989
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8cb5fe0277ee730d1831eaff960a7089a359ab41",
+         "name" : "Hotel Metropole",
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWTVHPFrGmRMu2ozT6-K4ujntypOSXN1mDNydTIB6bhwCb72c2OBQOt2DWhq7WwplawmSi0AD5kxpoAaPq7KL8SFcPI3fIxgnOm0Dte3ITlzTYmkaAY3GqhuoC9RF52AstWFfU7PdQH5o_HFCtfftcxIQswnzL5MxYoi9nVMVAkEMEBoUfyT7OEQRw7AA_NvySsFY1tSEeZk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJXegNVX3CzRIRrR3oUcS2iCU",
+         "rating" : 4.2,
+         "reference" : "CoQBcQAAANSas-uNjCbRmlKNEnO-Yh0Cb2B4MUdHS7hE2LBgnTQVfXFIhulBQ0uNIZB-nUQHw2fyhiXgcGxFRNWa_9662fxnuA1KAH6e7uwfBIFy96ct2CzUyiLYmItTCX2YQ4P2oNbJm5ZSl8QJMvWdRVOX10W0r1wjYEECax7poK8XNNAgEhBZWtx0UqKlw3K5Pt3Z_HAjGhRrzHuoDuRaq7q011Y3ULeQn4cDFw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Square Beaumarchais, 98000 Monaco, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73824,
+               "lng" : 7.425877
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f34f2b30f5dd300669567b3d3efc25017fdd92cc",
+         "name" : "Hôtel Hermitage Monte-Carlo",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1FpO5DldxYM-OtLCr5tMxbhiB5doVCJXRWnUx7xGQdDTVKwrjNxKJM6nYJH9Kb7_csyg1Qb2jfI95zXw43e3BnApHOjggoXUbe9zntj_4XWt7jKLqDvi5c3nvyaky-87PJcsRYV-MwsVcEgqCIhFuRIQi7IVjbBTF8eBcy4fAkGmWhoUkiI7HZlLaieIjVwxxTafSivG5FA",
+               "width" : 1335
+            }
+         ],
+         "place_id" : "ChIJBWPKPYjCzRIRZJa_4-cXd4U",
+         "rating" : 5,
+         "reference" : "CoQBfwAAAINbV-P81weERAtIJJqPRq1lw3Jrz7SKQJyaY69eiF39N5qR7BBocnGFxvRHOADmviRR9jfKCOc1wheTue655HJ97IHeOmbp37je-MtZSlTaNJniaCtviAd2y6riSVAAjBvvPnF7w2ateQQ74Q6jLv9AOgy8i6-HKG7O8oiv3L38EhCVaf0JY0Eihl1fytyMNAcuGhQ42IYOFp6MNZffRljAZqUxy9XZ0w",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "37 Promenade des Anglais, 06000 Nice, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.694585,
+               "lng" : 7.25824
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "76a41f6addb5f3b291eb5dfaab7480a86e84e781",
+         "name" : "Le Negresco",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 945,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMQzxYOpG7Y4e79rVI4DWO8ei2T5QaydCPCRtjU767kzSrw5Ym-BBWx5dy8nhQ9UMBpIItAa8Sfh_cpLuE-If1Hb5t7lSzKWlxXyiGExzPjDD9iXKK41G9nxP-3ApBgsI_EzYNn0dQF13YzDdpYh7hRIQNqTSdTgltJh1RkD0oZflLhoU5-kMMp_7CAWg87-ygVg4pYLG_Vs",
+               "width" : 1417
+            }
+         ],
+         "place_id" : "ChIJdcqjygzQzRIRTvFedD4WdPo",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CnRuAAAAJdxTjIpnzhP6hyZYGYhuWPuMfrvlrlKjKSaatrLC7WTLK3D6kvH-7wpmIz_dvKYdTGIN1pGkpmwvMpNnNQDZ3er38ztx1HfYze-Dz0IFLV-bHtfDAFB9TSY-7wqWjhg3ytIBZu5RLfGlK366c1QhMRIQvSvbHXLpfE3dXApeeSX2tBoUbplYiCn7Qe3a2pEK1gUgGL0keK4",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "3 Place Auguste Arnulf, 06440 Peillon, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.778229,
+               "lng" : 7.381948
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cf5e0326ca254bca0a3dce90b609a989f22aeb8d",
+         "name" : "Auberge de la Madone",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAsXXBNn3Fg1zmaAgNoW-LPOcr4Eume6Nbs8g450YwNuHK1CuEn2yB7HYF88THSACscSQUmDU9r_7b_4inCM9B_B_N8a495QDHGqlrOuYZOxUaz9GLDB-B8I92_nVB4TwY5HLNQaYdAyM331YVHo7p_BIQuv-nwOzTaJyRLx4-3_WAQBoUTsrbp1kl-qUNcSyAwQ0fQgun3Iw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJdxKNr9nDzRIRcE4SR2fnohE",
+         "rating" : 4.3,
+         "reference" : "CoQBdgAAADr3NXc3B2CRFlnkd-o9zgvAatxPFk_5jGezWT_D3i_KY6JAjpu6yXiWagK7fRuiqbGMXw36MQDnEntz2VPfB1dQZ_eXrkTLH_71F6I1xsj_TAHG1MLngm9CwiDhucRIQs8W8HVf33siYA-bKjyVRdJksY0Q54ms6BFtn_j3VOb0EhC8FfA9dcO5o43ZXEofoCpjGhSNTap2ADj3CxEY-sHKMSPwSuzXfw",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "22 T France St, 06000 Nice, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.696163,
+               "lng" : 7.262269
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9c37c3fb48613ab9a24b8be5ae29563f0ec35725",
+         "name" : "Kei's Passion",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJLXn8AwvQzRIRJ47FiXU1v9k",
+         "price_level" : 3,
+         "reference" : "CnRwAAAANiVwHHYLyQrow6xPm4E34v_5ocm8mDGfNearG__rXl-mXoOPAM-HTzwUmgh5uGlqh1UlnPHT1pnpjBKIN5WzQOuQI1epDxiYntu8qYTYYNjd8OhIpmYbFgdGosa4tndKcuBDzCTmNtI-n3bCkfjCHxIQRt7tf32udxI9ZJc7Glv98RoU8u1g-FQCQwzlAHiBZx2D00WSCUA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "3 Desboutin St, 06300 Nice, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.695931,
+               "lng" : 7.26988
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12bac58c1fdccac81949cd114a7d75604b25c252",
+         "name" : "Le Bistrot Gourmand",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyfl0d_DYeEOLqgUKjLWSdWBDFK_A2lIZei7DR7nWUIcBQVlyQxo36SHFesJ5YC5ftHyucymG8JPI-5RmV2g9ab8RnVUbGrIvBHjiToT_SyKB7SMZrWwoaiU6zi_7vTyDK95iQlQeR3YlRERsdB2EqBIQBBiMNyQCnSKsd5r42X2IxhoU64FCCeW7pBK7pHtGw7gqnDMFiXw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJeyv8nKHazRIRCgqLxOlcL9k",
+         "rating" : 4.5,
+         "reference" : "CoQBdgAAAMyC_0tQzTnlLMAf_hNOHSYqUNVF0sbYMlgx4Xgwx06EP7-hKoG_80C2v5PvQRljGyHDIvwuXEjx6SEwLV8jTgfZOlAtSbN6uIain4uYZ8wlRhlINpEU7ADH76oA3oG2-AX9CgDKsjN_Bx6YTio7oT4wFkbgpW98aB2lLP975XAZEhDbob8b6UBONKNWnwz3hTrWGhSJYWQyiIWJyy7pa9WJ120m-BvcPQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "71 Boulevard du Général de Gaulle, 06230 Saint-Jean-Cap-Ferrat, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.677018,
+               "lng" : 7.331426
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "640b484ffd949b225f5716e9efad43ffb2399108",
+         "name" : "GRAND HOTEL DU CAP FERRAT",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 682,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAP0sDaHOD9teGZOd3xHdX879rnt-oz4fMMCdThJtAXuEmg4dYdRZksz2PLcKkJqSF-BV9ErtUrz2QoHPfF2krzmzxPWFNXV9pekMxW7w8ioB16zQN2ybHESGTQfmWMIAgRuUwX0WSfaSqS0nSU8xYNhIQ4peBE2wFRrFTt_-uLZqTvBoUDQbA50z8ezNAHvU3FPek_a-Jl-g",
+               "width" : 682
+            }
+         ],
+         "place_id" : "ChIJr5bDI3PbzRIRQ8hg-UCx31A",
+         "rating" : 4.5,
+         "reference" : "CoQBewAAALrvGH84nxjo27UhTdplebadRXOHEltQer0oANH9uhx-sg7HHjpeaYBld5gi3EUUaWIxdV1iqCAxzl5fsgDyjZN39Ir-ZmFq-tyG4krMpLnMIy2xzjLFtNDNZ_yLd2OW2L9ctizRWiRcNO4dAKe_UTm7YgjqB_We4TJsDyp1xP0OEhAObEWnNhsoccRcOpmx34TCGhQ4FKyjpaCtF7Vi2752rDpNt40U0Q",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "1792 Corniche Rd, 83700 Saint-Raphaël, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.414442,
+               "lng" : 6.803134
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc47571511e30e5c20713e4c7ea563a059724d67",
+         "name" : "La Villa Mauresque",
+         "photos" : [
+            {
+               "height" : 349,
+               "html_attributions" : [],
+               "photo_reference" : "CnRsAAAAjQUPJqAbw5DzYyXWWB2NBifImZDSC1YHORb68EowOtlCT3X-HZ-O5azA_NKXRDtDAAR941pEDMlFcZq7-sFIexruyExhxKru7GKFBd6ku78MA5RmdFS2DSb32HcAZArOaHG3YIWONKONqAAtpp-XiBIQpXhRW_SFQlrbAxKZPhq4YBoUCheXtY5rIin7V7DBfxbtiPcxAbk",
+               "width" : 349
+            }
+         ],
+         "place_id" : "ChIJ-V90nRKXzhIRPO7bi6J0bhU",
+         "reference" : "CoQBdAAAACPCTp4_UM4WY0yQ2504WlC9uPJs-E0g8Wz7zu20VEDTPBvVHAw-JVOEXs0LxHysd6gKSNzvorF_hN2S76H8_KYX8w1npBaEJzcMRsGTTaSq6XbYcbQgCZOlVRIHGjijjbRKVWOXyvRtZsP6qJogJi90HUpPKYQlmbVHtDM5wfHoEhBOJALgifWn1iCQJzUnWsPIGhQG6PzvA0bRUAkMdDzwo6Y3MGA-FQ",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Rue Centrale, 06420 Roure, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.090507,
+               "lng" : 7.088562
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e8db03a95968d2f0cd53564dc4a75ffd74d2100c",
+         "name" : "Auberge Le Robur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1288,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAj2iGYBJEqOW1OZEpV5dqlHs75-76dh3C5cFQIOkY9acJbQSDn5DTtsVcaLXHjge7eAqydJLpaheN58eZW71V8FNsgh4mYUw9-tiqNv1WRxhaWrdX4k9v5Jr2_pK129ejXPxfNCoKRakOMZtQxOnKQBIQCvHjOodWciuX5Oble34qTxoUrqTCMC-O3tLIl0GaNWg0cvMIpGc",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJzeFQAUxTzBIR5XWNEQjg0k8",
+         "rating" : 4.8,
+         "reference" : "CoQBcgAAAO-wjWW96krdbG7ODE4f6kl9SPH_JYh8Z4DGVnz-VehZtYXgWMImGCB69llO1Mfa9uXFM5Kryp3h_dFzhqb06X3-PSLd51HgZJ--5ZrOrhXApqo3qtc_gBDdnbvmDa5DUOlkl7r3_ZvoIfTUOl8dSrWV6hZZAP8rT6k7glFsYSErEhA-b-j6ORcGsNPVUbZm4bRMGhQ7GsPwD0oTOrzLxxV9lZVbFzphmA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "7 Avenue John F. Kennedy, 98000 Monaco, Monaco",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73717,
+               "lng" : 7.424146
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40adc58b57065f8192662be0805e4a2489069c46",
+         "name" : "Mandarine",
+         "place_id" : "ChIJhZRQKYbCzRIR2cqyf3dOnTM",
+         "reference" : "CnRrAAAAW-4WksZBcrjj0S2IVrJuwvt2FQ-ql8JC1LJ1zB_3KGmEstssKGjmuBEhwp6dnQxxihL7gkDC0rK_5GEFivvZBKKTAfNxOjkvyITM1EhuKE7SAaWUjfeh4v_gHB9vjv-oYILg2PGcvrTlH6TKCDJCrxIQKXGn2mJZhe890c6Ek6JVwhoUyXZwmctyojUvwyTMIin6Mxdw3i0",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "58 Boulevard de la Croisette, 06400 Cannes, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5492,
+               "lng" : 7.0274
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bd7af58bd1fefd84be0bdaf740f6a54af8daf612",
+         "name" : "InterContinental Carlton Cannes",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 332,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKS5I0zBHb_uOCpQrZDfoRdZKGzU7PIorahpvhrWT9iV2csKnb7VLMWYNRYxmX1c5qOzeFq23hPoqzHmDmXJMdFHEyNUH-M3XZNurQovwmf2Q5YfNd1WYwCQU_Ql1r_DZd8PVW0bbdzDhDs-lhu5iMxIQcqF--NWENFXPf8sDXYdOwhoUHpHMyYxXY1njvDUIjv1oWrK_sN4",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJZykAMpaBzhIRJkI13XQDqHw",
+         "rating" : 4.5,
+         "reference" : "CpQBgQAAACfPzUZZVgAf8Dpw4FiB3Hh8TF_XKkAezjblnE2cyB99KGkPB7geH0LPdHMZjDZGolFuvTTlGVeZQSGMvu2zQHJ0uQkRccijySeWQmPOU7y1GmPLH3T1spVg1X95rPyO4ao6HdCpHCtlnEvDXKB725RDeVhKuhsvcLSNPpFj34OgR3otJDK3N3y-IICchYXOmRIQF_eFRNiIY5qYJWjnpl1-uhoU3QyLNk5SZQJVhclgpmAFN4vpNao",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

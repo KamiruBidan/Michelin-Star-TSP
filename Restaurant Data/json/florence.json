@@ -1,0 +1,462 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6AAAAFO_uQz-3zDNwt3Ha0dLdo3OiJI5Ti3thzGFexmF_X1Opfe0bkQuUL_C7goWNCmiH28qAhjaNi9tkIb7LHpgbaI65-GjdZCrrOwr2YMjH9aE17xLfLC7Yyr1-tWwKhAyRi6y0En7uErzxDoM6m1umuLg-J5aE2-dEDNeNE64Ayd4t92ORGEAEqf2q2ouwhpD_nVreFgOVRsIy4qoOeD3FB9uLWWts495Mda26wAgZx6Pk2p93u0DWL4EvWhv8bgFDj9fb7kLjkkJsDrewcVLqiMMlPrp_4uuaIQ7j7DDvjY28edIU5TXtDdGv4EqNOKlkhIQetE484dc-eSeqoE3jE7xUxoUKElapyvD_9oftKQ5LdHZukGkELI",
+   "results" : [
+      {
+         "formatted_address" : "Via Ghibellina, 87, 50122 Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.769953,
+               "lng" : 11.262259
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "3c10a9b90fc042b446eac2207e7d0a0f3d8e15d7",
+         "name" : "Enoteca Pinchiorri",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 412,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAB8kr4q3tBs6w0u-v9HKzxxOrCQzr7T0tJjB-kUDR9GELpD49LncitVrcAH8YPYO3q4JvHHyjrw2XEqdq136fnVxn-Wrm1pF4xsV4ua2HdYN5qTjluCCPzemGpdcCSuCuU1KfiMb1adRXS2UvB8j8xxIQwc5LebKyYt65-NSWkXR1cBoUQr6rhX3T0c__9zSmduQkBobpfhI",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJJ9GCOAZUKhMRhWUgMfpfvX4",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAAKl9EVkM6UdeP7ucsjKLff1QHlALH1c0C4Lipyr5Q0WPIyQnDdjDMV3bkSJXy6_zs04UUuhOc5eSJQZU_-_PIMv5ytI0n7PMZAKhDfwSAnCkQOvX1ouBglq9e6IEeyyZkUMdpxHmQxxKeuQfjKqJgvWpEY4H8cDulKgoahHcNCzOEhDZPvVXmK2wT7pSDqffaLw9GhS31HI68oRDHCKjpiT_OMasT7INgQ",
+         "types" : [ "liquor_store", "store", "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Borgo Pinti, 99, 50121 Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.777034,
+               "lng" : 11.266392
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8913d707999ffd66aecc3fd7287f575a41f16dd9",
+         "name" : "Four Seasons Hotel Firenze",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 493,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJAiE2BiSVyy5AvmP8kMIfjuIIpCXvhLH0r5xUcvbpXTGsc-D8x3U_wnn268fZ4aLYg_ErPtTSbiUnkJRzTqc-YNObZoE_WHY9nkm8tyUYnihQ-QA_qiYaHqea7GyPsip10WGEpvGsTOT7pLg35ksKBIQeF-6ijgPZlten0XDtT3GdBoUEcwgdR4KXvQK8gNSHkH-W1oVFxg",
+               "width" : 494
+            }
+         ],
+         "place_id" : "ChIJeQnHJxBUKhMRqEIwEupVmuk",
+         "rating" : 4.4,
+         "reference" : "CoQBfAAAAO-rpBAPKk70q1oAs2pNMtiMV0tTAuadrNPEz1_nKKBM9sgvfbFcZqhoK_xdRG2QQ5kAgIfZkMtKzfbXNIZ1cyzdtUZ1MVh02q6o9Pewsw_e9OMXXLq93d88zAYQNFEFPnU_wIEOM0Ue5TORvoaDgKBj7GD6jw0vhwa0I2vGeLoWEhCbEAhWB11n7RnP721DWXMHGhTwB9aSdYtzqbztuhOhaT27M-Io_A",
+         "types" : [ "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Ghibellina, 87, 50122 Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.769977,
+               "lng" : 11.262213
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "80b153764d6c30f5a33d46175394a620f597c251",
+         "name" : "Santa Croce",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBgwAAAPhKnP8yNoU9gBugiPl-5DZgKoaUB9IPckeCqSBq8a7l1OfGJ-eqaLrKQvBdi_RoOq3fwiB1nHi9-J4EC3LQPJujbQ5JimPIrQVBqjp4F3QgnLLvYwpoqt331LGnDarMeqNQiye6Ba_L69lKelFd_b28Ex2yGuvpNKaa8O1te205ORgPi-ZJ0fQfgFD56k36HRIQ2n__PBzF1TAGJfBWkhmdXBoUMggezaFaWPPVbxQiRr1RTojsrjY",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJJ9GCOAZUKhMRuCFIeQlEgvI",
+         "reference" : "CnRtAAAAEcEQ3ZJ4E0nV-i0q3epUyWHLJplPDniIVK1tFV9d0JvJb-G91JEb4mvpwrfgoWupP36WPCJVTaqiVcc1vTLPVhWIYmOd7qWQLjx5an_WYQR1hxvV4CWAdayt89RwDoJQ2OQVNDpQIF2w-2QRamZ4zBIQ5zmr5jud0Lzb01RP8PamNhoUTSKgN3JguoNmJZrS8I8t7iqRZdw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piazza di Santa Maria Novella, 35R, 50123 Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.773543,
+               "lng" : 11.250183
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0a95b2ae2b3c633d3f72e0edc5dc25938fd4b53f",
+         "name" : "Hotel l'Orologio",
+         "place_id" : "ChIJV2KXmqlWKhMRLs_OT8juMWg",
+         "rating" : 4.6,
+         "reference" : "CoQBcQAAABGkVjkcuV6Y26yQsVe_Zpkt_Zv1oAH4O3fEmuryxdr_7nV1ZpTxgKVPgCx_Gc7iJsO2VjoZWG3sNtbiFzKR-FQXvIhYBjxeuhH2I7nxkznopWpXKagpkA925M69hW_Fp_aRHXPWu7JOGkh-ENgVcsu2Em5ogwfpLgb7t18mKJHoEhDPPMvvgjZ1yva5hp-YrZh_GhS9wvNTcsVlQGEOw0fgzEgcw1mpsA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Serraglia, 78, 55022 Bagni di Lucca Lucca, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.009544,
+               "lng" : 10.578172
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b2097a41eb914e17c12ab3316538c47dd378cff6",
+         "name" : "Hotel Corona",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CrQBqAAAALrgcgCDLZ6sJWXjqXGhdap5Ur9kk5nhN_oeiqrwPev44GWq6MhHE1kjdI6SJYWo5ylZu-rdq6LcZM8HQ_xm2oEZ2uYhv87i7eiMYGSxiECQg1N0Lc6Y15zfs7i3tT1-CjscoUwHXuC9HKW9biq942-ma9NA65Ujz4PcusnRVE1C0mmAsGALjdrchIcp8Jw9cOOlBl9VzugrgkEZNI4M3zUZvm_hl6ajV5Rwd-BdOBkwEhDU6LcZmOWGMP1x28MebuyAGhSM71vhkSKufQzDS_GlxLAiXDKx4g",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJSUdosLN91RIRIHqnOAPBUt4",
+         "reference" : "CnRuAAAAFUJ4HxrhBd_f3Jeeojmnt1HFlpcZBVoYwWj0V74TgxhCI3gczl-vwMEzetWkG9PYLi9-6zw5W9g10EdayxH3El6SVi3t5iW5eY5Q8qqKp30EvAWYLvKVS8yH6CrVUt0EIxuXRRhGV3N4N-vQmRnvBRIQV1TWQ1tNc_4RFmTo5kSndxoUGNxUZelKorQuEt54mmCoqQR-P6s",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "p.zza del Monumento, 9-14, 50020 San Casciano Val Di Pesa Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.684159,
+               "lng" : 11.129024
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d7cc69590c313c20e83555fa4c8b68ddd98c98c",
+         "name" : "La Tenda Rossa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoBf415o4twNEid4qIxnKdCvXECcVeieRilJ1la1nm6wbUinjjC_VjEewSj6_qdItzC_E3scRxyq5qbvT486t8qnYVsy3TCtwlRAHmfEyTV0JTAhqTrHJlgi7pLDP5s08r6A1xu9PvwSuzwEqsnCowxIQ6wXnI-D27NPLJYBDK1I0-hoUeebCj9M0EIqqSWfKDbSN3mfmIBk",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ9WSR6hdFKhMRhFB_9CCw7CA",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRvAAAAVD7s7YM5WvotBtRa1m3J1UV2QUa-_4kvEp6qaGHhO0yQ8BOy5Q2w-xOKChH2v95-3DiMcBJYbz_DdER37sLXpgAQnTy1a1pyvOqgTn75tKY6-krGr4tibMaQkeckHxGXNC_Yit0v2kLG-W_dohwW0BIQe5_ymvD2DHhJCwqRyKqgVxoUfLrMYBPjQ0hydRipYsr5wsAWT5E",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via di Sorripa, 10, 50026 San Casciano val di Pesa Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.661924,
+               "lng" : 11.168206
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "689f12e13fce48a00a8be41a509bc280998bb27d",
+         "name" : "I Barronci",
+         "photos" : [
+            {
+               "height" : 575,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAf26_eytkvld_REgVdqfoXocqkV1Pj5niGuCA9tn7IOL9u2HWhd5m5kjfJbH33-jKWUmCCK4L2pglH-eyt0ITWS6dItVoZhf-2VThLlW01KwFFQYuWGKCjWETLL191EVa7VdrimvILdSI6bV_YiwALRIQR4Rxly4qr90UPkv94JRJERoU4f05Jqk5A2Kk2zq-b0vU-aBcNmI",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJBWaJEIJPKhMRuSulvbndGck",
+         "rating" : 4.6,
+         "reference" : "CnRsAAAAVkz5kZhf1jvoRNu7rJ14Nr1kOFsSd2s3FwM09rq4nP44HndSqruT--2YUQaU2QmdtvIZj9H-nv1-CsSXrI3wqjNBVPIcmUAGUJc45jPxTIC3W5Y9-jjH0CjUHl8JTQjno5DvQZuyajMu8f_7ymwYxRIQv36eXhvI7t9UusJzvY0-IhoU4FZOsCGPbudXMN4P51VWZBn2OaU",
+         "types" : [ "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via del Proconsolo, 16/r, 50122 Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.770736,
+               "lng" : 11.258002
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "710688d9b087873dd0c5fedecb17544ca99ee77f",
+         "name" : "Alle Murate",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJoVjPSgFUKhMRQurUxzDFp44",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CnRtAAAApgb0MZeH2EyTy-Xp--4zWmX2Z9xiPL_evx1zUBjfz6eoeAeIZBEh-vqsC6BsOLi0L79-sxfi3n5eCxMgi0F1ycaxycAAH0EjFW9QkyrEGVmAB5uRCdVlUn3gYeqtgf-geO0CgxccWnxJZ8rAjCZySBIQsWOHt6YgBwkBKhHzdT0R0BoUVHZXlIGnDrQw8_nIRVDfudUY5fY",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Spaltenna, 13, 53013 Gaiole In Chianti Siena, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.465186,
+               "lng" : 11.430905
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "0c4a6733ea538a603e857b1e9c30efdcaabeb754",
+         "name" : "Castello di Spaltenna",
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/100974854783550470815\"\u003eGiulio De Marchi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAApvxlQQl7EJU9SGI2Y_4u6VUnuB1QqN5sC48N2CCnztjdRdUNK-sHlw4xbvlwpi9U_JdHZHHzr6aURbsm8gpNofeYCieTFNWfkXn1AH7eujiW4bzrgxDuP4wOUF2oORHS1j0ATMdcobRyoNCnM2hpkBIQjW7bBpJnDQzc1HACbmPUrBoU4ezzT3IQ3Y5lfNI6nMrH09O0srM",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJKfNmI97LKxMRNph1XvhXl2I",
+         "reference" : "CoQBdgAAAEgNgwY4R9MGnRgrn07nUKH84jL7PP8X4V5Nk8Kkk4UhQCz7g9oFwjJFfZIxI3KxZnKhVkykyYu4InmT4ca6EeVfRibEyBnuoZGMjeR8FbS-RFtcj43icDHawIXs-KXth9SGjU7xjF2RERfUmLA6AnFDrGACH_-oPIxS_4MW4nuwEhDj9n8ehAU6iFzb49XBTIduGhQC5HSlBxwcwuJBHumz2X6IiBPW-w",
+         "types" : [ "gym", "bar", "lodging", "health", "establishment" ]
+      },
+      {
+         "formatted_address" : "Località San Lucchese, 5, 53036 Poggibonsi Siena, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.455126,
+               "lng" : 11.149063
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "952acd1ae7f068b84e4223be68e957642ad85e85",
+         "name" : "Hotel Villa San Lucchese",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 314,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjYqYM6HVAxChHhxMFOLjR0O7s7d3Uye1iwZ21OjM7Sj28qScCntyMFsOnAEgvG9cnINRRyNtZbiyxgik96MeKcENILRkv5hixdHERCOAP6itz7XFzeSGt-u-_6tik-EyM9I4LGnU6Mi1NMaQ9xORSRIQunpNneMPqh7nesiedonLNhoU9KkvzPIuTw4TDzBfu9xar2qUZIk",
+               "width" : 399
+            }
+         ],
+         "place_id" : "ChIJqWEyYxo6KhMRE2kL6r-YzAE",
+         "rating" : 4.2,
+         "reference" : "CoQBeQAAAE_uTW-A1LO7b31n5tNltcsdeL9YWnX-F0lvA6HR6udH3Xvxz1gdOhP5ZLG-TufImdqCGoJvXb_0ArJZIXDZYCTTaD0lSZUZ63v6mbHgKD09RLO37foo9CK66gabEGdGOBffig1pVLeckFiKrFQBJa4LdtWfjf1LgWwxIKA_HdL8EhBUtVmM-amCUPrB9qIxYTsbGhQ2SGfg_QqrfXY75RoapSrpvOwmDA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via di Fontecorrenti, 2-8, 56048 Volterra Pisa, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.398012,
+               "lng" : 10.8605
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d1a78e2a37d57d4412361fd895314171d566e4d",
+         "name" : "Park Hotel Le Fonti",
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAC7ZUUy8rrW0qDZ_wLmG_r3eY8D0K_mA_m9lhAB_Sh0cKsT7xS7hwzxYpJW6e-9yec7LR_B54hm8gAgi3wh0iz-ZvsdQHc3FGxTMFaJr91Ndk87vbtQgc3nwuonPsOa-jzOH-sdsWb7LD1IAQ3DQaHRIQXgt_rE9ZE4reZ0E6mNsBzxoUBuGckldCalRrCon1fZQ9UTPM_0U",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHW1xa08aKhMRNEsJTk7NK0s",
+         "reference" : "CoQBdAAAAMFbTtjIYOhTRGLoCvUyQtb9AGUTCRlK1jEsDJFuJN3vxNg9hp2gLf4swpDHp9BUcQ4qqdZII90uJOp2rt2nvdgkBd3OaUrRTtleLXgZEEdVP0S2r-9JK0T7GBST5yBJG-LD-T5u09HZn1I2bAgc9tJPU6PKuT6NRQTUuCpf3FJYEhCRSfKCYGdwYJxYroJ8C5G9GhTWMhtVteEtEfYTGKwDOtuZCY7N9Q",
+         "types" : [ "park", "restaurant", "lodging", "food", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Palmiro Togliatti, 68, Sansepolcro Arezzo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.57943,
+               "lng" : 12.129051
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3aca90309d410046ae1b75a293572d5f32362d92",
+         "name" : "Hotel Oroscopo",
+         "place_id" : "ChIJdY8mig13LBMR9EfjsNxwruI",
+         "reference" : "CnRwAAAAp9w45Uttp2VV07MEHnZeLXhvle6BB0mifvkblTQj-LODWkmNZqrwVJB2th8hxYTEgwiU9qec601mfjqhVr_Om3wu3Le43rjkhduJ9od_9Zip9vyeFnZLlnf1hJlXtLD4tHsq5-p-fKAmQ1hbE_RhcRIQ3tkwX6TcqbKcfGBQqJvyvxoUpMCV_beZAeboG5QHj8jt_UHctyo",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Buonconvento Siena, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.150992,
+               "lng" : 11.524966
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ec48509accc02e426eddfed03e885d3e11b869a",
+         "name" : "Relais Villa Armena",
+         "photos" : [
+            {
+               "height" : 755,
+               "html_attributions" : [],
+               "photo_reference" : "CnRkAAAANpqUztXfau4BsE3MvxZUFQNEHYCEU8_WQVV_TTzpc5JQKiAZaxDi0PEvsmBN5GSJIBldl5MVpcGDxTdp1LCqxJRvXY1afmb1e2ppQjFS0mzi8cC1zCIcDrAAeu5V4DmxORd1VEEr9zCuqM6pbP_NzhIQ5IhStMLKIJlPVR8dbI59exoUp4M_0XJcbBlTmfgEYQRTWyzz_Ow",
+               "width" : 1140
+            }
+         ],
+         "place_id" : "ChIJYR_iiEpjKRMRRU0X1ObB5Oc",
+         "reference" : "CoQBdQAAAMnkgNjtq77ECH-XDfZzsMVnZ_iy4wp8XlU4Y1hkcLGAWEyh8y6NBKUEn_Rxw0QWmQoi-_RmXz3DzkHMMIm8XL_2BQDPwm2d0t6y91-JmHOtJhYV_wtA-_wNgVFdQpJx6mXuFWv-n2Tpyjjsb1fb5h9rAdf9l1Y8iOoyI-BVhDDCEhCxbKNnj2J_0ldJe-wKJ-OhGhTLn1KDuLbkf8kva4Iyf6gj4GUibA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Sant'Anastasio, 23, 55100 Lucca Lucca, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.842706,
+               "lng" : 10.506641
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d3436795d1186337bfefd759494e49cbd8c8279d",
+         "name" : "Hotel Noblesse Lucca",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApELqWEVmhp91OA_O7Olpms3C0GzLYZAIIfE7EK2f2AGskQD6KHU-Fr5PxHGAiH1BX19pSDhcdpoS9shFp-W7otYPWhjOPVpp8lLR1DQVXMmdseVv36iw991YjE2voDkK0RbSwI6Oy7Vibnb0hT6DVRIQQZvbyJg4sz6O93ptAkscsxoUYGwcNb4CGdVUVoHk4Qro9NbgL1w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJWYebYMh41RIR8fVfOhSZLi4",
+         "rating" : 4.8,
+         "reference" : "CoQBdQAAAFsjsXMoSW5VIvc7IomgNcUYzQ-aRCfu2UahOJ79qS3dtp7F6x_K2qEgaRrMKPS2lXb6lx4-OICs38oVI5FbvRPl571oCtM27WDzEFgHg3QpLE__tfyamLzzmbu9tBFODSEXAJQVCIUs4Z7OXbe7VSLq_yAaAsQfJdU-MsOrfgx9EhBPyZW-mHWdCDBU_dTY_D3QGhR_hRcGzjDEr02_VEV4mE86hhuZIQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada Provinciale 27, 4, 53031 Casole D'elsa Siena, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.340969,
+               "lng" : 11.051545
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5d9c9df6755b53d1ee3d5ac60474dd651c509886",
+         "name" : "Terre di Casole Hotel & Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 484,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdQAAAIUMCcbUik8l2BtXjlTX4YBA9K9NQMSGR32gGTN25UoT5dp3IunJxaaTYx6hsZc1kZqj6x3T7Y6m_LT7RnS6LpFoBN2og3nk8lvdkpQQMRII-GtOHSqu_grB8u66X3-uBgqVxmKK0PViakBxX2OaX0JoIV89IYBRm_FT-bRxgoBNEhBq8MXypp-DlmJiP1N7fqQ5GhQB454vhaNQqjtaxalnkFiTK0zPqw",
+               "width" : 483
+            }
+         ],
+         "place_id" : "ChIJP-yRT28mKhMRuOeOrs7j18E",
+         "reference" : "CpQBhAAAAHgioflKYVkJobX4Xzs0KsbsjooRd8p6Gtt0nenhni3a6AI6ouBcsKf0fWjsEfC-f-L-1WM7VxsdicEVKIFmhoPfWwDu59BaK010FPgIqSTl6zdLef4IrUs81OV5TyoY0GKLYaQ1nRb93rrBAWrCijQtNyW_ao3B_ocJ8LY7Q-f4PLR7LE86lM6LbGrIuSgO0hIQ2U1gjN7YR_ZC6oG7IZWbmBoUQXASu7EeC0dFxgtM3GSHpDc3ww8",
+         "types" : [ "cafe", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via XX Settembre, 50-52, 53034 Colle di Val d'Elsa Siena, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.420916,
+               "lng" : 11.116915
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3cc04f4728dbabeec3424a3465ba2ea01e83674c",
+         "name" : "Arnolfo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHRIqD-A6KhMRDnWRom_Tpgw",
+         "rating" : 4.1,
+         "reference" : "CnRoAAAAT8lJCY0dNyxLGZzQtpo-PHTdsMDfDM7A9gGvH_dKjYEHGNPSbrPDY1hKATIbvWyYFn-BNQonh0hfoW2sf61tSFvp2epxg8hEwQSLPjbxCNwo05KL_gV5HHAbh7BKQCl0wEQETB6Nzq49OhkvwkXvHRIQdDf26mMaYgGcDHsx6AWFIBoUekab-B3zuPiv5aq8_rFO815R8uk",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via del Moro, 8, 55100 Lucca Lucca, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.844164,
+               "lng" : 10.503289
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bc0ea255a07fcc3b66547571b319ef4f12c63341",
+         "name" : "Gubitosa Pasqualino",
+         "place_id" : "ChIJl6BxiYuD1RIRIGniljvAEWM",
+         "rating" : 4.5,
+         "reference" : "CoQBdAAAANi0RJiSPX6sawOYlYzE-uNQfrQChG-IdCO8CLRKt9sc4OctEmoSouaH8qthGBIc7UehW4VwJoF_W9xjmV1wdN16N-leD960QsGurrKKaofFo8ggTfsC4ORWR-1aa_1olZpmTH12FdiIAXmHyILnU9qoLywW5YhSLQfI1NMgfSkGEhDkiuU6UXH8g3RvM-I5tEBAGhRLFHi6GU4D8Og-YKX-e92r36kOwQ",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Tornabuoni, 1, 50123 Florence, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.769736,
+               "lng" : 11.250783
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3d1f9b21e6bfbf45240c1f963e9aac656ad6903a",
+         "name" : "Antica Torre di Via Tornabuoni 1",
+         "photos" : [
+            {
+               "height" : 858,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABa3YxZoWLe8LISWd1fo2yEWeiAhsfZq0j1bGmSY8haMWnoj6WDA82RLbu-oWQjVnnHTfBZyjkBS1rNZIMwpcdFpAFDkTV_Fz7vBTiii0O7o_Gpmnry2E2fzXQoa3-_IAJVLHIPFgobn6Y0_Gz1VDPRIQWZ2A9UqBSAEyJsEyAAoxjBoUn0vovPCv1Nggt8iYqnEbJ2nD6_4",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJv7uUGapWKhMRIwlqGsWMGzg",
+         "reference" : "CpQBgQAAAMkzF_HzjvNvOSF81rRrrGvTN677D-5ury2HM6y0X7QI2TDkYabvAEMI53C73vvD1CYohCjWQHPx_jkJ-e0u6ztR0fYgbnBX0Ysf-xKEW8x_GmG-8GgqqFhi3ciPYxTfklpnHYjZ-UOUyFwbpnglTUfuzk1a1DPQjbJTgVWXALT3TAYWuL-eLowRGmROlKmA6hIQZ9ksnmes7GHnz3DRn2uN4RoUoT8cbxyXEg4WXcQmROJL3cfaqy0",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Localita' Curina, 24, 53019 Castelnuovo Berardenga Siena, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.34642,
+               "lng" : 11.465386
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e00a6a17bfaac3de8a8a84fa071c4b7a027c793e",
+         "name" : "Villa Curina Resort",
+         "place_id" : "ChIJYa2eWbjRKxMRBx2N-3HXABQ",
+         "reference" : "CoQBdAAAAJipEbU6nOtt3FWkJrvUzp1JuP_5KwaRgXTFnF0McodUzjV7H9c8guD0PXLND9l5CofkgTwOB_iVwbYVv-ScTzNoumJL13C3S4y22vd3F_8VP4ec3yFtm_Tm2k9lroJ7ZiVqepsxfp5NCjjXH71P-EIG236uGp4NyBamUH_f8i8WEhDjDV_NPMqYs5VjIAEQ6vHUGhRdYbFWB4NAQOuXDHEh6uCglc-IgQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Via Roma, 13, 56034 Casciana Terme Pisa, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.526522,
+               "lng" : 10.617841
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e59056b1d9eceb11a3aca950c6baf78b01a96b3",
+         "name" : "Albergo Roma",
+         "place_id" : "ChIJkRPAxv_11RIRG-BRrx8xNdA",
+         "reference" : "CnRuAAAA70JG8LaAV5UIRrCgBafh02t0IIrTRJfEJg4_y9nZwRfTEcs9lfi5Bw0_J3fqeWuo7x95PQIarwS4LPj-Gg5sopHb0WfIKuuEoc7ksmN-EZkr-zAp-kimAAXddzebE0qZt7yvZSESV2KBuC0k4PmfuRIQiIWZnq7xPJMHX8hnalDXZhoU9vM7_49NYpBxuowB1q7YGL8NEUM",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,243 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Universitetsgata 11, 0164 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.916697,
+               "lng" : 10.738474
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ceb7a67dbe66257b27975a7d1e1b39618ef9b4c2",
+         "name" : "Clarion Collection Hotel Savoy",
+         "photos" : [
+            {
+               "height" : 346,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBhQAAABhVp-KmlSdWUi8vhx4PqGfZP51ui9Xdw0FncwASPo0R7NXARwXkNEcBsFErEOEJja_3Asdw1IfHk5uqjx5M2v8zHbIrKnj1gRtBiKamJEQ__v8Nqks746YsRDMassGtwgJh0WAM2KMpkeKmKMg2rE17DFOL1lVTPJG-JsvwApgfUAK4m6ItWqpnONCpzcyYWBIQH3NSParwX8tA2xruqd_WUxoU1jQ23tOnj1Q6UIfgmtaRak6_uyE",
+               "width" : 620
+            }
+         ],
+         "place_id" : "ChIJrTtLWHxuQUYRfXGoMLAPTgw",
+         "rating" : 4,
+         "reference" : "CoQBgAAAAFprGpkRXxdACKtNabOU611zefywptEMHWTibXnvCUpKDMmcxagsPg3-DLuqVVXcjWtQy1TpVhNGZ3Vlbm1tDppk_UktKuc16zkAb-E73ZAiJQWDEGMjUkVJ50YXgQp-hbwh63BhldsMfK2xaiEdUGZKyGh6f3l-3wHovw3OiFF6EhAbJQv0jnaUaOa31Lo-3qWXGhT-RopNKqHAsLtAzcOJGTpA7yIthg",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Stortingsgata 22, 0161 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.913841,
+               "lng" : 10.734686
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1c7f2c8ddf3ae309739bcaa33fe3b92094cf4fd8",
+         "name" : "Dinner AS",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ11438n1uQUYRviOgFwdQk18",
+         "rating" : 4.3,
+         "reference" : "CnRrAAAA1sKORXk55Gd8PGMdtSld8KU3-xooAiOFe2Tg-tDLRh8jPdRf2ASr2fUXLtRBgbttNf6oXuO3GoCuPbEuL7Go7WK6lM4HdSdZ36OpmJ4Jn17tPXELQpvWRN7VQOm-PVswnBQPFmkqR1XiTRpqd_Bs9RIQTOUZV1BMjMse-uF5Zs-cUBoUPgMVZ71MaYAim_P_rcjyOqQjJyM",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Tordenskiolds gate 6, 0160 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.912796,
+               "lng" : 10.736283
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "206d8444ae14638540d6a09b89675c6fc1d8acb3",
+         "name" : "Oro Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/105005653582133335578\"\u003eStig Aker-Olsen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAIXktYnNZLVRiCyaINhyCutBAUv2gQ2xjxn6OrC5geQr8FzzMp9mafPV51aS3i6f3nluxWbZewvOHPevMwlHCCh1sq1brUzo0E9HGkcKT9plNeBAR3xaI5KsBv8ZsPfHKnhVAj5G8k8LU1P8faB3-zRIQbd-RN2gwjmHu8dDxzRwSrxoUJnMCJLQ1RhNDe41MDhCObyah3oA",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJATMMfIduQUYRPkou_HmuKjE",
+         "rating" : 3.9,
+         "reference" : "CnRpAAAAo5wvxn7RKxjJss2vNBv7wfSbXzn62vOtW1l-026ZZTu8AN4cOLV9MfPmjytLVExyJn-pyunbk1y49MXhLTCY71QpUJBwSvo2rSyHz1jYMfO_MfTfjDplYf9exXs8BaQOsrVFGhs6ylY1aEIhKYr2UxIQwGxMv9TnZdzXdpq2HPLevhoUNRvXQJ0FMYEgzJ0AiWgx60OrPj4",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "St. Olavs plass 2, 0165 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.918332,
+               "lng" : 10.740207
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f55e6a258cca73f2306841289e305984d7b523f",
+         "name" : "Restaurant Ylajali",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJU16FhHxuQUYRdl5X_hTwDjo",
+         "rating" : 4.9,
+         "reference" : "CoQBdAAAACpwNTxPRqH4Yq0HaM3E0GwAPilFYst4ftoh3sPDOspUw7P_x6V9pk3d6MJb641lZ8Qm1sSS8A5OR1soeJcZZ2zb-wjIiSC6TWJy4vA_5c_tFItp-ZRU6Kr8535VPYCUm0AmM-0JbK9CMtZFkADJ_ZPUs-P3mJ8HgXwdt37qtNXkEhAKDCgbVFr_SFNEqdKsQY9jGhQ-SJTfpKMOosJPD-Z6o6PImAkOuQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Balchens gate 5, 0265 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.918442,
+               "lng" : 10.708102
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ce98b2807992ea1aaa446d21bb8539989357e5d",
+         "name" : "Feinschmecker",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJfWKXYtJtQUYRFpCx84qAQtg",
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "CnRwAAAAGzIh0YNbfvu4tPrYL6EEfxtgyVAfXR3t_lWuHGgEIfLRcEUvpR51U-WxSoEI6Vn9uPdYc7jR597XP_KF5T_D7A2mdD7d6oT5v5bpGutPIe6RWGlK4pIZQoei45iRhfUgQuWHDxc-uqmgQvGgZmuKvxIQYyfRyrXjZsDQd54C8JCk7xoUSmXz9xhvXwCKwc-O_8rvz4B3274",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Maridalsveien 4, 0178 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.919676,
+               "lng" : 10.751292
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b70822335ac20bf5a2153e6d6fb6a6b18c3e35d5",
+         "name" : "Restaurant Dehli Tandoori India",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJG6qbRmRuQUYRlH3C8-hTbMU",
+         "rating" : 4.4,
+         "reference" : "CpQBggAAAAi9v1q6qvjJJmRtlxIf0E463nWt_Dgd-uDBXT1Y6cbyKMCgmHrpfi8miN4EIF7BFoWhBKKXiqu99BZfYMgHf4Z5TFcPd36Fq-w_4SITQqTJDjQs54cHf1keeEUnmpR88jw1ok4C4OHXgRIzH2ajtHIOOacXrGdXHPj0VQTCiUEgk6s2iqI8QG3C1KBHxqSIYxIQJ0SBsSoWciDUgTWGMOkJBhoU8fRjw3VYrYkRQYdAjQQoumJYyBE",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Solligata 2, 0254 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.914369,
+               "lng" : 10.720421
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d8c83c0190064873963978542e4f18a4dfd2b3f",
+         "name" : "Fauna Restaurant",
+         "place_id" : "ChIJuWfazCpsQUYR-yeuklF2sGM",
+         "rating" : 4,
+         "reference" : "CoQBcgAAAAyKXKlHqUBQ4k5uqnSJ7KQ9_ha82Oq9dCrCFsCWtNLqar0aXzu7UfWvHjhQbyFTtHr6pigJ3tU7TtAON01sganihoZHQRMctuPM_q7T0_3EnHe8aeYuj-lxnSbokHhom3uw6At9yF_F-5MKeX8i6MOL0xI9kkt7sDtTIxDBV8wAEhAQ-TAu6i5j2CiE-zh6Sd4GGhRChiRB-PobLXz_7inxlbm1DQrA3g",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Rådhusgata 11, 0151 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.909527,
+               "lng" : 10.743244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "001a2db974719b21b7c21b00e1afa7b3df18739c",
+         "name" : "Statholderens Mat & Vinkjeller",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr33H9ohuQUYRlH6duugNkEg",
+         "reference" : "CoQBgAAAAAwH4TiAKjRrflvwtraQ5rDW_UumqMOSYp6XF9pNamYY_VNVI8zRNY_bN4L3EE-RZtV6ryvYdx6BlaUizl_RX2Hs3l8O6F6J5XWfCsE27hYpye1_fwgehkJXLBw_bO-ddk5cDNCfVxPZ9GC7x7OboWBzDO9lkiVuzcVn65Gx-B7yEhBsi4laVTJVW9y7BxwS1Kv3GhRSSlLRK_nb9ijI_RHdAkFY2lqa1A",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Maridalsveien 13, 0175 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.922398,
+               "lng" : 10.751265
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c194e543e1274428f4207131f4f25fc68193064e",
+         "name" : "Scandic Vulkan",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/106167191071414129729\"\u003eErwin Pridzuhn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAJ7SwvUin0h5qA10ED2hWhydj92VAXkJmmUG32GX9-V8Y2OciU61aoFNGOBOmZZa-zbzur3_WchD60Gb75Z7v_zgao_C_DxN2KL9n2GVwSNXz6KdXhkusNv44SDgtjviFzlb3IHXAkM8wFFoXEUhCEBIQUbjtpG4-p7b4PjJEmSEs_BoUZ6PQjPO2ZKvC0mMPa-kOLucp9JI",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJMRa1nmVuQUYRZTOT-OABges",
+         "rating" : 4.5,
+         "reference" : "CoQBcQAAAE5Fe30YG7s2G2Q-NkSgrD4mrnJ16v6R-zrkqrs-ECstgT7QXKDe7lYu_Vu3XjApfT6h9KjwzZ9D9YGj-aq989KaOI_7xYLHXZq17rFZ9OJeJvwdme6P23mAt5AtUeU2pVs-P6w2AmUP5b8GHVb_OpO9jszoVCaTO8PaqoVLt2BoEhAq6njo6GYvKd4Z1Ks0Zt9dGhRyObDQM3eXpL1pPR_bTBJgJAgCnA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Pilestredet 57, 0350 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.923196,
+               "lng" : 10.731549
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7dba86bba8a1e9d5586b985fec535e05ce98db71",
+         "name" : "Park Apartments Pilestredet 57",
+         "place_id" : "ChIJib0uTHhuQUYRLYqXDfM0upg",
+         "reference" : "CpQBgQAAAGdW4NVWpNNBnUsZKhT-LCbEK-wL5Zlm5eHhu2N-KypB7NGRRCLRPIDaya3HG195KLjvuOJgdxZCRdcxhiHCvReckcAhfso93FfvQEUnYBJVvXaOKG935OwRC_4_jyp0lu4atY0w5s2tK7JxEYjXGf10rtxxW0W0WvLi2Ozw3ZbtzVqRttxmQ7kkiquC3n22_xIQz3XT2dz5ciLkEGTyN4I6lhoUtQjktyXSvG46KV-cDvZTzliV8LM",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Stortingsgata 24-26, 0117 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.914158,
+               "lng" : 10.733522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7de2d8a8cc09f567ebecdb7bf7aff54e959a0036",
+         "name" : "Hotel Continental",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/112447156892135716737\"\u003eRahul Shrivastava\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAC4_q3OdhqT8UA_evN5STbnCOQQi8oVBMbohSglvllxwmnAP18XPQELyCwABQQ0zVwzskoer-61I2GFiT353fCelMjKRfOhcnywFbnaZ0K7eY0ItOfRszl-QOBYLOs6KOzCF5pOdBO3U3-8sUMAZ1aX66THsAfsOqj7xEmzlwMxKEhAGnJuNmT5ySsNIUXFWqifMGhSDBMiJyh9rATSRRfTxG9Sjcf1sYQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJKUfL-n1uQUYRo4M6Cup-2xE",
+         "rating" : 4.3,
+         "reference" : "CoQBcwAAAMomne8RAeWVa9lUpF6zNPQLSJMcoBSwS8fnp4P7uNx43XttX2qIsHpEnJcUUMzY5y_gvJ_8tSTUodcAAhSv4Fv3OkRYhcC_BOARHLuNr42S2DwQnmXvkI5z47EjjTVMyFitJ2bwpIT1WtpUMwRYTKoE2eg-4wQrM7fvxzZ7WINdEhBtJbk9dd96lRUpiiYJNjenGhQDPyHRRNQjF_mZECkvCO1vyyaHLA",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,538 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5QAAAOt36OZSX3QvRk8gsd0UqwYeZjgvw7nTVsV3JORub_ZOlBQ0Zws27uVH7Mj9LESpSiAeiE6-Cwf8HlUW38kqc8yeVqvDfgZdRTKEUbg2VQd7MC_5Q0o5YDgMBmX0DhwukD2laCcQQFTsjGwUu5iC7OpizyN8frC1NYI2jd607CDN-kirNcWK-DbwpEHlpvjYDj4WwQucqGuQlMesXo0Jh7Zqj59sPBlS07nwS4mwPkRQ8tnjAnEGoEPoCvGeAfFs3FdSBkaOdR41c5ikuvD3g230Wz87gPcB6or2b5d7T3AoUFM1rFQuDZvrwrifU4-pGBIQPwxPEQXRUqsgK2qs5cNaCRoUuQjC5lOcDRqp3q8GJYCGJ1chtd4",
+   "results" : [
+      {
+         "formatted_address" : "37 Hoche Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.875814,
+               "lng" : 2.300429
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4ba51168b7028ab58b1310b139cb65ddb3ef6fa4",
+         "name" : "Le Royal Monceau - Raffles Paris",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWtvZs98Vg0eZrKfWEDTNWudJHUcwB26TXZ6FDEsHF1amIUo5U-AuY8T6Y4hk2GbS0Z06-BgSMEaXJR43rG87OtTDDdxi482tENAQJT2L-QrM_JnDzuhOb5HJgOmPLecxGVzyYgj_FKWw9gYyJUYpVBIQOJUO_F7et85tqpwzjy7O3xoUa3uCCACfVrsFYWjV1GoZkVt6sU8",
+               "width" : 320
+            }
+         ],
+         "place_id" : "ChIJaQacl-pv5kcRC2DmtH2M0jk",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CpQBggAAACWN3NJVzSt4BMFXdXCugShEEIuWqz40P2nKikLbEJUjPXso_P_4z46p__6MhbuNDiWh9wmxiOmbXtZrY7tDVYcVUmqY-lBRkQOt0yTlYPw3BPT4MV-JIxMP-192QJv2AIMob44HdnoH4gN004E4BPw6vFIFp0NgjFw_zIQcpH-V4bqnsZsfULPfJwcQ_Jk3LxIQUTobvTxsSpXB0859iZYxmxoUrRwGRfQI_pHO8lR6QkCKFVHuE48",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "13 Beaux Arts St, 75006 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.856336,
+               "lng" : 2.335242
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1657d408649668362441b61d22dda83abb2ffe4b",
+         "name" : "L'Hotel",
+         "photos" : [
+            {
+               "height" : 532,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAvPhs9vTZLcg87FGX4WEKgL7tMYWlBBe2Fx-foZfHcQRTQsaPspVCTQPDM93bWVKUaM9qydqooQYtc7PFjjcMEDWPuZBCMrC97Px72NhGHkDi7ZYrUkxJQHZHJUfsUEx4iWdN1IYUwyPFpRf8XTor-RIQfJlxvfbBlCE-Ju4cyL5cnxoU6RSgaYDOHAIIsKDLHYMNLCr1370",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJD3uTd9hx5kcR40X8kZQfk7g",
+         "rating" : 4.2,
+         "reference" : "CnRqAAAA9t9iRaglFUe3Xlq6tQ2HvsnPF7Sj29tuuOlDNuVB5nW88vt5KShhl4b77nS1tashv7i59eDYQtbllyXAf03AzdJEDmkseuOGAIc-adQnQ_HGTSuCLYdN8SRwVxK-Mm-b46UTOWfll2rDuUHu31WKZRIQ7ZLpsdhtnV0y6lu3weWmTxoUWY2Xal3afjWjHBYARNV5iz4dDyk",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "37 Hoche Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.875807,
+               "lng" : 2.300389
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c8243767067208a3244eebbc8bfc10b3b9cf31e9",
+         "name" : "La Cuisine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "\u003ca href=\"https://plus.google.com/104111246635874032234\"\u003eZAGAT\u003c/a\u003e" ],
+               "photo_reference" : "CqQBmwAAAPDnTzof61jnnYGvd_wlU3ljlORspJVo3sWtQD21TjVw-8E_jNxmGgHFHv1SkGDpqWJ-F8xaLbq2-EQx8rzW2Vnh1Z_rTpCSUBNWBqa1NgPqNRRWj2JBsTKHLmV_6O-r32-VbuMAOjtyksnE1rWulJE5sz6135_BjJs5n3soAKDHFF22hCNhqTg0CvqS0e9fo0laa7e26EqyVpvT-8fjqdkSEDDgM2G_quZ7ByWcpj2zFpAaFEJlx_GoYRnzP3lMv43RbawCnStc",
+               "width" : 1291
+            }
+         ],
+         "place_id" : "ChIJt1SSvOpv5kcR_igA0tnUe-4",
+         "reference" : "CnRtAAAAAQh4mhnggqK7_QpJX7fnwOhuWSNgAa7Wf-rT5-OPTBi3T_u_tc3oBuetGwp5ac6Nqw5nohX4s0Xb2G1j3e_DWMPvXwes-CQFjH3oT-Er_UqJsdZvipzDPqzCqOYAO856qExzXvARmBG-0s5KhwbIrBIQF9QetLZU_QFbaqYkS0z0ZBoUgNhLu_xHWmCaygcjyBGmCIvBGyU",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "228 Rivoli St, 75001 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.865175,
+               "lng" : 2.328068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d318f62559c91f2f3822fd66b86e37b4b8ca6227",
+         "name" : "Le Meurice Hotel Paris",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/101868101223734426178\"\u003ePhilippe Jolival\u003c/a\u003e"
+               ],
+               "photo_reference" : "CpQBhwAAANpGyK5BHMF852nRr3MsAB38WI8JscXMwRCmvCbd9NwGDp9x6pSpgLlsye_I7oFy6akwvzeHs8i_CXMwE0t6MiPi0W9S9ob-XBc2PNhFgEw0LT8oN3SuTa2ecrv6A4_C8pR8cSG-kUW6Pttat6yNVIc4omAmQ0pZOG9jHkK34RLv_P3rFIxxXa8Jq5n6CljgjRIQj2_CKo9qrqev8r0KKVp0nBoUo3NHmaPdeQ5JgDU7s-SMtGfSrsc",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJpZXu3i1u5kcRWaDFH0RY_RA",
+         "rating" : 4.5,
+         "reference" : "CoQBeAAAAFJ9H9tIXO-Tik309iyOK-VVXbGJoRIKrqjGh5BiBL4x0NBB9BaidzoNfMjQwnp332d-lahRZcrsWKfyFLp_gp7L6A26S3r9B4FbaEJt2HowpVr2wIruUecuGXIUg_jvPwxTlcZn2u5y2uQAPr57TGW6yy4Yk64w0Mmog-uHW2sKEhDT9LoBMjPD8ptgZfn8-yjJGhTpa38MzKw-X6o5-JtIaMFCv67Zzw",
+         "types" : [ "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "9 Madeleine Square, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.869668,
+               "lng" : 2.323275
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1754f0a2e2cc076031675c0160a96054864fc8de",
+         "name" : "Lucas Carton",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRwAAAASpyz7R7V8iswPtdBr9KGYVzoELqWC-1eVjxh8-ghr8JRcrsYans1KstfbVk8GwHViYXSQr9irQqhHuudlblpilM7rbEJIXUcWxlkqNj190QNSEnkgffnCVeeM26hI1a3ySPDhKknF728B7uquisBtBIQFupNX91wy10c5G3qDHjc9xoUKpWyLmfn2vdV5ktFaNX3dtbqPtE",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJrf6XLDNu5kcRgypP8GERVqw",
+         "rating" : 4.1,
+         "reference" : "CnRvAAAAaTipfs7XpF2ipfTzRvH1OwYXzpnznrTAT-QXaU2aHJspJt9nZKvClGilWFztUlFwirqkD6c9x_1uMxhzO0zJoLyoTlW-1tJtpbsUX5xFnIWNjiXOH7H_nJfAm5WiZqd61qb9ONxOli3U81x237zMpBIQEYbqNk5nCLOdhkuLxADe1xoUAcb9puj_J3sjjnl1cZaopsu-fKs",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "14 Castiglione St, 75001 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.86622,
+               "lng" : 2.328435
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e29a8adfffca3fb77114bfd6e94fc28a55b4dd3",
+         "name" : "Carré des Feuillants",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "\u003ca href=\"https://plus.google.com/104111246635874032234\"\u003eZAGAT\u003c/a\u003e" ],
+               "photo_reference" : "CnRqAAAAscKNvucPLPcylnPcW4ZFZWWvcR9fP-MBAyTCuWmJw1GsOazKSNFqsHOmgyOTv82f1DBKyUVB068qMcUgewShNto-hlbDrB3ZgVOMAYN4AXe39r1L_axtvf8BZjcBDeer2ZcFdivG_YEkaVJE7K-ouxIQY2bwQaAvfud8B4Hvztnp9BoUo8t7CbPk4PEL-Yits2s1yD5NmXg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ2SaP_S1u5kcRHiOtaTD2eeg",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CoQBeAAAAFOsXKGsIcyM9J2i_E4nK5tz_oCxfiul-fSvJVtX-yGDW567CctvSLbSlqodBM2UMYmKPckHLTAfskk7Y_G4EzHcaKw3itIT2Rxb2bzN1SOUgndh20JUfrM4RFVpKHXfbd_Y-XAUOnzu3hdvHHDMPI7ggQwwOKl7pKjtC7sZJ1ceEhDOKz3HCxs9gO3UHkzxquHcGhQt9r_2JOgwCkEb6v9gKjZFu7Z8LQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "84 Varenne St, 75007 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.855745,
+               "lng" : 2.317101
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1bb644ed85ce901e919324c4cbabc74453e9e40",
+         "name" : "Arpège",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/103565644244028407440\"\u003eWorld&#39;s Leading Restaurants\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdQAAADDSWRVBKzR6-3L8b_SKH-YZGnKbENEQNgHp8syQtbIEQWN85xfZJaQDY1rovI5k24F3to8mJhGXb0v4fRZnGDtvXEf4G-sb1OX0okbFE7DBcUu7-cTAE1Rft-LyWdaAeTNMz9PZdvy8AK7CU3_gvD5QPyXBrK2uL20r-HFaHEGjEhDjK2AiT3ijEuMsN1mm6r3rGhTLM1H8YlUns1j6msnB0r2uIbgQTA",
+               "width" : 620
+            }
+         ],
+         "place_id" : "ChIJQ-oAFypw5kcR2T9NszPcZO4",
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "CnRqAAAAtC4ZIsmg1zDqMp443ccf_K7yFQiVs1q7YQEHlz7ahpGJWE74HJJ_wBJ66BVMtx_KBZEjyu39hWO_Grt6mLQRd9qawKuBtreQullERhmf8udWJrqqdLYUNfbUXgR1lptIC1bywLnK_YgzzAPDn48bfRIQRA0s6JLhatcWBX5sEJEVQBoUlrn8aQN85o1Yd74pRPGN43p-9qU",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "4 Beethoven St, 75016 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.858366,
+               "lng" : 2.287605
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3278f25e50062a809e1fc5b404e7c1fac9572d98",
+         "name" : "Astrance",
+         "place_id" : "ChIJ_QxhRv1v5kcRyxeqcySoeBQ",
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "CnRqAAAAPEQgQKnPQ9s2D-UpimPsd1iw1IQaLtwv7zHQhmAytWOJhcI50WAAnKOrHOIIc5NmlSeBuLN36hzinGe3BqNCvdjrhC_Kg-imrnZPsmsP_h6p03p394v-LHo8q9P27iHKNUU6QSdU1w6eklon2f6WahIQ_C25yv0I6uc_EeveqkLGMRoU_qVCmpJHEc1457Chb1P4MShvVT0",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "37 Hoche Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.875808,
+               "lng" : 2.30039
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "76136f87016c59c5b5f63a4ba2fe0f072d7283d3",
+         "name" : "Il Carpaccio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [ "\u003ca href=\"https://plus.google.com/104111246635874032234\"\u003eZAGAT\u003c/a\u003e" ],
+               "photo_reference" : "CsQBswAAAH4SX8yT_fX0V5aUfzeUGKRWUrP7pS671o4KoMJBqJvTRXkp1FyhByxMZ2aiN3-c5d7FFHFzzK78plAgrwq9jKTjGMkKz4ue_bJdJlM8dyK_5ZjulKq2tTy_S82UB4Gv92oPnH4gK0B62Rg9mfXKo30agtBZCeq2eH7HL54GLy_NrXWuF0fSv71EYxk82N_GyLiLKhnfdAS7NfBKgzDnxJFcoc_0OSGx1qtyBwV2mvtdtzpAd7PPR1j1dY63wE7MpxIQ4JwD1NZnPobNswdVKQoekhoU9mZLlkd0n9Qm7aUV4Z-KPJ6IZ1I",
+               "width" : 721
+            }
+         ],
+         "place_id" : "ChIJaQacl-pv5kcRZEBerrFI3lM",
+         "price_level" : 4,
+         "reference" : "CnRuAAAA4STkIq3HsB5KIfJD_vmzKi38t3rJFRHS5ZEtl9FM-w46z4tRs7V3Bqq6VMHxKKz_KS0gWEj6OPo6Nil2jEcQxWJ0a6eylIpKuS_-z4zgBSw5Wd8ACyXTFW_eL5cn9zaMlZFk8kLoec_DvRsY05ZMSBIQe7i9ouB7wxSbEZeeeObrJhoUbvKuHnlx4AqcnxVFC2qfZWQy5UM",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "112 Faubourg Saint-Honoré St, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.871727,
+               "lng" : 2.314897
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ceeafc89d8d2bd30cd896225a541c4daa51be9c8",
+         "name" : "Le Bristol Paris",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 618,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAAJYFywRgR3g1LVrV6i611IiVYaZADfl1CIK2omxc1PY_ej5m8Q-tt8GgfTLBKTg7oURdHCgHh3WV86oJj5g-Hyum471succGdr4Ewy-McLfgs7tg7lQcuUQLLV7yQw8FcvbgKUYKb7-_KvPpBpRkXjhIQr_SfSWswBdmI5bh4cdw21BoUzm5_S8egaH--Sk18ahdeUH9msvo",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJVeUHqupv5kcR4taEicvH7ww",
+         "rating" : 4.4,
+         "reference" : "CoQBcgAAALfT-lAypEkcAT_fEwV1NDhPwB7BA55cYTUBnqeklJTeLox8xh3wg9lzQTPUNAlgF_h_6ewrd7_2zN6id7hIa27nKB4l3-H83EiX6U1W86QGetzaF-mrDVkwXHWaWcvPnXIM4x-3UZRc4WPbCjxp6w9SM4rkh2MKu_mIhwa7qFOlEhBx772mpPvS1FQIHCItZBU5GhQjVFSdc-UWj0FzXsxDvGuAR1ZMvA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "31 Avenue George V, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.868744,
+               "lng" : 2.300501
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8f35750c46c528c25f80a8b49dc13ab5d641122e",
+         "name" : "Four Seasons Hotel George V",
+         "photos" : [
+            {
+               "height" : 493,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAep5LvFly0ym25vUv03UhWKBqcce5BtgBa-f9uBwV6Tr652OwXgM3U-DWJq6jR9vCluw7EdFuOrxUahkldw_SgxZ6TYU6zFliDIzcdkDA7r6XH8QL_caPsU-4X1_7itNjhQ2tJGpP7DZ-qr6uMYuA3hIQW41BQw1x0WG5Sp-DtrREOhoU58i0qsKf25-Ad5W9jkGGpcEpSbo",
+               "width" : 394
+            }
+         ],
+         "place_id" : "ChIJAcNYmcJv5kcR7EQ_IeMZp8c",
+         "rating" : 4.5,
+         "reference" : "CoQBfgAAAONjJwCyemNX4rQBNMCzGbHnDdlztTWdaIIXcNoPmNVFTjhb_G4Hj4SvOWCCjeUjcMKiYYiJJHi3pYyMB3B95IqeFcpJCHJnm1NJZm5PemZQD6mFW_xLEOcdX2QQeLcONpesKozBjh5Pz7GdcVlY9X6FgaSw0e_e8SseTI28cZMvEhAA0BBqdsfCANWneFZNYwT_GhSuDl5axpGFDiI4jF0acDG2nqxKRg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "228 Rivoli St, 75001 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.86513,
+               "lng" : 2.3281
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f23343e021e4aeaf064e1421d810d007f6217122",
+         "name" : "Le Meurice Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEtNLKJdkRn7XQ-EkDeu4ARCnaJkNiD5If4qqbow1cacTcm2yqw95lubHi4vrMvFd3hfZhq4m-YVoaXVtDS2aNJ2XpoC5NPSCfJafERfHy3Wq_2bAsj6n7hO3oJ3nhHr--IqN2dsQ3mKE0vp36aPp-RIQ5Sra0XYyRBBfKPVFtOCFbBoUVGVAO9LrRkZrIikg_9HQQN8n-8U",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJpZXu3i1u5kcRGmOrnvKnzqk",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CoQBeAAAAKON0tGWoD1Wl2enPn9VQSBxFne8_P_6PuvySkIgrk01j3YMGbTIb7tpfVPmq-bQ-4iwRecjLftmLHselLt60xhCMLc0gMENG4kvts8g33JVY6gamcpvYLJuQphpIJ_hajNLgDlINGeu99mwQaRmGuxSjUC9IV6OSpldqeMwUJG8EhDdcC2JSNkrVsnnpLlwD1cJGhTXUIbAB7Z0f12ERHFt4Wsvr1yuZw",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "15 Lamennais St, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.874096,
+               "lng" : 2.302475
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "343556867af3aecb73cb26c6ab022f881c674b5a",
+         "name" : "Taillevent",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/111773398862909573609\"\u003eIvan Klugman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBfAAAAAn5TUDQl4SnhB2YCTvH5GFYhmdWLerbD_4SzankwJX-lZCDRrbO3BP8Zs5VCQw9ZbnRQ3pv9MV6kC721_peE9JSFiYO2lttNxfoX7d4oPejyluYaAtE2GgxQTyuSHdVS2uyyWCrGkv-Uvgq7iqWMxl1sM_rIUuXMRcR6MbKRsbxEhAt-24UznaVUfZYAtcvaIJkGhSNhM_XcDE-9faVLNJmnzTq9Cmj_A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJp_LMzsFv5kcRahcM9RvYYV4",
+         "price_level" : 4,
+         "rating" : 4.3,
+         "reference" : "CnRsAAAAtWs5tcmTBC82-kRZNuZuwjzaDKlYQhwWtvlII4fsfpS1YHMPA-pw5r8qNatmqtmfpLwzrWJlln_KC5zfu4hcu8MqQGXuohyQNYAjBeJbKCr8lm8aWyojDSqntcwgrXp5YFOEXtM9xR8TLHN3tRT0TBIQ8OFViVQWSxWWQFU2MuKPwRoUJaXRxcl_cySUj5N_Pm4VP2IwRkQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "31 George V Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.868756,
+               "lng" : 2.300299
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bcaf2cdf8e3cbe3bb5f283460e86d76e3d715a59",
+         "name" : "Le Cinq",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAt-UTAkLN5fZQnZT4iQSEITNpopJ4bQdgygZL0bimag7I6AdztFlXyEVTFTsN4lBkqQzWaZPLTUWWNGAmXSZmTbA0fa0Nj5LeSYq59OOSEq1dxPUR6l-JtWT6ZtdIvSe4o3-CXXGvZc0yHlIdH_0yBRIQoykZ9Ub9JvJrLagk52Rj7RoUz6kOIro_XoDoMCmpYKdW1RSDXCg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJAcNYmcJv5kcRx73WgTpkIzo",
+         "price_level" : 4,
+         "rating" : 4.3,
+         "reference" : "CnRpAAAAAVz6NudNrAQuFvP6MwINDmCEfrnwYzRppFBUpDJ3v_yslky5yQ8QnObV_RIyitqR4jOslB9nLD4zJ7lIQomVrtoaHItaj7SbZtm6FNsrfvLSvMDBpJLkVvDMEIJ4NNI2sESlaLsaV9AmFHZHiHBpdRIQikC0It0HhjkQ_fJzGHOjdxoU_skL62H6FvF4Zz9fM4k_wKTEvh0",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "7 Berri St, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.87236,
+               "lng" : 2.303637
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32a439d195f141db5c4a3fab42a0324b2667710d",
+         "name" : "Hôtel Lancaster",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA7s8NLbtdPmm6cgfjZ8PoamcOENTQUMMkWYqHhFhVdvJ_2O-KQk_a_f-VxUe5VnA4kK20vrh5qm9AwjlqpDEIy0souwSvdOT13ZpPHX3EXh0DXLDBzJDsuaqhEQmBm64foPm8zTiWKRwzgJCMvguzoBIQKPzhA3ezfMGv_clAOyiilxoUow-nMG9WjccFo06NrEjfOSlNWhE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ99VrKcJv5kcR2WtwYIY4oOQ",
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAALR4kPw8urldOspV5lcHTLIebRuqZYz5xHOhmh9VNiZElXmfQN1kmOOrGw9O-fVPkL5iAsdV8U_woVVWiYyShIps2PLSwpBWfk_EziY1I-_EmsciiVJ6WtBY4-VAZVGiK_KgDNRdRHLVKDuFxsquYUsGfILZujOOL_a7A3qxpykQEhD4E8Fv0e8bbA82EU48QL0eGhRWGQ4oeNSLimCYKWNoLkUmHXW_WQ",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "1 Dutuit Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.866035,
+               "lng" : 2.316199
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6218d46372c33bf176e8fdf8abd2f9b3b7b3fdc4",
+         "name" : "Pavillon LeDoyen",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/110607113604842560162\"\u003eGourmandj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRqAAAAq9q9G4N4UyJJpfowwZQagS2YMQClhEgQgXLtjbVgKG3fsL0UFvC8kuOZzpzN8a5hrtUaoncHW33M7Dp_n1g5yt8o3nEGKZnGXctsMiR1YzDrTCHm34DvhJeT09g6dlrkP1KDDyfjnmMshipbqtzHVBIQERQyxZzmkh9UIIoXQKwaNRoUbvUb_sKmhwHx6WdS7h4ls_MHnfs",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJKxMjwtFv5kcReqXVhl1jp3o",
+         "price_level" : 4,
+         "rating" : 3.9,
+         "reference" : "CoQBcgAAAJR1rzOuCgs_Xz63FeidJj8JkAA6k8_p6qBW22fE5DLtELiSZaU0xaxIWOr5U_SCzqv56c9OzUbxfeiDEMFTwPi2kyD2tXnmDglekuYkPDyugQZ-9L-UEZr5QWJTgh6hkUTZgHLI6oQxCEdSUo-_-CNRDXT7GBlHkm0bWGRn3mwfEhCPpglX5pb6865JH1O72VzzGhRhvJ59hDfHjFXZtKTJaAEdDZdvJA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "6 Duphot St, 75001 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.867967,
+               "lng" : 2.325823
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1f66c3a56514804377b94f9e9d9adb0aaa94bb0",
+         "name" : "Le Burgundy",
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAOvgxJO2t9TKaiTPgjhkowVLwclqGCueEypsUGCB1W47CPUeTvVdYX5DpvH2TeC3m-QXLVFBpuADEDPCSq9ZAtPUVhWDPqu4VvMCV7JCGAIWBd9CYHyNIrDGlKgK83IDDd_R68e1MX_1mKwN2Y5_QVxIQAekmX5MCY0fNARHj9G_zghoUF4KzYjGRnDvL422n9hs15X6g46E",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJb45b9TJu5kcR05gouvl8Fio",
+         "rating" : 4.7,
+         "reference" : "CnRtAAAA01xyMhc7TTaJ7r8VpKqIh_PrXCsefFjOPyYj3HA65TCKa8RCeN98gG-hEb0xEz5-l1IkpLJceG65igsXXf9kXp94v6Dku0NNC4jhG0AZtftk7Uh2_F7K4N5eB__-ZBDY1Tg8nZPWcEUCrHc4iYWIIxIQI9j8gTk3ZWMsvJw4rZm1bBoU8EDWfaHUKrIuJ95uRRN4xrcgr38",
+         "types" : [ "restaurant", "lodging", "food", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "46 George V Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.871103,
+               "lng" : 2.301235
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a73a0fa646496e8a1e94a69cf1941e81c6d1fa4d",
+         "name" : "Hôtel Fouquet's Barrière",
+         "photos" : [
+            {
+               "height" : 515,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAu669ATrr-UJhJEKhixEsHBHTr1wmEZntEzC7NzHvX0cWswezLtTUdOY4HvvkyRbC330ma2cV4VEgJOUpI-l2ovJ8bYUbhPlKvcpUJzmIRVM4g2wf_upo05BDSz8O_KpMROSP7FBJWS3LjFtGPcmdIxIQozwuZmtInOxkPnMJzDbImBoUqF6iJTwZPyAELWGhGktxec1AOC8",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJb1MgBMJv5kcRj1swx1Rftek",
+         "rating" : 4.1,
+         "reference" : "CoQBfQAAACTrQvTSR1T6vbbE8zjyB6nDs0h8KkIxU8RhLv1X-BMhF-8EogbWrolJ8wnnbpr2tTK-itOZSBHnBhMoo_FespJEWqtEQgVYwJnGktcH2xjXqeq23lsH8SRJG-u8tcVE89Nvyl_jiiyyZaZGoNavw7eWsGsCnZ8SDtphrKgkvQptEhBpHNnuE2U1VebNjzq2i0NZGhSEuV-fZN_-xpggnt0d6y6zl0MzTQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "1-5 Argentine St, 75116 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.874372,
+               "lng" : 2.289751
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d662782590b8df5681839b31ecfd6e543ef262e",
+         "name" : "Mon Hotel",
+         "photos" : [
+            {
+               "height" : 1181,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBfwAAAH6gciTN3qn3fwuRzZXOlewSL7q8n9p9k_M-UuVhUVyAbpX4VN5wuFjsz6btbzkeqkQUf0Cu043BHrstHPzoQ_wiumNjmLZAfRVB8Sz2kIlJh7lOrFugQBmicTrWQ3U_uj9H8LTPAdLHcdOy5gL_eH1X5bSXLkN9WpzEY6UyF2IUEhCJlJjl5bdGUIO2HU8KSIBtGhQPuD4IHtWZpg5a1NS8UQSWZ-fUnA",
+               "width" : 1183
+            }
+         ],
+         "place_id" : "ChIJx9YBePJv5kcRUXlq2zBftIA",
+         "rating" : 4.5,
+         "reference" : "CnRsAAAAGP-v0pAEqhui8387hU1INrzvTQ9_sg6jVEh-i0TZXkj4hv-7sDPGEleTRJgMaPo0vPRK6pkPowU6kuRwNXzySdm18P-0aGGqvTJd3O4QKJGgd-ISzLxBnaU2JPiu9n3eFBq-xahZWKiEd2TSmyG9nxIQc5t-Oj-62YExaxJz4XHwWxoU5zF8GKrUFfXE6bi0Oe-NfvuVd_c",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "25 Montaigne Ave, 75008 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.866194,
+               "lng" : 2.304272
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb1b3875cbe8af933c1c0e9abfbd0b4aa07dca2a",
+         "name" : "Hotel Plaza Athenee Paris",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 426,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBggAAAKrbpMYNeuwb3DElNA8CaURgnak5WDK_6vwnh5rdfh0C25FO7o8eK4o7LXOTE4F66wK6N8UR6Qm3u47O5oGCNG4AkbgeGMQcbbNOhXbXvKVBCQvKtY2cNxFtBa2vrzcGMnrhAJJoR05QhAUe-mbxDWKU8YdjJA_wa9M-hzbdChNdv2EUwHEo5LG5M07qb8GmixIQRlwWZarIxbjKtNolpj9S9hoUGmGkgCxY0q9JOIi54icoAgJ4C2k",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ7zXfwNxv5kcRmhM4V85rZAA",
+         "rating" : 4.3,
+         "reference" : "CoQBegAAAPx0HwxwDlE8ssod11b1sekI8MFZtZrnR9nBlQQ3ycYvkZYqssMrWD_dxdEqSnN9U4ht9fs726MejV1gsP7Thk-Og5wJejS8WlVFerA6wMdXgVNPhh7GiMJDue2XHKiG_XlkUw7ag5Xjkjftcst_CboHx1YAoyUK_sJXuYZ0WlQZEhB7AodXJXQCzwlbEfi-HuJbGhSfqlJd-fI549S61e6O-9GOCBFcHw",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

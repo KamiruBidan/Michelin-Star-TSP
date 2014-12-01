@@ -1,0 +1,304 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Uudenmaankatu 9-11, 00120 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.164752,
+               "lng" : 24.941363
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef514287650a1217ff32faf2c3aa807611693700",
+         "name" : "Restaurant Demo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1374,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/100671681116170302683\"\u003eRavintola Demo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRqAAAAZj5SA2HDyiPlTS_r8Uv1FItSBbm8c92tiSihcxjnHUXHHTkx4YQcYekB6iwF_I5jxDQDb5BOEOpC-rxqIptJynlRJvvWMRfyWyj5VT2YbuRjHgicEu7fjipao_CEJEfezvpB4AakTtgR9ySOQQLmmhIQJ2j19iNZFk0oS5v-wORgjBoUcf-9ZuohMu43cF9S6ptQAXiFUBM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-cwofMkLkkYRBipdZNu328c",
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAAPI98zz2wwCdhZ3xamAv3dMGJMWn-0lXjYfcc0mqdAAubom_JgBr7_bEDApLe7r47QnEvgt13rc0Tw1SulQu_fE0Bt-mjAFhsNi5a35TQ2PVWFhluQp5Kgbes5AdgfiZLRiolozMmLQvrwRLVQldfyQu1wYi_HAxhYSZK9ZVs0CNEhBJylD3lVaqxn3k2K9WcvlFGhTb8saFRwTyyBWK34sySP8X_p4w_g",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Pohjoisesplanadi 5, 00170 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.168116,
+               "lng" : 24.955039
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1cd9db455af9cbfc2959848cbf30dbd279bc54b8",
+         "name" : "Restaurant Olo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcbPkLMkLkkYRFeWoki1-0vk",
+         "rating" : 4.4,
+         "reference" : "CnRwAAAAM6PeHlXK62pScs2IuSjZpGSiWhBS6OFqJ_ezqnXa6UM6jKH4MojQpKVNLFPkLxhvzdghS3-LdxS3IRlLHBTx3LGf2yLrUFUM6ynPpuLndoby18MNbo2uRjc8qhQb-rjEY1DyHY7AtygbDuPAw-1qShIQiQtQ61Mlk95D3wN2NZcUvBoU3kvH7kcEWOGZK5Nw0lqze0l--yA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Runebergsgatan 2, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.167723,
+               "lng" : 24.930146
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "960e89560a11962b8262fcef9011a40c99d4351f",
+         "name" : "Radisson Blu Royal Hotel Helsinki",
+         "photos" : [
+            {
+               "height" : 177,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAmYtc8VwOEWbaHpSSy0lWh0U_JjoJqSQj25wZLUse1ad9n30VsVGLoG_j5O_EYf17N0COehkXryxXVe2TYDQPDUmeeCSuEuZFTtMyJ-kyMHPNczZpEEXvHMO6BB4vnupe4XsoFQYEeZvHtAVlej2FeBIQpoCIEXexyz8tziVLDSWYcRoUmncf22f0qp0YB3fI4mCgBD7-plo",
+               "width" : 169
+            }
+         ],
+         "place_id" : "ChIJI2pzwjQKkkYRUVJqsKqtwxw",
+         "rating" : 3.9,
+         "reference" : "CpQBggAAAMZCzFaeZ54IAnXvw9YT7JP_CJFQNLHGz8WCI4-9Oqh3LyFUjgu8fC4_fVrmj_picjeeXhgl-ag4Q8dJQfFDCyrjpOirI9CnCEQd0W5x5S4FyD-6OZsQQJ96LrdSPDaFoehkRP6l1rkXXRpemGwF8xhgnsIpa2Eu-F5PfF7rcvHQIi0u9MKc0ZovCfdVgeS7nxIQmVzyhChgGIT9Zd2wnnD1aRoUUOLqVDfUDooUygpQXv25Pyu8nQQ",
+         "types" : [ "restaurant", "lodging", "food", "health", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Ainogatan 3, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.171915,
+               "lng" : 24.93148
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9ed3020adf465b45f371049bfddb3f373629bdee",
+         "name" : "BW-Restaurants Oy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJG6IhBjMKkkYRAKosxw4OGbg",
+         "rating" : 4.4,
+         "reference" : "CoQBcwAAAJaQpo5ZPjO9SwRq6eqfsA7zkr3jvjQkbukBoyrU0Nhj7ReOTquHhhdG4ktA_JWz4JQJ8Az2za7LUu71yzxEaz7t71EBEHV1tP0NCr2Ep4ZSkBZ2JQy-nqVma3Iv_jc46qyaa--GPSfddYxDxUpVASWt8-vlSaDDaQCKdRMDWp4ZEhD0aO4igvgk9JuusEKuwgFeGhQ5j0E_fHcRZ-Zt8qVdkdta74jLiA",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Mikonkatu 23, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.172474,
+               "lng" : 24.945556
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "faa7998aeb8bd98a2f07f9d0fef1607b054026ea",
+         "name" : "Radisson Blu Plaza Hotelli",
+         "photos" : [
+            {
+               "height" : 334,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAcoskjN6TJhg0S721Ko7JyCRxV0R9kcEeVRZs8j4209_iK2d4IM_GNKuodAaK7-dZf6bwDSzOwWj4T9HrxP9RXqtNI5WnB7CV5J_HH46_5ogvwTxu9S1WUZQzXXiNSPDlSPjzuyfPwAqQ8ct83Sol5RIQLfIbLuTS9Tsk2FelJju-_BoU0Bm56kTU3wNUMQiMZixQ6axWqoA",
+               "width" : 365
+            }
+         ],
+         "place_id" : "ChIJAemZj80LkkYRRF6dhqkjtHY",
+         "rating" : 4.3,
+         "reference" : "CoQBewAAAERzDyyCbXm3ULFzbZvDA1R-kVWeO6nfSWXWk7TRLdp8ERxwwdaaANZd1-iH99IvZoPej-2LsBJ9GRuaF6lLJYCa9ZQ4anFVBH0yL5WSDloe_0BBbZihaBAdSnPtfKNJUg_8_LfeixA287dJWcrzCNTG70D4LR25znoLUIPgilJmEhDB95juEZbAFfuTgdyPFRBfGhR3xeeN8Hv42mw3lX51U2Uq4hxh2w",
+         "types" : [ "lodging", "health", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Asema-aukio 2, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.170597,
+               "lng" : 24.93897
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "41abc602f137a5fcd69b72aac46d7d1ff7817eae",
+         "name" : "Sokos Hotel Vaakuna",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3630,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/109175502645754934632\"\u003eAlex Pogrebnyak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAswsFcwqBacVu-p5jvtO7rsN2ZyV2_z9fZIbCNacDCYyQE-Bzq1tK4iEfzBliPf7dI1fNum80coRvlpK1deUL0PIDT2fcJPWFayRFL7a7XxH8fkx0KqLwDo1j0TsXenHy1G95uC2SksHQ2nIUJGEcrxIQVkAqD3yAcRGyrn6NNdWNjBoU7kUPgNwZDlOYi4DzK2c5BMbQM4c",
+               "width" : 5444
+            }
+         ],
+         "place_id" : "ChIJM0Fw58wLkkYRILmHq4PDsUc",
+         "rating" : 4.3,
+         "reference" : "CoQBdAAAACSuLN4NEFVhdR3E-A1wgC3xq_Ic8BAXTvm2EFXBKyW-43FbTzbNS6K1qOiLhh_AnvLsyBz73PlfycEHX4fhxrSWeBfIZNOoE0fjt_zoBK6ZnG0dwhW4p06xEoME6zJwp0R0POjkQCgE7-gtOeq-IQOjSr0dnbqjAtuTYxsOXGFTEhCDsVywf40_zgf0V1klvlX4GhQBDPrxOK003Iq2sSLHMBb8_r3eIw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Fabiansgatan 7, 00130 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.164088,
+               "lng" : 24.949991
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "78804a2dc8a9283f53f56e2aa3e103f635079253",
+         "name" : "Hotel Fabian",
+         "photos" : [
+            {
+               "height" : 959,
+               "html_attributions" : [],
+               "photo_reference" : "CnRwAAAANOYgf5XU5_JXvKJLwq7OiUhJPpo60jH9l1bnoeSuMVAA_ARjL7563gLtLl_pi_G2BITWPZJbGa2ziIfiabPi88EH6X04JQy4j-RWwrUM2nTloBUMobZKTlil6NppxMZVvyoVoGS2ghwGlon2ozOUIxIQAOMvCNpEi_sWegDExc3sjxoUIhDi7WuY4ppaTfnGZbYUGkGXAQE",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ2xYclMgLkkYRyj4TUEiA9k0",
+         "rating" : 4.2,
+         "reference" : "CnRtAAAAo1TXKHTGqvz9EzJLWq4Um4jMI9W-I0LlPM5r5IACnSV3AYVgtavrD_HM61AgClo-zFtUIGOAFEHSgpjBg01VzWII619Q0wcworlmk9JjUXHelJwFMRyVwVVG3-6VWnGALNZ4yfO8LzVWsaOe1vfo1BIQSPGhWQ0kUB4x4Gr9ehddqBoUbe9laZdFlmHeyPdWRuhFUS_Q3Qo",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Kaserngatan 40, 00130 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.165855,
+               "lng" : 24.947669
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "54762fd686a091d8d87ede3cdf2d259ca8acbd5e",
+         "name" : "Next Hotel & Apartments Rivoli Jardin Hotel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkBwT6UdgUmchoI76JP5JSlxdpFzdiDKdZBzYu5AuGXt8eCSylIa1igTjXbk-v9pxQ0IJhxPKj4nINXcA4v5ilgP_U_5buYmGhDBSp2TdutqoQadGEp-NdLkchdHumTB-U9Zu7TdzYZX0wfdCJlwHzxIQyLXzK8mv4RPF9t5KwS25fRoUjil9GFelFhrDK2ZS0rdv5uYIIhs",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJB9xtJ8kLkkYRFnrTYAuBPIE",
+         "rating" : 4.5,
+         "reference" : "CpQBjQAAAPWJVC1ahjM-xtHNBSmry2gJLfrqSpv2jyP0eZq34yZytpLAnd9DQdQ-HLNMLA3kSiKrCOXHw42cQnoBkl3iQstG0HxLx9zCdswc2Xw761jICKspb6VKrDJu3dfVPqQFDibYGlzur2vQTLy9nXtuDWaIjil3UN5kcZEemsuRqQdSfC58ScVC2m9C6Udw47UIHBIQkwZ11uUwrtDiOcN4cYLjYRoUJ_xk2n6J0OBXrXzbs5i-1XDRj0I",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Pohjoinen Rautatiekatu 23, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.169753,
+               "lng" : 24.927174
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b5380b8348fca55a0882613c9aab991a3e05117c",
+         "name" : "Helka",
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/106475278064513446784\"\u003eВлад Бурцев\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAtLduMltz7p0BwlLxDGnTSxLG8Si4-Xn285CSBJMR8BD5U_Mbbg1BOrEwRBNqCmQZpPKishJSC4SynHcg0I7rJjv12UXnX2NlHFP25QZxjO7lidI1ldvCQH1IsVHPSKoMf6ivr5RnmjEir5lTChaxIhIQZxwfQNdhJNkYCTiifjfSbBoUzmHzqww_uwpm3vXqR0FGRckcN1Q",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJNZaVbzQKkkYRaguPstoMuDA",
+         "rating" : 3.9,
+         "reference" : "CnRmAAAAAZhc6uGyN7qzmqv-QgQV0klz3CKc85EY1sqknDD293FUqMN2KWwlW38hgj3_ZDIETQZbTb0FXBSlzBARsAse8SryEjyRGF7NvZRhPVkNuGE4o3QGGrEtXgFEQkU4-Qgo1d1FvPyS49FRyUv3cw3RKRIQxKXyUbgBQ3xH_J3XzhKe2BoU54Cj5OBh2QwaCHlB7BY_OfmRW68",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bulevardi 2, 00120 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.16614,
+               "lng" : 24.942531
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "858dcc841d13332e68df193cb35ec7385a762b9b",
+         "name" : "Klaus K Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 553,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARliIb58yksx40-rt6bUHsDX_2WXM7RmGYnUY3sujFs3mgeax0EJmw_65s0hzh_BwdYJ8wcFlKWtv7dOWzJ5mWPfn97b2aB8g5eSXnjg-SBdk7D2MdXypTAE5tCkMtwnlIXUyDGxR8jxk7WGVtXC0RxIQ5G66uM-jqDqm7244ofXN_xoU0LZBxxFzeY_2TZMfvTRwMKkGamg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ1SRMX8kLkkYROFfIICaTlEE",
+         "rating" : 3.8,
+         "reference" : "CnRuAAAADrFdJgyRDNkTiQ_Z7Ib9HcLPISLaeB-3_Yp5bka7VirNWX1v-ZqWGDSZTqIlCAhODNJWcLjIdkw3-pS_Q25PboU81jQBQ5g-s1x_zt1G2nm6J3j36ib_ry0wiFuh67eD3nEzpHqBSIOL-XisUOeTiRIQacun3R1TLnuL9iuca-_pbRoUignn8Ni0vBFwmTCvxI6o0xshrTk",
+         "types" : [ "night_club", "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Unionsgatan 17, 00130 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.166487,
+               "lng" : 24.951389
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "371a099220c0ab2eb89e820e03812df93e57241c",
+         "name" : "Hotel Haven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 559,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAA-4zmnknbOZQ_jC1GjUiad8ESbufF4tDYg4izKLNIFzo1WO4nONiu9B0VgyG6DoWMQ4k9nIrCS4QSewwW6ZR-3xjKep2bmLI6Pd16mOJnGwJfxLn1pxEbXcPkyLaZJFiRP7NEQ9CUVjcZBNZKiMiC7xIQ2QgCMc2tdhU6CyvFFvVCVBoUNxP7sSLelckwFQtek4InI9Ex1Ac",
+               "width" : 559
+            }
+         ],
+         "place_id" : "ChIJ8RnOOc8LkkYRtiWlf4Y8iXQ",
+         "rating" : 4.7,
+         "reference" : "CnRsAAAAx1CTddBDQAtdUbo3UuVhBwYkmpxpBCheuwG8-Xe6_-EoIYMMUeszazdgMo-H191yhnJDooCTgAAQSkL6VFh-j7GRAPDEeIT0vDehdkLTB3y1rfsz81HWtyx1m3_JcbSpKAREiFxAP2-fYanX_gXRvBIQ0024jGtQaU0_S3Cfx_MwjxoUpsgTSOWjGvDTUYJBfVE-AMBcQBg",
+         "types" : [ "food", "bar", "lodging", "spa", "establishment" ]
+      },
+      {
+         "formatted_address" : "Albertsgatan 30, 00120 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.162831,
+               "lng" : 24.935213
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb1db14a919cf0c39eb112f286ccbc3d680ebd38",
+         "name" : "Sokos Hotel Albert",
+         "place_id" : "ChIJ7dU9dsoLkkYRNBYQWwb9eQA",
+         "rating" : 4.1,
+         "reference" : "CoQBcgAAAGw-7xHil78i2XLKbCDeVFdX4fym_fi0znS8DcFGzhGJG1xzfW-0O7hswKvLbcq1C6xZhv-gj0flnzPOFlH0ve4cd5-hOvB1n8Ew-3vRzKKVJa1OKvoEFLfksT3eXbFCbxQOyC3sJdL_tZlMRMFuLA7X07sEyP1sfNXdtP2mZpnzEhADt86hOsdTT8QtFSHOAAvRGhSbG1sVawziVRXDE7Qvjz4b1IdwKw",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

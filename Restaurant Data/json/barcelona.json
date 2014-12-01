@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Calle Marina 19-21, 08005 Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.386821,
+               "lng" : 2.196472
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "929018256aa9320ab6f1287ffbbca1a11b4dea83",
+         "name" : "Enoteca",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAMAiyc3R5mWgEerU8H8ZM8tX5sDrDGb2CuB7CpMdW6fD3ULcu_F6NyVjhLd2uZ99RKtjJTsiMO32FIhx6xgmNSNowDCqMnQoSwc4NHL7TBbmR1RFyon9Nndm8MXTmIhhKgEVJLsD22UWV7PrN9po_NsybXBkdju_dv5nu1lmhotvEhDieOtfXFzEG54ySbkkLC3XGhRuJrqTpEQ9OPfTZOwrS6DhQuqWWA",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ0Ulj4g6jpBIRDNNmVg5Hr2E",
+         "price_level" : 4,
+         "rating" : 4.3,
+         "reference" : "CnRpAAAAJOLMJ3k3gEn_PNzcSdJ8UUklT0-JWCdrXUFHTzksEZLey03d-FUFm4ldTmyPka5bbrKtjmLglRDN_Rp4_f5HllHGYBvYQFxSV8DeN2uFC4NEEsPlzNwLCeZqrQZxrlAhM3B7fSEM8jzYah8hsM8bWhIQyK3rYvQDgFKY-LZAQtLQiRoUB48uCS9EGVztLgGoo0J8ZO7p_us",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Passeig de Gràcia, 38, 08007 Barcelona, Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.390999,
+               "lng" : 2.166679
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "697a44920570c4feaa374d99a1db27019157a5ec",
+         "name" : "Moments (inside Mandarin Oriental)",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAA52AKwJyGzbPDpCI06Fgrm3Nn-pI3WrlTkV4k4n-BvomZM2_I7YXY9lAKcPT0RzhQyo5fpu3EPjowetelD7GkhnUyzvM1a9AVaD0OIgHVtajHzoRLnJ2ON4EO4GL1mDUI7xRT32Pe_wT0f_lG7gnKhIQR4y2rTwbNkd7NJK8v_7OfxoUlqa29KIMYJ1gOZywXOlHn7T694w",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJ6zCmfe2ipBIRHC8FSUmHIEg",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CpQBhAAAAO0EHZh644KYZoD1Vo8epKJmj4SR9Gh_k7tNhbZiFZYw2JW3cD6XPcn2xm4qtTIBh-8I5KoKNll8EZM2WQ0adC8If1Oy6fsn8CB-2xnKZQbg4j5sxj0vj3QMyzWcx6Sxj0R-w-N86D1VdlvnoMFsuAzBnb5TxKo7InrOk_znUC4BnZ6EqCuYaURuasxyuyuckxIQJLTcuA_JK6-_1b0EGmFOtBoUZhxinabz1qFrSQiTeF4Lwg29Dys",
+         "types" : [ "restaurant", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

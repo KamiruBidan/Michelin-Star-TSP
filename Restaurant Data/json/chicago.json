@@ -1,0 +1,602 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5wAAANfzEn1V6OROERzALeeMGRhMUupDQ2zmVNBnKxJ6JXWkIG9r0fuvc6CkEPVdAouzzC9Y5Ftviwx53cc8CS2b2Or9Ai-AeAGT9jJsf0cZuaPHOXByYIfZOoqcFqTMGw6rKHC-e3Z6hrUXi4xizvrVFXhjZkhERib_g6AFmO7Mc6Ul5FAO43Ta4Otn7dW8mLuVNAedA5dpJeKTQWEnu71ul4XQSkIJfHlWhwl6_2AywcqLYYruaUskdEmq2b_uwsHKVZ422-gTGWcvLQjg_TLdM8e9QippKfhBBdhq9vgWMfRGd5c5pGpyTqQpu69PwbbkhhIQgykrnH0Osf7Ux5PC6v_5bxoUBZb4ev-lL43__RQIsshaJs94Wuc",
+   "results" : [
+      {
+         "formatted_address" : "401 N Wabash Ave, Chicago, IL 60611, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.888823,
+               "lng" : -87.626656
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c3ac5c6907d25ec462c7fecbcf0c39ae196da05b",
+         "name" : "Sixteen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6swRGDf2l6q_Hb_T-3LF_-Bbz8xiZLdnWOPg_UxlE-Tut5H12X3Gvrf8sXu3YeILU9L-c_sSZEnNHCwX_TsiomIa4HrdsLeAKhKgXS7d5S63MCZGazA9KErHCKqu3PVNBZNIwtnur72XDA5n1hyAaxIQyRUQ6mF0lE8pXQaOL5LbExoU23Mdf75vlwbaZoucdnUNWLZ50z8",
+               "width" : 655
+            }
+         ],
+         "place_id" : "ChIJA6EvXa4sDogR0fGS0JuPUMQ",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CnRpAAAAITIbWvVHfRx6hL9ErSTJ-b5J0hbs8TXV1os_nB-jxCty4FFtVbXZwDjplBeHW9JY6BYbSW0hT0tPrmUB7kZSodTHivnKinCD34wkm2gS49i285aF2e5L4pRJkRJ3nzHqXCY97FBwSKXCoLjv92Go2BIQ75mDgCsNdqnYrxxG6Ek7vxoU54II-pGJ3YM36Yo29iXjAWMYtB8",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "2657 N Kedzie Ave, Chicago, IL 60647, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.930071,
+               "lng" : -87.707189
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dcb5881c357cfa8afb85eccc27b16b9c65ad3726",
+         "name" : "Longman & Eagle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/110607113604842560162\"\u003eGourmandj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRqAAAAoTF1cQ-3MoiTZzJV6ovCPJL7aZt_MWcXBTrsO0DTxTcgnwhjNJlHV6upmKMlMhtZlgxoBypzZpxKPFCUJk-JPpY-1owNqcN4JSuB3k1BmwqG7BLDnR0l_A8_8573zG7nLYJ3_I7lW0_iEOs9JT9kkhIQ4NtDVCAuEQLbvVuMhPgjMBoUFJo32zILPDV-Kr4znGUmoLY1-1U",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJz29MdHrND4gR5pq83uUZbVo",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRwAAAAiehjpTElMgF5d0wVVx4SvQ4bTe_ZEtL2yTs2jR6nxZ-7uzGIR8Kz7F_Q0c6XJ-iVnJd0KdeHuqF23TmCirpNgG2e64ogP1N7KPfLfw96cilNLSmADqL40HV7KmRpHPGGiRjzmbztpgb0L8oUUcjb6xIQ9cFEs71MF4cHV5k3tSZhLhoUaDN0nMVrWog9peSLDwP67mHuCi8",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "1723 N Halsted St, Chicago, IL 60614, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.913428,
+               "lng" : -87.648135
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b1911b922bcd65130e7d94850887df5d955ce19e",
+         "name" : "Alinea",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAT7pUTN7FkflQb2DTvt-qwe0c3E2rOdIOXCMsWsXJoXzqSkSSPOLWGzKqeUaugkgK69s2Xm2cfyzAUetiEAEXeDxzmbEJYFFAmALv949idNcfJcUjy56hnLOXRUMUIE6uDgbRQQYTWNIfnW6yjXXnuRIQcq--aECOCbn6hqRZ5kAhMRoUT0CWQHuEJ5OFGu3hDnBHt6KtqaA",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJuyI60yLTD4gROwTWENq1He0",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CnRoAAAAm4BxZ6JKak-EnVRj8U3HZ5Hy72VL65jlnlViZSE80WPQV4ki-GiEbou4CM0BjV5eMXSexCSx07Ozx_Cpl_l_3AD9QaIr_4ctaZGRBr7O85IDLh_vS3DQzMRP9UCvymg2bGGS50yEqVt0tIhEdHBjeRIQ2pR_e57OCD9pBYxRH-aCZRoUY4q25anAw4HCQmywrOyXhvVvvlc",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "123 N Jefferson St, Chicago, IL 60661, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88394,
+               "lng" : -87.64252399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "806a79c48a012f3d91e455fad6a5052fa785fa84",
+         "name" : "Sepia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoQPwc6-Ghrt36X1dlAKSDaiSuR8FCPo1u7cx0j4Y6v3TarLIocSFQNk6bZiSN4cE9HOhGVERDG2O2xj8Z2oPIDQolhVCbJJ3FueRjuCDL0Rx9VabsLRvxVBUKviIJuhR6hfLX5Q8F_brocGCV55p0BIQAgaykXfOlG--AlQJe43AFhoUhkf_jWy7vsi8_2G3Av0cu_6Jyxg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ_0NFbsYsDogRHqnXKkBCgs8",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRnAAAAp0hBMJENkIlmxRVuXuhUfMsJFMG_MmNcDCNSkU2k0ZnIZeSfM9ZqVgeojX1m0xOQpdaEi2dYRosCUREgNFSudxp_KX4KpXXxGGsEfjO5PI4K2tlsHf1B1c8XKDAixr4woTb82X_xcq2LUodQpH4L_hIQkjnDNeglt08_dujymKrIthoUKlHK0cpGLbQbjWW82B7Nk6UBv-c",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "500 N Clark St, Chicago, IL 60654, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89101,
+               "lng" : -87.63129000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "532a260e1f59667b10fab4da8989c2bc59f384bf",
+         "name" : "Naha",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 478,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/105638421474098477833\"\u003eAmy Ravit Korin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRrAAAApKDZL06GBZZdqroQn0OIjMbrj5o-9pYJX1yV_17OLi4CjfWBVBu18Ovk2X9GzmjOLoDTbxg8gl4sYtW6owos8iQbeH4UucVehIzwwDsUzqpwmYLfR5Px5nCJD2bUmk98MzjlfNHQK9SOxmhMGUsZIBIQw9TG3E58H18KrBNRiljwzhoUHddKcFSBNDHBmbeEduuK4iSUgqQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ5b350rMsDogRpdcxe5Fd1m0",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CnRlAAAAKUxQUZHE4t7Fbj_HAlfeR14QhI1LCVsSEXT4PYDAzB4ZmZVz8nLlJNbTIx5uoVd9LOwre0eBWxDcLyB7w3_G4ZrU2pV7Lg3MCKFXpcGEgWdu01S7fEzFZnWHhXTh3Ub0f2AN79uuNUzT1yvCIxjerxIQ9HGIY6Wez9ZpfIo1jdJptRoUt5imcpHglgTE_CgysqSohZkQpvA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "619 W Randolph St, Chicago, IL 60661, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.884276,
+               "lng" : -87.64353300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8fb2727411ee5ecb769ba4b02edb0fcd503713a3",
+         "name" : "Blackbird Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 639,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMrGJCdKo4T_gFWnFMaqvvxI-IS_PtyfJfjPSLglmkaxqcBE79K28Y2camFCkNVlp9gVEk4-2j4brFBKYoO3byVVP9AkEZzc-O3PSog-vS-TMpm7S3spb3nkvI1aqlKu3pgu_yDui8CTIUvqLJRsBGhIQ1LcSWAF8CeqxqEdpqw7NxBoUVCyyOfHk6LBu6wJ1InuTs3eTDy0",
+               "width" : 814
+            }
+         ],
+         "place_id" : "ChIJKQD13sUsDogR7-XywAQdDIc",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBdgAAAO_-Dbq0oZD1T-Yk_b4QM5cgTNfxC75P7Lk9MJTDh0DA8g5yEEG2IEdEfKNsJz9rDd4Sv2AI3f-jTI7rpwO-dnJ3PF_79USP7dDNXIfxQ2ToQ6sVwqMVma-xWodvbbxNW8iveS9FF-xe0Q1KrT-e7SpbdS5MMYZhDshj7BqyxP__EhBhMyKHvsy3Kli5_Y01j301GhSpqblu6JNFy-xFB-15ALTWa7Ixog",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "1729 N Halsted St, Chicago, IL 60614, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.913632,
+               "lng" : -87.648183
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "90c93d4bde0a14b9917ea1d289834332719ac2a0",
+         "name" : "Boka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAA6sD-I-itsampVFf2cgjKV-jfJiG2u6n-8Q0Z60fdNGbkJfDzggW-cfAGdIKDli9oJq2oDaUCtLnFXmaWiXb7RBnnRmQ-bd03cjcAW3Rp75fi897zMZbM6YRun32BmsY-210wvFVO7YVxekw5qQnVIxIQGEOeiiBVb5TyWLkbdxcVkRoUcJ4tJyiRUSKD3SoEWtX-nNkFZoI",
+               "width" : 659
+            }
+         ],
+         "place_id" : "ChIJg7aSMj3TD4gRlHUmzqlebUI",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CnRlAAAAtR9iVJZGJghVRXKY89yqs2oy1fwKzQy9N5KGchaORTHF6SPnAg9Noogy5nc3uTf4HMojE_JgW0MsvfyLoj54Qm7Fch9MRhfpBs0hBhHP-AePHiSOti2Sad_aa6NuH4wpHKYcCs3Gbl9VhPbey24SVxIQLDjkcbMdYBjrIFYIT-M0yhoUGlySrPyiMXXHiA77Jm9V9u6AFv8",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "2419 W 14th St, Chicago, IL 60608, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.862647,
+               "lng" : -87.68682800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b857e8cc27c92bfa5779b0047e9a642a1bb0cf84",
+         "name" : "EL ideas",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqC1JINfOfwlM2jphLCw8GkhvJKFOGR-Wc7OPJnpGYL6DsUtE3xwhPe8s6TkKOqGKIhMnstnuFKC4mVR9aJEKZtL8ntMtSXihx6pZ1YYL3nw1Izx72Wv0nZEIF2hIn9iqnurU62m-I4bua6rqjm7wyRIQyNErTI83I5QAV--iYmv9ARoU_UZ4UYWBkWH5CpulRWilxWPR-88",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJbbQglnAtDogR-Y6w6ETH91A",
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "CnRpAAAA_zUbopdOXciNzvolY3QIg6BQ_Le7mHIqn5GDkaP2HEmyWpueQK9oyZt54BrLUY5AicmrUriO3rpF626Igwf6SWl-IyVTuRe8qOJ6E1B-3Ww2nCpYTIw6x3RRqjM2GWBJvmoScyOXsvL8HEdPlOCKRBIQ5-Cf_BLU8fbSE_hdaT8UgBoUyvSAAj3Lc_g-BGRpMwATaP_QUb8",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "2610 N Cannon Dr, Chicago, IL 60614, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92987,
+               "lng" : -87.63746500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "df8d7fcb508fb865ee3fcbc2a0455dceebbaac69",
+         "name" : "North Pond",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/106377853164357692164\"\u003eNorth Pond\u003c/a\u003e"
+               ],
+               "photo_reference" : "CpQBggAAABFs_TMNePxATNj3os1PJXtRygfYNThOvz1QUhURJC9fWhfw3pnpScnIBLIzkobPR4GjxOtdbYqRtotFG5XMdmavW68CpofCr16302a3pNI1RhK-sKGzhTuTG1NVBmHVS18uRggr6kccfWJNGWdrg5wEfc8qpo61wZt-liD3EOsaPNjj78PNBJrLC3n4Jb0mAxIQJHjTfgbpfM4Xj7AipModsxoU7v-QUgesw4x33Kc_NWbxFKwFF2g",
+               "width" : 1824
+            }
+         ],
+         "place_id" : "ChIJt2vvlXTTD4gRHTP-0F3Hnyg",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CnRrAAAAGQ-5FoqXKSMblkqEaUMEBW9V0Le3_-1050yYrlndcOMSZvHQTLyUdXUsxLhx3SIx8E3EEz-du5Y3Ig2SNNSKnjh0UWItduavtGfQ-3sPq6Xa0K4SUuHDaL8NiWR0l1DYUcWLAGkXI1FN_Lme70NDkRIQAW2r40IXrD_mn_jn5wE1lRoU1tGrbQOijHDsaNk1B2PV4sfUu1Q",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "2300 North Lincoln Park W, Chicago, IL 60614, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92398,
+               "lng" : -87.636931
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "89894b11a9991adbbc3b8a8ae5b19d7841bd1068",
+         "name" : "L2O",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcgAAAK08rZq7Fwbl4ds_AKDLhHPzBGtrvnPP8b8_nxt3cLqCAFiZOPWQHjWyEPFeSpceSjzOeI8p_TYoBjRwdYO4EzlyM5sv2fJ8M-Qcz8wlh9jE1plzliebngbcsgcMDH-KpJZiGKWJzGryLpgkVP7SpHqC6as_XjvlsurMqsaiIysiEhA-kDOMl6NhmdfRvhOhYzKMGhSjjGT6YJ5ZGDI0sr6PAb6PJiYkHA",
+               "width" : 1361
+            }
+         ],
+         "place_id" : "ChIJNQeqa23TD4gR4Zz5BsC-dC0",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRkAAAAaVtS7L9zNfFkV7CoDVCHtios5VV7FkmRi2AdUxRdNHzH13iqqSitt2bStWt62jcR5CRLvDmNDqkGD91o99LUXyuHrsnQ5ls3sktTZI08NudQ5oow0OSg3OPM98lALmj741ddWe2-aZCWOnFpc5aaVxIQQVvW8pSFxKCz5oSfbC4I0hoUB3-IWqQWXJwPkbEQXleijmn4TTo",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "945 W Fulton Market, Chicago, IL 60607, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88655,
+               "lng" : -87.651701
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "788cd79fbca6e50545e5b4c718bf40b1f622876b",
+         "name" : "Moto Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkbAv5OQ0Ckwyo7zPmiA2Hq6eJht6S1dvmVWxxtIHaXST5VBeytcBkqbNNtmTXj2NY7clWdMYWb3hvVffLd_NXcSWu-9n-7728DOJPPSF80pF8wg34_QIw-bbtCLi0pLQDJda_L4YLuXrkHHKAf8iQxIQqgxWf49PkpIGN9DPk1FzYxoU4-4kvlCZ_FLjvC1iBn0ZTh_3AXs",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJO2w1kdAsDogRn3XRIaKkf_8",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAAPlqm7YvJ2kKsaA9aAIuc55pI4VlafX8PhG0kDP-xDWTdkx2MFf2La17QhNkzVe9QBiaExOC8KpEgVjHgmosANiK9yPvF2AXQsc8iGqb7MqrqXZA12PNnWnw-HEvPcd4rRE45XkYUiCKTYTv7w8CKG_ZcC7XleFuQgGANJNpFYSOEhA8XNJIg3e_xEd60MEZkUnAGhSYfgGmUUcDFWU8v5Ntv5XLPfZhag",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "1529 W Chicago Ave, Chicago, IL 60642, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.895876,
+               "lng" : -87.666003
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a841ed73b7cea34eb68d8add0cde021763df808f",
+         "name" : "Mexique",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/111567027357927859119\"\u003eDavid Kuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAMYgu1C2Y4p8HGU6cLeYzudQKErl9bmshQFplwG2LV5mdeT4lFbGoYCe2kRZ-A7CdB17VjYTwnjO4LTWF1bvFg6Zgaly0-Y9LyIhSivLGy66LfckGxXG63eoFAoG9tncrj6tZaNhPtGRdPWiGPNpP7BIQiTqHmGpsBs2Th8ZyC2d5MhoUFsGIDUZXZur4_T6126rtXJZmsWc",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJLwU9LS0tDogRinHmp_NFikk",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CnRoAAAAZSGwuI-WTrpQ18qQ8bLDaGvo3G81juz8_vCVwfo1c6dh13IndXOn048QWEhIQ639STIhTxJK4Y3rtT5Eo-evl1BOMrLJYYHf2EhQQyq5y_oyd0C1gg6TClXY7_jknEdoKukLsV2n6EgX-aWA2azvmBIQkF61U-i5_4pCxnjBqXftXRoU47UL2EoyOYpjZ8JKJ04ZW0oBZAA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "841 W Randolph St, Chicago, IL 60607, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.884125,
+               "lng" : -87.649199
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1418cb63eb0851b72da4c89dccbea43afe11c4b",
+         "name" : "Graham Elliot Bistro",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmexhMRk89-E072oxbOAiXo9mgE5og5WVsMtfILfmNT-iKvSWrK8iPBJMcNlydG_vvrgPSCWecjxKiWVBluiAOIKDb688JHwXLn0WR6xLK8q4rotbyvbJmaSnoppV67lU_SNqJjmY7b5s5mg3iPhPCRIQVi4OdRrEyrma3bmoZkvD6xoU9CB-5uYwXrs7DUqYsaHTziR01LQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ7a9pxNosDogRu2K-GxSMz_w",
+         "rating" : 4.4,
+         "reference" : "CoQBdgAAAKzUBFhHuUG6RwPe19fnB0QfXCzHD47FKH3ie90V8kmJede9cJM4ggR28nUlt5RhKEvFhqATdGMnhMEOe1vuAvFEuxxDr6tMOohvbsrp4QeBfyXqm-MeeN_Xa9yc5ZhZbslAeCXOuikNeCOEzlrpo__bB5Zn5O4HEVzikkvbIELTEhBUJIhPfkqJGecLjN34H_DhGhQd4P19g09MjOElw4e0wK_uTdKWPQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "980 N Michigan Ave, Chicago, IL 60611, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.900497,
+               "lng" : -87.62448500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "eed80de3f2c24ea7693e6b36ebed20584a643e27",
+         "name" : "Spiaggia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWwvDDIQoNW2Kx2CyPlqhufpMBxc8zfr8me_-nf_EeSZ68F0wv-xKqmsZH0Ngfh06tL3pSM9m6B5cpgsplX57Y4VSaS15Py5ZtxtgF0VtFguiAryGi6BfOQGOZVryi_BKcAt8jUmoS23fPQK13t-60RIQtkPV5E7wByywO5_es0Su9RoUHIrB-Yzu8Mmn_REIDI-9gQfazl0",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJP130W1HTD4gRWz7FFU5sXLo",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRqAAAA-wSUV5o84vO7iMUoo0hx8iC2UOwjM6LrKaCrekXFD8SYIgVzV5w8q-R00paHwBURGxVTRoVRHOTCF6jiqCLRZhkuLHrsOtvR-23n1iHapKNKnSxPT-K0E7ItoAmbVk82csy-dWaUE5MRg510HpZMWhIQI-0FUgsl8ugHKlGjxGFNZRoUVVtgnjilcRU_nvhurf9p8Yk3vTo",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "330 N Wabash Ave, Chicago, IL 60611, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.888573,
+               "lng" : -87.627785
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9f440121e4a29e591d26d5620c272c1386af4d54",
+         "name" : "Travelle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlTKgmIeGUnatX1uwvlqtIbi1_a-x-HqHWIexnR2uoJ9nU8afcuYdxu7aZ6hY3dd75QE3WrBxgcRlz3gfwQcAW70U1XzJvhZDjXkh9wqqNNujFSuBVvNYJ6eRkAd4YFqJW5-SMTDWYVQqaA7BnUZSChIQ9gF7cfFH-fzIJcbc3XKWdxoUwIRI84dCxY6HaLLzameStLGIg94",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZY5tO64sDogRZxHN7VGnPGg",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRpAAAA2txNwwgsnki3frFhjQVEOo1cRM9kjXxdkD4e29z5LHcnWhWQD0pDsMOn5U3P3yVh3e6nf6bfq6x4xQK3zol7IfXYhR4hkRn1Wob6XIhI5dU6-l2MB2G9Bs1X-eLdtYiOydR07MDC2BtiNlXV1DKfnhIQgQKT97NC2cEB1fgjFrQoeBoUhXg2_6uQILlFf0YkvTTNzwBwjFQ",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "800 W Randolph St, Chicago, IL 60607, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88468,
+               "lng" : -87.647661
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "240ab87d3969438146e9d573e6d9f67eedff7ea4",
+         "name" : "Au Cheval",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/114272681543186805195\"\u003eSonny Song\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRnAAAA8e2SIAb8XrH_MYdG0CSnyFbaqLHjC35lU0NhiOYMm_BVCgFiD3vy7uG614Bb-GelYAS6b0uf7-1fK00rCPP4FubrM6FngUGQ6-w-z8UyvIHlzfN5WuGDJTcLJhoAK5bAkk81_vrv9p9_OSmChvwA1RIQ0bojGDRv3-IX_uISESMq3hoUDg3M3CkoekEAZOc0W92LxLeBXOU",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ78NyRsUsDogR6AqyYoPrts4",
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "CnRrAAAAbSxHbT3zmjSDF_c588RB63YSzNLkTgKiHPNa_vZVy8e_Q5LVWJaFIZAvPd-1CcpJPomwNwSX5uERrsrT3pE4fMGTW-_lvPoMk68nF6MCoL4nQwGKnTowNvQKUQhNWFvNA7m3JvmWDPTEeShDjtu2_xIQa83pvTvNDraMTVb3HSCVQhoUhCC2EO3Selj1pGBpFjTuq6upcp8",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "809 W Randolph St, Chicago, IL 60607, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.884164,
+               "lng" : -87.647971
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d224332900f932b7de863b9083ccf7b6ec036111",
+         "name" : "Girl & the Goat",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/114047136817929006626\"\u003eAthena Chang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRqAAAAssYPU6KYQMRm78ZGV_mw8K9o8ocVFp5VpFpQWvg79EzNpG035tItVPlxWM8Y_Z4cc14q6p92ECTrCD-S5ipQCbyPQgBj8I8ZbxZJ-_d6riTmDOTIUMAATlxdH1Itidc7GVrVvvsBFvoUayYJ9nwgGxIQI6aZFVJqbLvP2WXAbbFoWhoUqkW_TRN9PgDQc2jg2GwtH_Lb6AQ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJs8mbNsUsDogRUnpg-b_IK5E",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBcQAAADRf05O-Dujh1SbP6tDkdLdqAjZza9Fd9fNH29MA2nCtc2V4oEkpFk1ymgzR2Cq_gfEYkX9f5aXb6hMYcNwAZ10fRrAJUBQfSWWV7upXDtwvZFFk3s57sLqo6gjNaV7XeUTDrWiosHGqIANyex0CsvgxJPNY5A4T_H6EODQH3AXUEhAKCkgyfa_aAn9WJwZOPWwGGhTdlAHL51PGzpdN7oNdk-TKuKSEgg",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "505 N Lake Shore Dr, Chicago, IL 60611, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.891436,
+               "lng" : -87.612145
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c19080aff949fbff5473d1c9e954299245e3087f",
+         "name" : "Cite",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAs0Uqu8D1rdQxEUs7vZSBAjthjafeXYiPXxNYo3-PpFt1VBeV4LJYzlnBdwLAbw8GL9V8yLaweVjAJDoZm2yGlZCb31OxDWuJ-SF9WuFOI1N7I2JVimdof_8p0k5DNjBb24sQgBjHEbYB54zajJCS_xIQc4qHU_6BQ0B6cLnWLBroKxoUbO_ZvIw7ZXfaeBk15I-fr3hnuWI",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLzy5vlMrDogR1EZU12Hh8qk",
+         "price_level" : 3,
+         "rating" : 3.3,
+         "reference" : "CnRmAAAAkVESpdfa5tx2OXpznpMZ54-rc_DjyoU44DgPUwgdEhaNS62R6aE6Aj7URggWqw_fQdNtXylBGTZz7-bX9voXqGUDFo9yhlgognsb7Tet8f4V8LPHr3vUJ9ut2OIi_wPKT1CJmzOy0eu3qEajjODuoxIQlG98IvPXtebjJJ_HbZRxXRoUbykzFNsdXTOznQj8SZZGMhmIpHY",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "531 N Wells St, Chicago, IL 60654, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89179,
+               "lng" : -87.633925
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6bf11aec7acc053b08b5854682e53c4b81dd9c97",
+         "name" : "GT Fish & Oyster",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/114272681543186805195\"\u003eSonny Song\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBfwAAAMDIxObt1wFIWcS8Y2AWzuxbNJgAxyScJPjX1LTsHbIX93utLz0PDIuwnca2H7C6lJpjl9u4nGrjiffaPUHOSL4auQplVAmlCpp9bS9aI4Rn1D-6Foj4Eh7MPfU8qsnW4iROAwN9MBf0-_Ad8J-wCXj9z7JjPnjnwZKCGHGGPoh5EhA_8IaYP7hJ6QDnQ_j0yjgmGhQsdGn1Ham8inG7rEpvVbPe-rBgtw",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJUX1XcrQsDogREgsXPx4xB7Q",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CoQBcgAAAGGfhKNowXhN6I7NYfCN4UYMgXWUF6RDMDaaer7YbWILckK0ATERyCwRr9zjJMhl6LoNSn7mbcdzui-KYZ4UQQKtlwwM2tbtKu05k61NDar3rPKrnGYyyHUd-TwW82S7RP8cNv_N6EATg3a_9MA-txScVuyKrLGIDf3RurPKAZWuEhAcaSfCA5Trt2UKTzcpZD0ZGhQAw07D77z7Yrpikb8KP21TnMjcUA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "445 N Clark St, Chicago, IL 60654, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.890563,
+               "lng" : -87.63088500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "312d152ea2b6821328b921cd33e9b526fa07a9e8",
+         "name" : "Topolobampo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/112027771483008453746\"\u003eWalkerfour CHI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAUyq4bqx1rCakg-_ulzISX5LG1tcmp97vo_K6c5Gpsh4vaFasc1AKTqRhN3wfZ4Tzu6PEBacdK9QxY2qJz-uSbvushRkQwkFZT3NbPFynO8oBhLa6gyfWkUB82XgLoGqI253vl2CKQRKreiOp_SGqLxIQOHvW4MI5cwa_Lhut2RDPLBoUgHpb28AtLq1fgYhxyO8f3_PoiQs",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ25jYKrIsDogRhv_ykBvwfOQ",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CnRtAAAAXfEcKIABWsdyFMcZJECqVY8XgeZyQAxDZXtdTIXF1dhJHD9-3UlRymrxlh_QfUdPr8Okn1FlKW02bwHMyXS7S7PJ0hg98FnbksPyE2l0O1F7CtccSNcMlGOGnA4ZZWP00cGnOKJy2VN5QIc63UqkRBIQCpzk8xILNbtSlZnioC90XRoU5plf9b8IFAMIEBi5MBfl_-aWdzk",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

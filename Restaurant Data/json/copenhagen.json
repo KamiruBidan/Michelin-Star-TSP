@@ -1,0 +1,533 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6gAAABoBsVDxkTnkMMJRko_sYLJuq69PGx3mg8vjHXjYkrVzM8Jmjag6M6J4NbRaJMHK2Te4j0OiXLDZT1Dk0PimhZkV75rk9FjsJu4QAwmqhZqQ5GdGpy7or5Tm2CvuCQfVekyWMxZDvBuOjJmY7-3DDhng69Tr5WlOXytU-q6VPbD3SofFZXQkOoqQRIV4hSNpzXb4qBFg3KEgIcbT7b6ERCNj1DcEjVK9QKnCBH3Js6fLGSavynBZBccxTuo1f5ZcfE9dPeCHrWMKfJYXwP9QLq3AxzfKytffnhe5wMUHfQuvANhug-teRB9c9NxbMROf_xIQxbiWBfVCIUnzq6Xbn198ChoUg6hLM_bIASSteNGX_rzj1ZrPLNA",
+   "results" : [
+      {
+         "formatted_address" : "Vingårdstræde 6, 1070 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.678737,
+               "lng" : 12.584001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8e36a031a86e66e04f195e76e785d4c524d6cf5c",
+         "name" : "Kong Hans Kælder",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 468,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABDRWnaDjs5fGuimqffMraumRHt6qVP-QVsvmgtbWUe1jF1fMmN6FPjsAxYn6DbqsCn6lQQMY0csqDMweowfzARg3kTUOH_vFa7U_yOVo80nmd9F411LbIPsHeaa1_9rrZSqKcTnlBDPOsNJjF_J4VxIQ2W9uQvVyC1ED22fWttYw_hoUizx0rN2wUkdUW7fp_7-rAB0JFwg",
+               "width" : 508
+            }
+         ],
+         "place_id" : "ChIJXdbkpBdTUkYRO6NpiMExk-w",
+         "price_level" : 4,
+         "rating" : 4.9,
+         "reference" : "CoQBdAAAAA7foO1DVMhtco8HnrhzmJqw-hsXSPSu-15xKKKM8NRmfco3haQmwPJ9u97lZPrfJO6zPt0Povendpos0G8h9Z0Ii-DbL1Lv862V4g5eCxaD6Dag0h-aYhTvPxe0eXjHLI6WqF_FYxtOPnlTN4czeNRit8ms0kWItyZ_ArVtbBDTEhD2Kil7aksD5z_URFcHCnzlGhQEBQHBDfBiPTX7H4dCFTMOmVtFKw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Kronprinsessegade 64, 1306 København K, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.687526,
+               "lng" : 12.584989
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c4ce122cf64e0186c459dd256a94ba29c5be9204",
+         "name" : "Restaurant Kokkeriet",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 625,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAA9QeLccf1cFoJyhtrERQOpRccxsIxJ3MDwEXrhpBWmWFARIrtf-OmO7fKuRZdO1DP8WDp_cudoVdPvYggtvAwECVg56bYIhQIrLNj0LUTHJ4ydSZrWaq2Hl_mZUgxXwbza2IoNDO7_K-OY6CTdFWYTRIQsQ40qlImPsEiMCwhyIzcfxoUD9qomkIMtE8k38osIQgB0ZuoLTs",
+               "width" : 629
+            }
+         ],
+         "place_id" : "ChIJUVuyvx5TUkYR69ALH7SPcWQ",
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAAO3JYzv0oqEzeR4ROY97yDPVbADRWQQ0YmjZ3Cz5QFN-iz1X5wyesjSFTkyvrJpf49ImO6f2dcyVTc9wINIzBM0zxax6oviReF4mmMkLelDsbVqjDn2oujXzcu-ciBDJb99u7uEN-D8So9sYC2wAY-cvJ2qbj_5OxEbTYIP1SwavEhBUtHDFD9R9uXvLCdnJn4nHGhS6G5tIDhOCxz509v5eaDxQpWNdzw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Overgaden Neden Vandet 33B, 1414 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.673257,
+               "lng" : 12.591551
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c0e4b1450a7618882e1af41675afed29d8f4417",
+         "name" : "Restaurant Era Ora",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjTQLvD5TUkYR8VajwYZ8si4",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CoQBdAAAAOUEnnciHeoQR58dDhjUoyCn4oPzFaWyFwuO_5hC830qOoqytEpzN4fmWBj0WXouw4f2OB0xHcl98vm9Z2up_cub3m9kmDCYsAxmxRU6gwYyLFRzbo8vH4xO42MrT5o8yV5wGmvZm196qDF4r7FcZUieZK5qkYnooSrr4Qkt5VvKEhBdJPVo08WvYPHqrtX7frHnGhSDPBreQ9girJbEUQX64qn4piM3-w",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Guldbergsgade 21, 2200 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.691896,
+               "lng" : 12.557242
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ff926ddb14691858f13f46296cb1486f884dd46",
+         "name" : "Kiin Kiin",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ7-OlWKpTUkYRm5e0EDHuhT0",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRrAAAAnagZytfXDIhriVzsGZHxd60V3GFGrCIwwk5poGvLbmCeKGY1S1iMhQtY8Pg3cK_0L8ymWRmSL6-ZnqyPTeHGcTTQ2J1sV2wMTjiqibjUCRX4Z8Fs6FuCBWqgBoHD9oM06ZHPkANZ0vee-ogqsadDWRIQxb9MZpuEg1d7OmS468D92RoUPELmhF8KkqOJX84NKjnA3HH8fLk",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Dronningens Tværgade 2, 1302 København K, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.683281,
+               "lng" : 12.588829
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8905de89dda1465e810f022922686ca445ccacf8",
+         "name" : "AOC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWj6mxzKNnZcCfpFE18QX5LrLy2UkPOMdtdELx7Im4rROfwFcJpJ10TSr2W52g6dZJc5LEl2ZFEmxzXbXwXp7Bw4p69AFVhTgNx0BLKFFFn6gxTMV8cT4-XJ5mkrNTp5jZ2rTt8nVrmcOxCQzh2RV4RIQLDOkHeset07_rLg68vfcuhoUAClFofvEWKRAYwQbY5yKkqZ2-ro",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJM6fyhhhTUkYRy5Y4y78NEYU",
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "CnRmAAAAFVu-CoSyiBIOiWci_9caoASoshpI7EUYIwbi8ZBWn0x4kHxHxU7fzL9KDK8EmFlk2EQ4RgcAay022kX3E0k_EDya3vQCeUltUBWfUGA0jO8qFOzOsvtDrKu7rZMdHoK7wVkiiIpk_8UWcvxQBFfHNBIQmULANPyqdJ10SuvCY2pWjhoU6DmkuhyvZqdEMQ-2U0FpGtOGzf4",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Vesterbrogade 182, 1800 Frederiksberg C, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.670676,
+               "lng" : 12.535625
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "786c1d7cc51abee3e595b93e779785b4e0054fbc",
+         "name" : "Formel B",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAshI2DILdktiVRbbDu2hc0cyBjCwMerkCWxX4SwqlmBcs9aKQCHAaJkHReneNzEMnlJGeVTiXbFzm4qNW_lpGqIxx2MvkUsxQEB-B7OqB3qzVJh-HONRVO5Vpe5a-TiVq4ObT9EnlfzA7Jm3F4Q2vahIQeucCgAFS1Tuinbk98sfpCBoU61yrvmRtQ_r7yX5vaf8IsjB3SY8",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJlYsHu5lTUkYRZUZrLqyfup4",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CnRrAAAAhPbqxaKq2ptvt_87DfXR9tgG8pEgLO1sVjbzMHgLPxiYwOaOnaLunPnonxPt9dXjop1iBcK6Ga-tFnpiySWcQjiK6hGwB022Ec7uZSzvdFmirU7fTVG3_9vZjBn8Xa5hRLOc7VkTGCahap6QtZuLfRIQg79me3dNeSh22KzosoQJ7BoUQBRfnePpcHb-iiLX5xyxJmNTTnE",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Søllerødvej 35, 2840 Holte, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.813507,
+               "lng" : 12.495165
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1eb00f48b396660620013876345b7e4fa2410c6a",
+         "name" : "Søllerød Kro",
+         "photos" : [
+            {
+               "height" : 852,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0DkniuwniqzJXqWjZD8Xwo7KgA4gawNHwzzWnIKN3YTpARLV029ObKD0Ikp0DMBDPHojdtCh6vdTVQ4pV92MwYISpiEjLiE7BvOzWM1MSfnriGTCohYScKvMhixCjHxZ3Y2Lg0WhyKRtOSZWeAIinRIQELAd3QStuCKio5YumOk5NRoUP80mg-CM2KifMZ9zVUC4_XJTIu8",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJua9HeudOUkYRDn953dEtd1Y",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRwAAAAsi5EHQWj5X6yX8NwkEH6ASQilMO_ru705hwu3_M6ihNJ5EJjUtVH8vVrB9BBT-aPIQV5m3NJB04AsI_Z-9OaequxvWOQghHmHdGtZWF2hcPtDlXSzZNQYv35kyiYEZ1OXjVZf6rq7naPHh8PYjATTRIQFAgaiJLJu-qLQWbV6q9d-hoUNqo4HVJqXvi01DNc_y-pLFBnAF0",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strandgade 93, 1401 København K, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.6779,
+               "lng" : 12.5963
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df92fbcf0f8dba0596ae54a651321823fb8b5f06",
+         "name" : "Noma",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 877,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcQAAAE9NfaSXYlNvJv6IEoMCCu3sG2AHiCt3kSAn4Zj4edd_LsDQ-IwV0MrgmYBp7qZ9LxdABEYMXqz6DY7WObsr15qPt9pg7ZWDmsIPjVjEGAwGFx1nMKLjQO53VMmSaeV7nLPJ2QlGhG9dgNJ-cK3PviC2BY6DJrveHlkUKMH_XJ73EhCfKja_ajRqL2MwYnsUvPrUGhRAJvqQz9o9FmTY2qhWGReMhyvdIA",
+               "width" : 877
+            }
+         ],
+         "place_id" : "ChIJpYCQZztTUkYRFOE368Xs6kI",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CnRmAAAAIbqARBbtMHbhb6S_lQn-d1ZFKIYmFMwN_Bf-5PouUtVmXQpnI_4yW71PsIiW_XuegrARiwb1Est7vsFm-9eNtcXv0DuSWHRUIQHOD-QP4bznVyM8CJmW5qLF7Pe7MIr3H3qLGxpOOEz-Hewwpl3pPBIQYRgJb7znsN4gHDwxA60FBhoU1I4WOsJ4AAo_fzhomFspD0A3TeU",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Kalkbrænderiløbskaj 2, 2100 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.712912,
+               "lng" : 12.591485
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "31ed74e2170a83e83ecb9c65ef119acf46ce97b4",
+         "name" : "Restaurant Paustian",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1181,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJUlIVgnjxRwqml7sXZYEhYRmD8V1SliIHkkL_-7aCFwWBbTYtwYoaEdHzlczHyhrz71kYsVVhmh8rtHeLHaB8eZykiWwqa1Ddik1W-DmmHNXgtViKqh9ymnVzKAIzLJGlGaQ2FyFHitgqWhQVSh9JhIQzG05q01bpgGaGcXOAq69SBoURsKHBFgQNzLmqldQ8yhxZ9wvNfc",
+               "width" : 1772
+            }
+         ],
+         "place_id" : "ChIJYxvo2OxSUkYRIOfmQw_Brks",
+         "rating" : 4.3,
+         "reference" : "CoQBdQAAAFSCBC5wRgd4WR8CFyO9m62qB6eOalOATskxN3PwYrN2BOVdjgg_FIZtOu414CMov-jpENTBzScPwfu1d8L4Z1PehJ6ChgkyelScM7UF_85f_CJbjkc5zt4NTuIdAlSgGzO90zI4c0KXStXM5pdjeQ35gBFtCzfqfujM_3cRguixEhAMdhtEJoTMRCx5CBLR9y5EGhTllNuqRMPeCy0ZXTUAob5IvsfNAw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Wildersgade 10A, 1408 København K, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.672245,
+               "lng" : 12.588697
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1cdb38348f6f9f110074b013d9310e752e599dc",
+         "name" : "Restaurant Kadeau København",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1204,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdQAAAAa9i5q-yYWPKwUBcZBUT8Lu70wSHm1lb8bVBXMY_fV5vQtia7DbeBtwch-mZWdgTBISnTav40D8i1Au52vqWdqsvbkmhOMppkBwIfjC_7GPk7xRdpVdFlR-KnXtLGoq-pbnqKdrKcA60qitslfPy6r48M4FFGnGAu4Kr-lH37YBEhDevx17G62WPGjXc1DQN2gHGhQrAmLWXRxCZPh3ZkgKYK82NAfuzg",
+               "width" : 1203
+            }
+         ],
+         "place_id" : "ChIJ1Y52MZlTUkYRuDl4FNhYh_U",
+         "rating" : 4.6,
+         "reference" : "CoQBfwAAABLNtxl1h-qAYF39m19Jw6uWoG8oiYDsBzc_jVaO1w4cCdEwqMn8AmmKBU_7BiI6RBt5VkQutyqYI12KFpsBmSBcIIYSaAHpXmlH6DqrBVyt_BjT-bcbvtgBoEx-wcxBVLup88e-PPb3BcBkQkKiK1N7jG4CwxbM5vvdKWVqkweJEhC_0PPLzHIkrecz1gUkTrq0GhShAE8KMmY_hspXzYopwEAL2wLEHg",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Snaregade 4, 1205 Copenhagen K, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.677282,
+               "lng" : 12.576982
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2cb05f76072bb3574ca436aa2c57e8d952934c21",
+         "name" : "Marv & Ben",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 743,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWnUg672q0eTUHoMdSKZ3meA854kdeN0VNYvAMaXhZMwsRjvLcnFDkC8Na_N818rBKHYysDnOF5SbdlRoYahdYrprtMppiveYXqQRtTi6Iq5B2_zK6mZWJ-w1uNDYXeMPfmg6X_2jq46iy6PBPWt_IxIQ5NcOgdRpQveNemF7Qw8xThoUMD8wLhkgqlC8WJw5wEhD9oc3MWw",
+               "width" : 726
+            }
+         ],
+         "place_id" : "ChIJjZNJOBFTUkYRXsKrS_T8jPY",
+         "rating" : 4.6,
+         "reference" : "CnRtAAAANUKeIdNVkK36Diafy4Bcus043y5gZXZwyUU_hiqBC0m1eKLShUltPL3b9gJ-o1J5KxPdp12BorHD9QRvUX0F7d6gbo3DKSlJrPfDOZBN4K4caf30ElexMIIo7II69yU1eRmuKlcggTPaPPrwjQU54RIQTLmtcQGANn-qVf34ZHUi3xoUnrAcCfd1QYhJ0wtX4JFtwMKBfRE",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jægersborggade 41, 2200 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.692991,
+               "lng" : 12.543352
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "49f328a92942501f1d016d6cff1639e9fa3c7cff",
+         "name" : "Relae",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 852,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQcep1ZA8DQCcAHg5DNnPO4S7PW-NZEck6jNtArd1qAJ9XrrlbLWWHz-WjjDgru36wnCmWNHvohbIxMd6SSTkWz_b4mo_dwA1o2SD9JYBpC85vDJFRJzFxPnD1EVGxwq4fZijeFLqM1qTH5TIgIj3NBIQmjURu4pDeNafBiSD8Oo7bxoUi_JSmHSCc57pY6LvvgpVBkkoUo8",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJiaM1ebJTUkYRftvdLprjf6E",
+         "rating" : 4.6,
+         "reference" : "CnRoAAAAaZtt5wTCYn07vvDotN-GzUM_u4vXCZQSKcIFmDxHAxZEKZJqL0I6pkJA5565ajwhBVg37Dii63GQ3OPBEzVlO5YncXZp92wyIqCSWG6DpE5ylP4wlqvGltsbvHWmpB1iDe90PvYzHWQHek6o9N6HfRIQUFxFLxTpKQ_dht6qviv9hxoUD747he5qm0mq8M5M_qarOkFIO40",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Per Henrik Lings Allé 4, 2100 København Ø, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.703136,
+               "lng" : 12.571606
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a785c58b2dada37fd924ee38bc3f55da535c69b5",
+         "name" : "Geranium",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/106430983116299714118\"\u003eSean Christensen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAA5Uxegh-GDZxsH-Tq1u4OpiZQLBpsC2_a3hxW6mCrf-1oSlL6l4HC4Q7kF3P2OKI0fcultbq8nyvQHLHDdVnd9DFBPS5ricVq0LoD_OuNMaH_p-DSFTUKubWtm5d7EuAJV40-CPo9fuP7QA55xMfXVxIQpmjxudu9oqhAQrqXUK9qKhoUtfjofvCghgwfesq5TPz6vT1ztNQ",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJAQshwflSUkYRF9f4wpDIt7U",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CnRrAAAAAYAOeF8iF1R0IZMNilnOdiyiJmKWPlNz8UFZtuAcDDgZEs7hh2IOVHhEeUbeeGezXuuFRGjpU5ZcfEHGzCkv6_axyREdyTbM7MG5X2jqVxydwq5OnDaYjuDh0SHHF-uoOWxxrlcr2WjZWa_yAGPQfBIQlPrRZ1p7ylw_qH19Ab9vNxoUg2N9ljveyI3viJ9YL4lLwuMrtH8",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bredgade 63, 1260 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.686262,
+               "lng" : 12.591769
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2cfc00368b02828236e1befd871b147acbba831a",
+         "name" : "Le Sommelier",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjLuvQu3bttcImZpRcIYkGviQBxXuY0hV3y8Slh7TGrV0sOb0r0NcMLhT5N2bTxl_CA0yxSSSktL2_nuxlwGqAUvX8X8gTmLslBZA3rse-TVVgk7y57FwKqQu7QX0SarQhoPc8MfMRutl48dDdHxDQxIQkyrW6PEvQlhTKpYaigvYOBoUIftbFcl5cHcw_kPX2EAZ32AxjvY",
+               "width" : 848
+            }
+         ],
+         "place_id" : "ChIJ_U_j7yFTUkYR4nWIfblE7Vw",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CnRuAAAAn29mmPdWl-hpqPJbqkhfa-GW-6XOA0RD-XQl4fKbJ44kQRVOeiIEs4LRn6aai0YV9ZK62pBUtzZQBdqjZGuj19Xu15Pyf85C-WEQ-qLryQZ_rpuVvQSlVwAz_VfgXapAEOoRG3drdEi65qeRKu9YjBIQXK2DrBp3fGD_XL0qZKLnfRoUQ8CzUyPgYm39KIinPKsqy0A8qmA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Vesterbrogade 3, 1630 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.673684,
+               "lng" : 12.568147
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bf44e11689073cad7aa87b271e5cbde6b856b3d5",
+         "name" : "Tivoli Gardens",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFvJGEN8oPzCeOuXXG8n_dNxeKZ4AoMbmAB2YFJa2Ojs12-FWlkoikT7zS5FITlbIY5CuotWY07Tx-QNeMlhe8OyhPJpp6A80poI-CO_rYkcqvq1TvQUQS29QmlozXJ-FzKgAwAbqbbeqlNMh14kDCxIQUjCoaAPnTxbtGLu5cR6OwBoUtNsz_Rbd4rP8uQqi0E2cPu4tI6E",
+               "width" : 1442
+            }
+         ],
+         "place_id" : "ChIJ8-r2gBJTUkYRsCcLtQ0Ltdk",
+         "rating" : 4.5,
+         "reference" : "CoQBcQAAANZ-q-foozomBgF2gg_D2T0O62S_TPK7eNEa5cq_wGuIFKKeig1NJ7zvEbO4aEWhcDCG-n0YDQDBuI6EpXeDZZr1TmBzWKXX1FiBjjENDJ3hUvUPHNDW9wjWRWqr2qHHjDzB_f_9C1046-hPTVNWiC1u_bLaud3td8FwGQRqSbaXEhAD4wTDuGVG17VWu7MD_asuGhQX38wfpxLkMGXImil-kXh2jIBHjg",
+         "types" : [ "food", "park", "amusement_park", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bernstorffsgade 5, 1577 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.673659,
+               "lng" : 12.566039
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "48b2a86f8a04e27904efc6b4abe71d16fd66122c",
+         "name" : "Nimb",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAzDK3SvGpRfVFb3uX0R6IhhuXM71FkN3cknmRLYgZhB7pMCceglk2guaauGq9OJnAcHLGf9U_cGqQn0nGdquQu1V8RocLb28s93eVYdwr9k8-5DQaLhJD3N87xBkePZ_GLi0S7xB3DOo5VHJpwtKohhIQxiSDlcYoVeMP2u2bJeYCLxoU-v4BFA_Kps8ar1UCIaARwTOAthU",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJm43fcg1TUkYRWyWZGBr4kiA",
+         "rating" : 4.6,
+         "reference" : "CnRmAAAAffayf5r67cymbFUkE1FyrE7rjsvQDxFc9aTwAJRE5v42NwFF0TuUghAmpdHa-W_i_S4pCJfYuBdO93iJfNxE-B4MDm1eW4KtVuyyXdTIGZRO9YoaqTK6lcXHuaeNlhn4l276yn6Xv_k8gGMCWT5JLBIQSt-xITW2j_npuV3j_9wVzhoURLLOsdM_lee6oB_hBtUVpoc6C4A",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strandvejen 267, 2920 Charlottenlund, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.758941,
+               "lng" : 12.596836
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "489122406f96ea60bebf1656b5d3c600016f9e90",
+         "name" : "Skovshoved Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAAtpVashFRQ_3IBDItHmSdgyDSYyEQJPg856pObJlCssYfc227qI-eEee9TaehprnNFPVAHeEit2CHRDOgJveuR9CCnypz7F4-TP7SgBclDCBCqnSP60p4Fu-lub7AoDvA8bw03lzHIT172cmTmVNJtxIQFDLbLwSYmYjS0LoIhr7HJxoUVbkExNPNYNEOZq7Fp1rQDe57YV8",
+               "width" : 537
+            }
+         ],
+         "place_id" : "ChIJ25E0LwtNUkYRrh4Hd8-PDlY",
+         "rating" : 4.7,
+         "reference" : "CoQBcgAAACavWWh2D1lQfkEYI1JMcjUbWb7zyUEltb2y1_VJSAz1Xa2vo9iEIhhRpB1usT0RycULOk3awO8e2y1Fyv91k__RDRIk85Gvw1z9KCgjNa0Q_PxOniqQUGE0v4jOvP9AIn4isSsejCg66F10wi94-jecuxzyXyXc8U4Ep733aVJZEhAZLN-Q01nvtW9mY26qTxPTGhTytQohVCeOnmwsExWf3YRwpfD0yQ",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Gothersgade 38, 1123 København K, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.682239,
+               "lng" : 12.582599
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "49a37205fbda9ddc25d7cfb41052051ae445514c",
+         "name" : "Restaurant Godt",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJo-ZMlRlTUkYRLmOAyiFrmLA",
+         "reference" : "CoQBcgAAAAMwW4bM_1kmcwS1O4xYn0Jx3JUvZqPymqeh6ne4z5ZZsp9ha_KV6PKSPBTIQJK5_zKr-tI4nFZyEkPCsZ4g52ysEO0A49y-1dhA_YMMOX511zJv0zALti7XGswKhVqa7-cxQYDa-FNNtWpfFWfEhjHw1xXskD3IwbGShhkKQmFDEhA9Ad8n67DlpEWC29_7t8aJGhSOJT__cv4Jc1N9DueLqeShCFxPNQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Flæsketorvet 100, 1711 Copenhagen, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.667862,
+               "lng" : 12.559252
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40e54dc60cfd42ca2361704ab005d8126dd4a906",
+         "name" : "Kødbyens Fiskebar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAcrAzVALh27u1DmA9FaJb6OPMMerl69cVbyKIJvU_KIBtHkFrNC-q89knKzO0eGTfLJZa3iZMmxzmNgtW3B3yUtvWB041V5-872cKCFVpPgNnx6tKK5nfx-5e4iH5dIrkxfgjlWDspTxex2XqA7qzhIQTj-BI1p9d3Dz7QrKz14F6RoULc5l0KLxI6uyBHBlWcQVlYenp6o",
+               "width" : 1537
+            }
+         ],
+         "place_id" : "ChIJ6a9VvnNTUkYR70EJ8UFFlv0",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdQAAALtApMF56BayF-qXLUT9ewS5ONPcZ1vjoS1BD0dolBzVLImNDEDVL5yXx3D1QNOBpcfefnmBKUXZidqUJKPc7n3Jhwld-Zrh17WxUs6a6s6pLIEkjR1x8L39W5d4pvXGMe-B1U4d010CyJnTErM1WgmgubXgAJ-62y3YYtTjpeWCEhBeI4oqfIUsb84-SNyuiv_HGhQgNiYBnCm5YzBluc_b_CL__1auWA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Rysensteensgade 16, 1564 KØBENHAVN V, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.67124,
+               "lng" : 12.574169
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "125789e6ddd1880db82aaaa191589b044aae5453",
+         "name" : "Ristorante Cortona ApS",
+         "place_id" : "ChIJ2Q8cRRNTUkYRCNUZ_bTGGpc",
+         "reference" : "CoQBeQAAAEioeAd0BF92kz23ks6Iz0Nv0tH8L8J7SVJiFekRKyAS0yh4quA9meq_8qrUwC6ekFFZBbyTHSca6vKJWFjbzOafjvdIc65rFlJ0i8urZskKYs2fUv40oLahgJ1S4eD9vajLJhw24L9x2ZUWWgjPHmTE7d0wfxW8UHfE5vn6APbwEhCpUHGxk4hQ059VO7SmY7AVGhS3nfRHa9a60iA5m5-ZBgcersTWGA",
+         "types" : [ "restaurant", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

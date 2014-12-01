@@ -1,0 +1,468 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5wAAAG4dVtJC8Iu0uVy50D_ezlJr5VSiHja05lOr-vLoQbMiz-eb-0t59mlGVk46M-x7kIroENOlHeR_-Tlf20ydfTepMYJEOSmjOLR7U-exK7T1CrbNdVdNWj2hgivyFbhc9tOMu2oMN7gia3KGYyaqWbKKb_plK0revGRR4xYeJnWkOZRt5PAwqR9Q2G-Ogx0BOX4s_SQgx9y3MYdUwddZ-rCc47Ef_eOoj5mJv5rvhtdy3GZ5PyYbASejS85QrDyqVmCpXK-Pu7Kd1QDzJkXzhD0_6mgLAkO3FeKxSu5XwGccU5s5vq-BSUkA-nZUDoblKBIQFGdizXH13o8PKPEs-fqCfBoUFBR0o-UfYI7xRfs7DK3ZRrhf_cI",
+   "results" : [
+      {
+         "formatted_address" : "Elb Hwy 139, 22763 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.546012,
+               "lng" : 9.913926999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cca6637d700b95f38bb5420a44168a55c050a4b4",
+         "name" : "Le Canard Nouveau",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBoAAAAKqRhJ3PU6RNPx3yOu7FQ5z0KtpqahNt9HzxkyhAIBaO_-Ahiymecu-x1RJZZQXMhFKZ-IAUeVq53SXHxv0q3bLDMmVIJ4gBL7C22P13is_0ZMB20DibV9aD5vKjvtZ4Eyc_glWUFOA81kcNhT-cK-ETa63RWj6BqqTMp9-0I2Vqt6Nikwb-dODyoX9v4sDMxqqXTTwUNxtbXiygSioFfywSEHUKB-8bCgD2yDF0AuSFJAUaFGUKWot2t9uEZVj513O3aLPzHZLQ",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJKX8giZ6FsUcR0cTjJPOkxoE",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CoQBdAAAAPWwr7nyqaNa94m8HIZMfZRg4L4IAE0GmWn5uMKjmFeq97IQ6yXIHn3N10OkPZiryLZuq36407GX20nGkQcAD-z3ckOs7Lbg4Z5pUh0mXS7KcCC6QM97rLnZCexzkT-uthdP7mEVo7CAZfgEy-_qey96CmMwodnsH0h2Y3fCwerOEhDRsMogoMvu9_EevBKEqwV1GhQCc0IlGDzzxQ7zfRn-OWB7mv2eHQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Neuer Jungfernstieg 9-14, 20354 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.555636,
+               "lng" : 9.991517999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e07f010e36ec167ef87a23f94432c678cfc09f48",
+         "name" : "Fairmont Hotel Vier Jahreszeiten",
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQWXMk_LS3pG0PnsBed74PxDLdzjugC59g80L_FIOHvkfbm0ZRNS-gK04DbPMHHIRuqmSMRjrK4J-Yu4UNWDg2g0WVIvG96Q4SGH3-Vva5SrpkmfZkfHKkLJR-2pkfapPqNFI30uRU8z8AaNaGKXWEBIQFjaNeNDUEaV_XTqzgSnNVhoUkG1lIzdBuSbSwoMf18azFfO0be8",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJXetoHRmPsUcRNpBJRryIMo8",
+         "rating" : 4.2,
+         "reference" : "CpQBgwAAAPVFwCtYQhpItIu6GskGvhbhsoxBiC64zM8TuRn3lG1TeooNeD1nUQwXm3qW-6QySPWnr8xP-opQFH4v8vtVcJpMJMDc5e4b40shPHeuVB9Z6cSnU22Sh97PUzvxr7yUSwS-tU0pAty20AXUVtjHrwST3R_wCdgHRCamYE7iqnW-J2W2iWIV5tv1dy0-tFNKMhIQ6Fy49mJsm45Sal8BQNXPbBoUHJlRCiTUVfz5FUowKBDysaCss6o",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Süllbergsterrasse 12, 22587 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.559618,
+               "lng" : 9.800736000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "517cfd972c488da528dddadade80a93ed6ce4f73",
+         "name" : "Hotel Süllberg",
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuLJtuYan6t7niZXneDNvDtNlSrtAjmf4xLiHSUc4v7fIgH5Gvt2fW4QWCu33OVLTqtAE0vc40ofslPKODa6iFPGDhuCuomMnx140VogaLQ2kaZ0E05bL2-LL0wHpMtN_OL3hbOp-dTdnZY_eUlL8aBIQYpEPoJK7i2wis3EQf2U05RoU3Tu3xsAyudjK-8spsP675QnUiFg",
+               "width" : 499
+            }
+         ],
+         "place_id" : "ChIJAfZF25uDsUcRwhqS4pwX_kk",
+         "rating" : 3.9,
+         "reference" : "CoQBcQAAAG_GO4jGg8_rYBdjqLgalsmmLRkxHS3T1gWL1-BhePDyBSbMaghOMweed61TlwybDmH67XrVW_dYCoE5EX8XLXlEUhJK6UbEM16NDPs48KfxUkV8Zu90UB5Akjn4FnmEVFoceqYmKNLKSro3HG0GFUzU6Ne3h-FWNMblggCi-zxIEhDkf3iNrcC2T4bxggFFnFvOGhTGa6CasBkuFu93vs1Ti4XK3ZbzqQ",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Elb Hwy 130, 22763 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.546146,
+               "lng" : 9.916551999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e5b2d5f16edde3748295c369de34fc021fddf787",
+         "name" : "Landhaus Scherrer",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ5ysjNpyFsUcRPCWBm4c4T9U",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBdAAAAIRD0dN7IQTRo-6-mZ8YNCjsLe5-eBiKpKQIBeqIwu8hpZzHULtiCnjb8Te0v2FRoEmNrXJgXPmYqyyVGJJsk1tXVdA0QqnP-EBfN2lSgcXFGyP1KW9ecyghQNrZzCgvxW5HflYzUPg92V300u9scTE3_ROWTEQPTDV8a2dVrAsxEhCMGAAdPASnvDW7styptOd0GhQPGty72wdLurRpbKQ-csGkslngVw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Glockengießerwall 2, 20095 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.553302,
+               "lng" : 10.004418
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9f75bc87f90c31472d3a8a7734706ecf3977124b",
+         "name" : "VisitDenmark Dänemarks offizielle Tourismuszentrale",
+         "place_id" : "ChIJyShOn-GOsUcR0sQgt6XFqGM",
+         "reference" : "CqQBlwAAAA50FUIGIdFhNJAFoJrd37Y7kj1a4Pn7yIDEePDdhqvIk2bukyWqT9hbErO6AOQjjpeU0aIA6U4OOSY_6YpP3xxvgby1NUEWDZKjQp1FLZty5JeCpcxhkO69UGlKWVMRol67kDc1YPewG9NTp1cZ_Gkiq9StgAxv98lGfWqBWE7LC4WG2rpm_z3_-0LVogw6DXfS384lOEz8p3btachtgM8SEMqkrIpPWioWct-cSXJtoYoaFKzaQ-MWiMoZEQrog1vWhU8n_psL",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Strand Ave 73, 23669 Timmendorfer Strand, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.000719,
+               "lng" : 10.780205
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "56931e39a919e86d5ddc57bab9fb4cf9d88076c2",
+         "name" : "MARITIM Seehotel Timmendorfer Strand Ostsee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 933,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3Bcci8GuikB7xSd-Agop4ZtYiLu-fT4usyjhXGQ9lJbd6JTzIMel79hViShR5LtziBlXzlH8uvFcRnE5Rsv9QBeRUQWKXuEAJ012TxlerKP_vJopTgWv4MrqrIpC2ySGTiH-cDO0DpbkrUfGeoi0xhIQWGBtnjFUSbQJS8CqMwtGORoU5UiSQ_50RmnNW2t96th-UWJutjk",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJ60bVvVN0skcRJ8nAVQBnOQo",
+         "rating" : 4,
+         "reference" : "CpQBjQAAAOY4y2FSX4MMmJh0rlX6r7V2xmFAhW6jssfOPnHXDq5m9TMXJvRR7GJcinr0TAAgPEjdGKBBVz7hSUw_2EtenFKVREuytp7XlLS9wDAc_mJ-ZJ211bGfnWyVAe_5l0JRgJgcftzq0N7UflT7Z4EFj4rMnr-yqAL9lQjy180DvkKR7gsT4fZMZBK9uDHyxt-HSxIQfskHJhYNHqmpvEqbyXxB1RoUo-TJnObOiXWBRZ_VSoaKzzL6gJM",
+         "types" : [ "restaurant", "lodging", "food", "spa", "health", "establishment" ]
+      },
+      {
+         "formatted_address" : "Burchardstraße 13c, 20095 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54839,
+               "lng" : 10.002814
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d512714b5332e0d4f374c028c820d2d57162019b",
+         "name" : "slowman",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/101989459571187193123\"\u003eChristian Graninger\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAI-9JyLnveJ7E-W469CO87y2k9HWk4tljRigYrPPAFxcJrs3OcSCo57jS9XZsYZV5zLof3d9KPamqQnSGsSiJg0zCyafzT0GNfLY_Ug3ZfvM4K5QMjXTLs6B_kpk_mRZkmyMDzwg4uesNyEBrnXHX2gVtCTM1eNfv2I4X8qD2oLKEhA8kTppId6GOCtq4yqswoTzGhSgoB6h7p_03_QVquqWW9tK-P1oCg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJsWMH4-KOsUcR9OwDipG3Mqw",
+         "rating" : 4,
+         "reference" : "CnRqAAAAkE2oe8mBILqEFY8odMBaThnnsOkEAcSptYHyKvU95J5emJqMiMOeg658zkKMOvEW0zlM-sLWiL-BByS4KV3YiKJD9TnoHTMLcJV-dPPgViLJeoGKLPSegeC7q0UQK6mHv5jTX5rR9zqU7ILgzfWibBIQh4e1yXu-JkF3ksPMMuWaOhoUVjD_Q9lADeyvB13M2_LqKAECblw",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Elb Hwy 401, 22609 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55046,
+               "lng" : 9.843818000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a61ace807c4850bcebeaa7c4277be1be225cd502",
+         "name" : "Jacobs Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA00m6rrKuDpNIX7_eaGNeeCDmdB635rDwBVkx7kuLBF3CqpuYkcUYA7bGQdWYVMsa6ycrxwe8Id1JhOLcioAtZavHveG3xLLW57o8LZwlQClrPYTeN33TX-qsi6gVjnxbz1gIlbW3NrMXcmwbg_llQRIQE7Isf__MtHLWShOVZSFQbRoUw4-BWo14SkZnc0cBzaZq2odxdgw",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJq6jOuWGEsUcRAexub8wgNVY",
+         "reference" : "CoQBcwAAAKiPbAYmsLdx5zJW0GRUUR82bUSpY2qpb-MeO76t4gOfHsUcCSbni8X5csDppXEU4FbGXK7yvzwHHytB0k0-qm9aLTH0V32uW4IkdyM5mF2VFLnR0vtPKy_oPQVa5OIbSIaj4_rEIT1B8iARVUFALsxICkLs2gflP53IT7SuMjnuEhBKtiDem7q_FFYTy3QBxt0TGhTU8La3kdnsbNqQgbVwKFvFl09lpg",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Elb Hwy 401-403, 22609 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.550443,
+               "lng" : 9.843521000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8ecead0f421e25d349e2f2348d377124315be074",
+         "name" : "Louis C. Jacob",
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEcL4qi7g5anMY6pJrcuxnKDWyKFPOYZ6mMqP5EtJ7C32XYeXJ8GbSDk7hns1HPbFfimGa8KwWNxZ9_MNfhl9XscR3kCjRUVrOUUv6_vekncWvDTPzAZ6tImnTgw72yHVflda7O-Xteg9_Ne4g2xXExIQGRbDZeRKET0ur5y6FXg3choUZOvCjSskMiCSth1FzelIP_piOuM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJq6jOuWGEsUcRr2emZUqEfJ0",
+         "rating" : 4.5,
+         "reference" : "CoQBcQAAAMavraEE4DB2ONB7YhFvzEc8ppoauThRcG9gB1s94NEmvIx74BjOtZ2dviAjif70Hru1LUKXaJKDSzWhoAyzgBXoGy2hqNWy9rae9Odu0HVNVfkTVofPut9epfiz_ZjKIEPRMlnakJMLMIIkJQpd8O3T7gUhxm3ElOKACQYA8qsQEhBGx4o8-vuphQWAWz3Z0cBYGhTqTN4DT8VoE3WIlhPx68YqOTQtqw",
+         "types" : [ "food", "bar", "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Michaelis St 22, 20459 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.549632,
+               "lng" : 9.981596
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "d4476252d4fc1481eea047d09be03c8f70f36407",
+         "name" : "VisitSweden GmbH",
+         "place_id" : "ChIJW2T7RxCPsUcR1Pnd1r2LwGU",
+         "reference" : "CoQBcgAAALx9OpmPeDYCtDeePaE_xQ99yzOJuBrdN8hvEbu8hvezr4Sa48Uc1BcB0WumuPt9Pb-gROCsTeN3qROQATtB1dRO220iMIJJ-LYVvMiUPOl010fqPV6C0jb4ui4M2Vxje_OflyoOkcrhxwdXBzz6N248CV3esTrO8V0LKkPvQLDhEhAC42xWf8U3AH3gEiY7vIIrGhRmvlsb7pF5BWkUReWbcBNcsTr_Ow",
+         "types" : [ "travel_agency", "establishment" ]
+      },
+      {
+         "formatted_address" : "Abtei St 14, 20149 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.582071,
+               "lng" : 9.992889999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d84fc38040f9c020e326d14ae70f97056e6e18d1",
+         "name" : "Prinz Frederik Room",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJbSwXHc2IsUcR4sTYGp-jxoo",
+         "price_level" : 3,
+         "reference" : "CoQBdgAAACGVVirinaf7pcxSDjTNN0h4KNiCirTVmhq021w34LTJ4gCFxn2s2PKAymzWq3PYokJetYs54wo3Arv68CZuuY16B5NiaD33OAiU5LqPWRLc7mO53AAEz2Bdko4xf3UMwCFvOG1DAz-fgrqrqMGqNIPtsLrLdaHmMxoMVMe03-QQEhAnuJm5oUi4RWGnmB_4H6DKGhSyegvGWXPasb-jNxmYHs2VmRLOxA",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Lippmannstraße 5, 22769 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.559902,
+               "lng" : 9.961917
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "21ceb8a315d54016fc1554b4fdbf8ac59a473e44",
+         "name" : "My Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACXW3Ndo8Az0jJvzi7fhAqvWrHOfmrEUFmdki7Co5YV91-4hLW2qEZetb06cVPIRnp9Zy6PsCkAFOTRqvdxReEZ-qylfuVWZgJdHZusrp8QIQTzddfsE6iLgORA0NT8pdpERp82OZJlafDrM2T_bk3RIQoWD9i_Mso2E7qgNcg28iixoUspC0v5dVPFFF-dDGcM_Vs39gQ98",
+               "width" : 375
+            }
+         ],
+         "place_id" : "ChIJU71Gy2mPsUcRT34k50L_Bng",
+         "rating" : 4.5,
+         "reference" : "CnRqAAAAjK0XJ3c0G2hIq5_tzzncNfE0ndgCQWvmaN3KszpkdvbH0wG8KK4-VY1mR-qLiVTnDfJ9qSrlUN2s2XuK7-eOYQKU7WsH8F7UFy4zKoFMpO2hxqYlUeL7QHJN2POKynclEqUzIfdInRg3IUWUgiPvMhIQZyiUIqYTHtL4IwEkIVjFrxoULDY-AQYIVCSYvDLyPjyGgn8h24I",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Dorotheen St 104, 22301 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.586437,
+               "lng" : 10.005809
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1514e551bb9c8f2401c47e39b1df26ec42873a4c",
+         "name" : "Marbella",
+         "place_id" : "ChIJbclWzNaIsUcRlVLb03wp3F4",
+         "reference" : "CnRqAAAAjRFp6Ots-l9H5MTZRswoxiFZKZaQgLLvT6n8hGKFuGAaB5P4rgminyDBoRZYm4Kd7rmh2wrEBudEatx08TV3NYLu2_ioTCclojT7nEt4IRoFoy4ZfTByRppH_5Sh5POvIkMvVugI7QMaZqiKQjIXlRIQrV2tkofVJxKl-gLLXUxpkRoU5hFVTz-4CUxqAIUI83bLhyx9kJc",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "80 Bornhold Haus Neuer Wall, 20354 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.551342,
+               "lng" : 9.989565000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "57b32a702821fa70f7e613aff3418e3f2caf587e",
+         "name" : "Computer Futures",
+         "photos" : [
+            {
+               "height" : 700,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9aQf7DU3HZgO-O59XYoJVVcZLxg6LbLYJM5wM6NCNvwT1NsjIg4GXaxMmx3-t3FyEfIrFfHwAsRjIbzAbdn378z_RaBDUQep71agj8Bke_XLPovauTO-PXrTYVQdaWvnVj7XvoN69x5B7fxdOs9LSxIQkj1w5mR4djsezRPYG3tobhoUFXy2NfJsrucCw3IMwneMixvxXCo",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJnS1ZjRqPsUcRhlEj26hUfBs",
+         "reference" : "CoQBcgAAANldark6JNlwEzjJxpe5d3FdZNriguTCZ_5t2n8WXfejy2pZhKLcSSAIU_QH2dzWqUbOY_2i5dJEY6hErbLwu3pFpuyoZkd6BNwpSfJHJ2XARNpyaOhi-MPg8WKcyVRQGcdBY-f0LR0MVjVoqgPXwA6jT1YI7R-iJ87l-yqJ9m7UEhD9-XbO92TNISgWT7d8sPTHGhSCmoNzL5PH75a9Iq3RztCbkuKXlA",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Willy-Brandt Ave 6, 23554 Lübeck, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.867842,
+               "lng" : 10.678555
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb070b9efd9ce269e0eb0d3b5f473c3c1496032c",
+         "name" : "Radisson Blu Senator Hotel",
+         "photos" : [
+            {
+               "height" : 549,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAahrbz_lcYNSUxvIidvck41Qg1I6k5e461VUJVBs2vAa5aqSClT3rJ6hE9Peu_TedW0MWXcay5Z2zEyMroMb7m-FqiryFMjRHnkX2UlaDhzTtb7H-3EsYmCWGdjdrIuBm_9Cq6ZNk8dswresl2H833BIQnWR9McYsrB33CpH1v8KI6hoUEH5IMX_WJg5WqygNUgL-JVUT-tY",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJfwivm1YJskcRMZ1Wh7YWzcY",
+         "rating" : 4.1,
+         "reference" : "CoQBfQAAAFfAC6Sl-Qh5nkh5_M9paLfZnsAGOOanALjktkVu0O-oQtpAXrvZt3S5rnlGo4qBP44sQTHaY6Kja9tlnLY7Y0pnIaho5HLAi0cPoI0jSCS96GL4joYKs0gzdwdeyAQTzPdlkKoicz0wgjJlZ3NPuTfOCh9L0tcghWklqOvH7gh1EhDvWYXPRJ-FWT4T49hESgX0GhQAp-H2p1e0OfEmdQ_1lUl24pMPIQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bugenhagen St 8, 20095 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.550977,
+               "lng" : 10.003134
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "97b520debbfbd10be641dfb99d276cfac8237389",
+         "name" : "Park Hyatt Hamburg",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 721,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABX5DmBlXeSb8alqLbXzkiKvbCZJwhFtuQXPceOCfugpDjq8q92B11jqOw_rddEF8VSlS9983caJsagPXb-71TE65GvwvaXWCUYXBUHgYZRSnTJMRSFF9ANqhd2L0rOwF9wkOe9hL6TZyJyKIkfI_yBIQmSPMQFWi2l2dTP-eZlWbuhoU83My2SVWskOD4xOh0rIXfJVE_i8",
+               "width" : 962
+            }
+         ],
+         "place_id" : "ChIJKXZ1M-KOsUcRc_i9teJozaQ",
+         "rating" : 4.3,
+         "reference" : "CoQBdQAAAMta2UORAjKEFdlxJ39b_R-ksKJ8ynqewR-caX9AiwvEHp5P70EAtEOnbmZTUPvL_zxsn_EAkWdUOClUhw_f1QfjUt_MaIi1qAZdhgK4cmYSfVh5aLk9FDLan_ZYI1VVnzpp3gsqOdSSVnIrTOsiIHFFjwUGzTqksSAubsX6HgaqEhC8hQX8MacsAAWiduM1ow8PGhR6T810IF8-2xfzGKVfEqRyg-_6LQ",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Wulksfelder Damm 15, 22889 Tangstedt, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.718095,
+               "lng" : 10.111971
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f066b44480ccec48af51f41b6a0399f9d2a96b59",
+         "name" : "Gutsküche",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/100610921248320637085\"\u003eqimmo mema\u003c/a\u003e"
+               ],
+               "photo_reference" : "CpQBhAAAAPNB5qybTgv40OwSZTaV_vTizHDkRJE4kPJylcSSZLJmLOC6B__iYRlmkiEdAIZDrYgiVyHYAIaznHOaoe3b3fdq9x4EzKyO-OGORPPCyEZjTrKVX6su85iAi3OGkA0MGBNcHmmM8AZw1ppPs0Bo8HToDtWlsxJvIVHgiSAAPO-IHn-QPAvDlQ9_ZZH67LLh2RIQdPqhMF2Mcc1UHdsC0xk6choUmGqLg6mopA_TSXdDUoY-k7wwPgo",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJMaZ1_s4mskcRrAr9PqpMeD8",
+         "rating" : 4.3,
+         "reference" : "CnRsAAAA2ZUjK6YUhofH6d9Ke7LANk5tGOSCt-RQVHO7TrXQkw67cA52-yZulr_5jRnNh2tKrzHiY5H5Lfn4efXAtl9sVPPTn7ukVhrA8RU5BYnPMv0cl8Jnq8hfiomBu4okOoQ6xAf_uPqLTdoZjHr7zACxqhIQyA9zxSsfiylYiePbOzORfxoUKWfyCc7XkBxlFTv96qAB0dVyhoQ",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Lehm Path 29, 20251 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58209,
+               "lng" : 9.979229999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12076931186d6bc99e93593ad4512244bffdc1d6",
+         "name" : "Piment",
+         "place_id" : "ChIJee-pR7WIsUcReZ7J4BAjEcA",
+         "rating" : 4.5,
+         "reference" : "CnRpAAAASiQBmBH06X2iIAPepqFlx9dela4qJlwyWhWLiQTr5HEaK74dI3dDPFNNCORXSIJPBth36AwUV8ePKsyOjqijsu1veRQ2VvL6Kd6t4xVh3eql2XsIxpvnFUp2cLcxlGt9K_1q5L0A16JPh3-iHCtldxIQbrGThKapZhOEiUxVXJGk5RoU4LLmcdDDQQS6VEMOMV049w0tUSg",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Süllbergsterrasse 12, 22587 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55973,
+               "lng" : 9.80064
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c77d7f96aca575713fa02703c3172007e22d5fb5",
+         "name" : "Seven Seas",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1181,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkaybtrvA0fV4tQ-tnAlD1wfkNP80IIEL3sn0TyvckEIBbJ5GZAUnKiZTrJHlts9M_X3a5CTZ95Jr9ETwz9OWYHEvGsGtRJWq9KPDyhUVgpAJc4QMomnvIjJrYRuEBKUxIQziiq-aVlX8IIzI4ktTqBIQRAXdMNftuwavaMb6ZhUA6BoUsCnsBB8LGbW0h7m0YJ0opH00Qms",
+               "width" : 1772
+            }
+         ],
+         "place_id" : "ChIJAfZF25uDsUcRvL3-nK-Q4vw",
+         "price_level" : 3,
+         "reference" : "CnRtAAAAXLB6edjtAK80Y3YiKUxpwF1ZNY3eKd3t3c61iZ2QceWp1Jp3sEHddglRZaobryAanVgNMM-zEIkhGBrwSdC_Yc8fQ1qU7-5UI4LrTssnYkIDyxfjxQY_DOEwtskPIOGDot4d4u57PsP1rqsm0nF9VBIQzOaK1DCPFsqzOqenva8T3xoU1bLOkTNajW9rZ04bBKMpsH2AlPs",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strand Ave 152, 23669 Timmendorfer Strand, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.993966,
+               "lng" : 10.791394
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "658d0e22ba4eb935d4110966c13b8eb7404e3235",
+         "name" : "Hotel Gorch Fock",
+         "place_id" : "ChIJ8RNQ6Kl1skcRBDWuChgtvTE",
+         "rating" : 4,
+         "reference" : "CoQBcgAAAFGO5_ozx7JYIZd7mr5GAmdIqUTxSzX5jl0iI3oS4SA3EdwFwJzHxQCAnwgbeTQIynH-qDz5eZ5veFxSeWtyWNiYRRbY1mSwloaBW3VrZMyJS_MftftU5LzkZxDs0PkEm4FjJWCCIpj5sbfJLnjwBdHWJQMnGKUKx4hEx_gD_UiOEhDTWFlqdc3Ub_wr-bQlO1LYGhSKNGS1KNnh2l2ELFFyFgdaZ_Putg",
+         "types" : [ "cafe", "restaurant", "lodging", "food", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

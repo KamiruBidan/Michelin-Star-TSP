@@ -1,0 +1,394 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB6gAAAOCHT7hOZik8h9MmBak0y39q2ETouhZI3UPyOn5d4UnrzZYQ7T8_ZKPfMoL63z_7oAPhkM9IMoTbXsd-DTBrDTnm2vpqJ10RL9A54KWz79DjR8qTyoBhfC77nwIZmTtg2xG2UkYmrl02sHN0Q8Zp_AfUfPXaPJ54snVg_kc2rQm47ItGF8CFwOo7KjQhYLwkzpL35EOMqgvZwtW4mgKD9XXFYjOYaE5g7IMb7JEHSKxSuBmpTgXg1M3aFuyCu_teWHMccDJzAfBxlyIt3J7i66WeXoldcYRppnS1dWJzSYr3Fbb9g60yLSqtIf7aoN6iFRIQFtPIu5bK8Il496FncEM5jhoUadtC2r1eP-Dd57Fd4Eble2Quflk",
+   "results" : [
+      {
+         "formatted_address" : "Schloss St 27-29, 66706 Perl-Nennig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.53489,
+               "lng" : 6.38688
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "9eb73afbd6703137db3d6bbba6c714198a873621",
+         "name" : "Victor's Residenz-Hotel Schloss Berg",
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAb5NNbRnHdSZnAZn4Z5wXLcD8YCZOI-lptYqZLSign1qc4celLufzNIfzBtXvEeQkLr8kIev_oIE5tas0mlxnaQbbrkFtVnfOGv83SI4asEkEzWaun4f_pzl8Z4XubV5aSARi4hfDSa-zhBlJ84GKrBIQcPH2QYZX_H4bfaudWRh3FBoU23rCBA1Z6GOVsYK2X6snbs9ETTQ",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJXy2UBMJqlUcRPPdWJ6O6FRo",
+         "rating" : 4.2,
+         "reference" : "CpQBhQAAADwptjaEwbhE97-y1qhjwy2xmDTEPKFnJoAJ64hab4A8nCJD_zS-L6nIkJjRGijBklzBo-4Y4UkGHDv8TJkAglBbg6byHoLBBthGCBXmIpK2Ux2jAbihXPyZ8a0fZ7LDqABp5gW8RJhvZydBN7iCXntGIst78NEwg80bAWdn4Z_hFHIU4GHymJP3gDjwe7M8rhIQLRMy3lCOLb2Cj-l16soPZxoUeASz9UfSL24u_py4cl4ZYBR5Du4",
+         "types" : [
+            "beauty_salon",
+            "cafe",
+            "restaurant",
+            "lodging",
+            "food",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Lauterborn, 6562 Echternach, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.797355,
+               "lng" : 6.388101
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8413dff8f30231df4c25d24fed8a61b9b47aa82b",
+         "name" : "Au Vieux Moulin",
+         "place_id" : "ChIJw69XIv1elUcR3JR-c3Hku6k",
+         "reference" : "CoQBcQAAAC2zxMX6FslOZifCVL6Csgo_RAUmKttU-tyhBSgHSWtZjkFIVFEG6xh6yeYIBpTxNcaViZMc9NjF7XT0u4Orrp5Wbc4Oh4RGFlBsRtlpFnIXNBNLUHoL5NYQcV1Okqt26T5i0X9DJQMy9FZt-UJr8LZm1H7iRNOHOtzqd8gDv4CNEhAd1K7FyshhT-86zh8cT_6NGhQohEx7IZUHlRo_QlQ0jFz1P1R40Q",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Maison 5, 8469 Gaichel, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.694271,
+               "lng" : 5.868791
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e03797bc23440e16b732bf0b215d614f16360428",
+         "name" : "Auberge De La Gaichel",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADdtknb9B8l46hVb4wfBMH-yOodRf6Tyu3d1K9snD4taYSPQSL5EREs8_JnQXAoZE8-BZ1pAdMChezrNRBPzJwzJLEPePaKRU0ZKTnFGJch6DQxPerQaAHzFYuiyMVr02ka1pn0p7UjT1LNEOUSXJrBIQv74xnZV04iNyv8huKxBQRxoU-fC1xv3ATVUR7618niLPU4FKz98",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJQW5nWY2x6kcRc2d5vqrxwEU",
+         "reference" : "CoQBdgAAALnLrF1Uwfn_0jqEEWgKYo9A9Vq7qyTjPVwzXq_tT2JXk90CKj6jDm5rn4DPW0LOdyD4B6kKcSZ6bbE2i91nv_oyfgJsDUtVu0Pfs-DEFEzVKHYeHdSc-cK0RLcfeHm-x7bCZg-XmtMjr1ZuvxWTSVcUU7xjPhLU30hrUn2htEY_EhAag7w4gptE_OCLRQII6DzpGhSkWUwKqFMP2_7WMWivc8g5wSSNaA",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "40 Boulevard d'Avranches, 1160 Luxembourg City, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.605771,
+               "lng" : 6.137534
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a2eeb84833b2c5daeee6542d83d2311b01a5c2ec",
+         "name" : "Hotel Sofitel Luxembourg Le Grand Ducal",
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAabhDXIFs7j1M_2NwUab1cE603SzUoT8LY2uqDAVVNVcngygFlrUZDEysZL09wqHirD13Fhi4J03-IJXJ7RuLOuOsptGH3ZYBj98doxdge2dxoY5NE-1WVvWhjPgdmwDH334Cv61z5gLB1L5p_-PY-xIQ4AKsT9MRbBtZB50shZUIXBoUkp5J7oHj-Y_av9rbmKjcGFkWDnY",
+               "width" : 346
+            }
+         ],
+         "place_id" : "ChIJRa7IM8xIlUcRhHTQl-qHjGw",
+         "rating" : 4.6,
+         "reference" : "CpQBiAAAAMITaql5m63O-vhD-ER2wrR68ehMtwXjZPw4pq5xv464iCXNV288bVzY6rSLyi2Yz9crn9m7ZrTNZE2W7TC9UTS8nhailyibX2tOE45VInaIsRjkDMoCaqgu6t0TMLGqIvPfZIPNK1NWzgCGF-AH4g-zLlzFc6Lo2WMdXh-Tc3kL1vgTS1me1Wn2jSsMDArjnxIQu1DpSvWshvJ6GjpBlADDRBoUAKBQxTrJE_XdPnwCsOCEHy3iWQM",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Haupt St 39, 4780 Sankt Vith, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.28018,
+               "lng" : 6.126176
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e57123a86bee55cd2db0dcd47ff638cda21dffa6",
+         "name" : "Hotel Zur Post",
+         "place_id" : "ChIJr-zWuOSJv0cRelc1O2bSn2g",
+         "reference" : "CnRvAAAA3NZiN9x4Xuhh3niMes0pC4C9aW5L_50Nu82HOCMQ7ij_ydZHpWYIASFrVW37ZqIMBdcEad7eOnfN_NZMwA4xXfAx34g4cpbuRFEIrVdhd6CpRYVRrU3E-PkF0PTAL8_WhY-6SnLKZX2_r2OMBEVfEhIQ1vT6TQKSAXz2w00FhZiYFhoU3bqC4EoCPYYNXIRMmNGwpS6I3MU",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "32 Eau St, 1449 Luxembourg City, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.610906,
+               "lng" : 6.133791
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1b24c6266d66b2c0942ff7b9ccb47cb7dd90387e",
+         "name" : "Restaurant Le Bouquet Garni (Salon St Michel)",
+         "place_id" : "ChIJ2_UiNS1PlUcRV2vWlFmnuRA",
+         "reference" : "CpQBjgAAAPfQT3U-6Q-a6j8vqW8AZy9qYfC55FF6U5kXJtnejkhmumqukm4hRefL0_Hq-BOXi1SEt1O289Jv3d-xfPzPj1EebeqNVzH4nsx7J7FhU-642nMj_FdfxLycza9UQW4hIu0yPJ8XzFBZFiCLum5TiqwJbC0UaYP5r1K0ZY7LYJ-Q0lLxLsfgXqUP-KoiKEtXBBIQ1arUldxtYeComKbWr8Z1axoUj7SByypMLn_QPiGutic0uI2qrkY",
+         "types" : [ "church", "restaurant", "food", "place_of_worship", "establishment" ]
+      },
+      {
+         "formatted_address" : "Comte d Ansembourg, Vieux Chateau, 7411 Ansembourg, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.702658,
+               "lng" : 6.037281
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d117c21ad8896c86e6f01aaee99b5fdea0692ed0",
+         "name" : "Temps d'Or Hotel",
+         "photos" : [
+            {
+               "height" : 1331,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQuA6PbASW7J-xfuG-lyCf89UkO5EDXuwNYefg3E9sxuORv3UGr9nTozs-A1TgraOwa5dsHRZ0oY_42LB3jsBLd7fped-HeWI8dOuFsYHpnKdNFQKV7OQQ6F5fZ64sWtD9vORia2tKmMFXa3itCdgyxIQTbjgQ9PJws1XfU6_1gwyUxoUig5pCzeHGp1SEpT1QJx4USU9eNk",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJEzNlq4ZSlUcRtKJ8So4-XFc",
+         "reference" : "CoQBcQAAAIM-d3NWRvOXzTD6v8OnMM5tmrfKF379hAkdQcWCzbrrRIv33c5R00FVEJ8x5GLjiK_QJ2xz_rqQzytLK4DP4cOHgiyW5a9MWwckOq0F9M3HAXwl-YGDwznfx4J-qEtfJ7oCQBzo-plaw51o10t8JfHI8NWkKDKQH9LSHbPUCbeIEhClrS7ZY2M9uFhhR-oRoRvHGhT-Iv8MANxBUo5xtZWHFBWE9DPt0Q",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Vennes St, 6637 Fauvillers, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.87861,
+               "lng" : 5.682624
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ecbc6cbc01178fb34bc1eef1d90bfdfcff1646fe",
+         "name" : "Chateau De Strainchamps",
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAACckP7J_DGdWsnSmpIWhyHdFRL7LCImka74g5YTkiDClxI7LQewUgj9r9tvOt1QEejTdWYxaWT8FWI2AypW6vdX_lcE0Zr8Qfzneyae5vSmYKIudmv8PKX8s3bF44NpdXEVp2vL_DcuTA1MVtLNweRIQx7yPB7f2bZIz2gI88Pt1CRoUOSWNFzHp1t6JjVM_IkZy7aCOKLA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJY54c39EfwEcRxtjkDASHs3s",
+         "reference" : "CoQBeAAAADDmkTvPJpLmCnnZ6EsPVc1BaJ6LlY1Sr4GqkNiFK9K4EzvoVytnsiYWSpQG6m54hWspJ672iew9bioDy0FZky5Jgg747dO9J3s4jV2ewcQ7DQPS_-qfILgbPCxXYrsd88x9SQtdBN0cBI-Uo6si_IJD1qp2417h6UGfx_1UZgpXEhAheEKdgo4i_Sb1BSXowPXjGhQWr6Ys9qC92CsR5MNXkN-Z_CNjOg",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "4, Rue du Fort Niedergrunewald, Quartier Européen Nord, 2015 Luxembourg City, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.620344,
+               "lng" : 6.144619
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c8f75b4ae7d99cd1cedd0a6bb7082e70a473ee01",
+         "name" : "Hotel Sofitel Luxembourg Europe",
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAOsv9GDgc0fWSQ4qxRTVtDd3I2cGvPwN8ebRCe119J1feyTEnkq4GPqqG63u-rTcISnM2WumoSaPC6RRVlgtHQ78it0LMdchTa5-2kQhpLsE2OBFY8CQfVT9f5INtNAukBGty2BStNWmTC99_o1Ob4BIQr8I70rJy2y3eOaBj3qUl4xoUROdlP8XYT4N6nPpB48R7fa81tyQ",
+               "width" : 346
+            }
+         ],
+         "place_id" : "ChIJ44sAuDlPlUcRZqyzhoNbpOo",
+         "rating" : 4.4,
+         "reference" : "CpQBgQAAAOqdbsaovr_xgaFIGxOCwiaBEGFwNybSNFcnf2XYdqQlqBozarrzApm2qoLb5ZW57jw09eo8uXVRZHt0fgRrrCpz1q10XscBADwVEp8SXcAnAZ-7Zcfc7G1v2wUvUwGl4ZPczfYqMdjj8L38zHodcTOxk2lqiV5Yj59zetRjhWfti0fTJbQeQiwDgnplT9f4ARIQZ52Wwp2Cej8SCFoskssJwhoUZh-bQ8nMTCZlnlQhZAVgg9vOpoo",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "158 Asselborn, 9940 Asselborn, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.09702,
+               "lng" : 5.971281
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fef8af00f95d942c2963ea83ecdbfa034f64916b",
+         "name" : "Domaine du Moulin d'Asselborn Sàrl",
+         "place_id" : "ChIJC2UQy7UOwEcReJNUEpsigpw",
+         "reference" : "CpQBhQAAADHtT-Qf8m6Fe7SFaCT1zrHGSKvL0u-Owy-VXZ9r8ofvSl3w6l8lH8GMUQ_Hk01D1wJJQhdnow2bLOwi2GOGoqYymPPUztuYzw8xWvYgaBjcoBjzLATolpIB0M1_TieLQ_os-FFY9o2zGX-fSIxGwxHDm2QMdLU_a4SH6MGA7RGR88ra9ZotVxH_PWwgXZmt4hIQEMO37fqaZ9sEQVd_1z3YkhoUzIs1BvbLpB_I9kUAupHvAi2x5XM",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "3 Général de Gaulle St, 57855 Saint-Privat, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.186553,
+               "lng" : 6.033848
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "806127c5a10d5602e430920eed473e922fcd4d9a",
+         "name" : "Restaurant de la Tour",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJeWUcs9oplUcRi2PK85RaYP8",
+         "rating" : 4.5,
+         "reference" : "CoQBdwAAAH8wc8ATLdDUROHY2dpvKVLTAtBj_dxEfeR11AFoaboiYA641xmdqR4yi1D3Rx4KaULl1yDTrP_38O6uld015c7UwtoAz0cspryOQE7lU2U9exSFM1Jhzy1WnbPXYmzV6Xd3wnjQqJ8kHe7EoU_61abgyRiMoWNUieOITcBbiGtvEhDQATt1P8mOPRh5Y5YNIz7TGhQQ88ZVHuLlzDhmLUI2GqKtJcuq2Q",
+         "types" : [ "restaurant", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Reiniger St 48, 54332 Wasserliesch, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.705994,
+               "lng" : 6.546808
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f2301cca14ce9357e0e1fdd6a02fa509aff4a1d7",
+         "name" : "Scheid´s Hotel – Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 826,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqhDavDOE-u8wvVJ_KvglUW_CjApjHLnWk82F_xPC2-Vb1fHqlHbYOgryWwzHkT3ibuavz6cnpHKBt8AricEtMKVvxnzfK-t88puJmtkkGH5oOPv3RmORI0dd8Q4VuDekux8pZBhjj-O2eRv7-E9tTBIQ-GfIqtrgyLfQhYioh1vsthoUWWb3Y55WcgD0UYNOPHw8JEYwSy0",
+               "width" : 1063
+            }
+         ],
+         "place_id" : "ChIJSa6OzQBllUcRyn3FSG1h278",
+         "reference" : "CoQBgAAAAGP-tX8ufyyYCMK-c9gqCbNNuemQCWk57R_knTO8Nnp41T7utaKGL9WKzQ6wKPsxtRHmHHgmSka4ZoYR7rCgAlvWIxdhLg_5v3o_OmRJHPtGy_cdP3CdU0LXSksuz91P46VNu_vZ4awJYdXkQmjZjwXsGJfCBLI85ie3JHAsmUVCEhBXXVQmKdqJtr7YxJ_E3LspGhR51zKTmDT_iD9jU0H7LhBDa-i_lg",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Casino 2000, 5 rue Théodore Flammang, 5618 Mondorf-les-Bains, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.507488,
+               "lng" : 6.28169
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b677180209fb7371e97d3e8a6e320efd6fc6245",
+         "name" : "Casino 2000 Hotel Mondorf-les-Bains",
+         "place_id" : "ChIJKVe73G4_lUcRQmwj5WL3IYI",
+         "reference" : "CpQBhQAAACQN1MljbeIZ77ZgOAhfDdU_m44gD_bCZP4f95oHzt74EabM0d1Bn6ZDX1emZH87vhskS30tFty6m38eiIPEsEALukWKaYOU_cTYow4NySf806kk_-XGmsFau2OQX-WEGOodpzqYLriRLmlBqTnRkKaH0T8VKwpKIkLG1Dv9Lckm_ASfYLbtuoMlPOMDWr14ghIQ_1hfVzh1i-SfnsTmzbFqcxoUkUt9N4MWVId4C2JqnD6xO9nX23g",
+         "types" : [ "establishment" ]
+      },
+      {
+         "formatted_address" : "Lascheid 43, 4790 Burg-Reuland, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.189585,
+               "lng" : 6.11943
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3e33a9b26a4ede8f55fabdfb9da402ecadc48d9b",
+         "name" : "Hotel Paquet",
+         "place_id" : "ChIJqTuo8Ev1v0cRc-NaJYlVNrs",
+         "reference" : "CnRuAAAA7My0C6VeanNlnOnh25m98ZfzmsBFiKgJRNz3atT_-4LHp37cAEeC8DUPBtJG7lTVVNSs8zacZ078bovM9fMyMYWMypfQ5X26kj80PhxozJAqHPFAkfKCnUNACXo0eg4mGIW2MsY1CIjOUcNHq2U8DhIQgfhToWPBNb2-2OETrRQRVhoUrQ9hWwlssB1SWPEhFfSRofRI1yE",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "Parc de Coulange, Europe St, 57360 Amnéville, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.246066,
+               "lng" : 6.135095
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5595788dcc4066980098210a34675c6c9efba6a9",
+         "name" : "Hotel Amneville Plaza",
+         "place_id" : "ChIJo79mhVMmlUcRwtJZNoHEfyE",
+         "reference" : "CoQBdgAAAAtQJU2eGUxAv1YKH1mlys_ZAjJBZFr82uWJ-6oCMJfWrDld-M0vMjvpwQKfQMOHTteJheieI0iNb_BrgY7qjnbrzMusV_F7POOQCU4uiL3bnRMT3_YVdwbxY9UIlDr1uIiEHitp_1ZIaRwo6wuBdCuXxKC7FWv112jgAwQJEPYPEhD_1X38y1ugYhGrxHvfmKjZGhRoq2vxx4k-P6dU2Lp0pEltkNhK1Q",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "39 An der Heeschbéch, 6551 Bäerdref, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.811303,
+               "lng" : 6.348667
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5717630631c4e4f391340585016c454acd471fe6",
+         "name" : "Hôtel-Restaurant Le Bisdorff",
+         "place_id" : "ChIJP2xk1htflUcRfFc3sBZhoTM",
+         "reference" : "CoQBfgAAAIsfWSl12zl6NOdC2K2w_ROykcM2CyY2r_C5KqOBSidILfZK3kOqGN1VGKxExGZuZO5C6cT1JPVjIMxYrJxs6eb1Cvfa2w27fqhX6snBMGoGFbuPTRezSQQco0A_VzSYsDvPAt_YnJuSces6Q9rQWqenUGBgU2aF2Bj_S_nx1ueNEhAiYXDDnVt9Trk8vswi2sviGhRqX_I7-MgIf4-Df5mJ5I5nqluPpw",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "120 Grand-Rue, 6310 Beefort, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.843697,
+               "lng" : 6.289022
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "09b065a3768c3a88d4e9804a0a4793ec53542f68",
+         "name" : "Hôtel-Restaurant Meyer SA",
+         "place_id" : "ChIJx26ZhJxYlUcRiJ-EjKiS0qo",
+         "reference" : "CoQBfAAAAAtGi7n-rmF4xOi6nXuYcZxKRSnuvFm67emw3DZRINgjUMX_OiDBQhO5DvctDM8UpQAyom03beQLzyoAOaTixh12kwwaNUlIq4eQT5AViP3qeeBGCW8k9BlsGwln982hDiyJNOBHy6t7mFVSHXcKXCQnOQuQJkipzjMZemgT0i5MEhCEc6tpJwpWZwHLuyhjSl4LGhR8egA84VJpEgvsIU-QUwtTNvTDow",
+         "types" : [ "lodging", "establishment" ]
+      },
+      {
+         "formatted_address" : "17 Luxembourg Rd, 5752 Frisange, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.518071,
+               "lng" : 6.187261
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "20d003f7ae782f1e106a88a34b8a2ca63b729b0a",
+         "name" : "Léa Linster",
+         "place_id" : "ChIJ4wMZHnc4lUcRee8_7qqIFpE",
+         "reference" : "CnRuAAAA1qly4azcmqSNXYT37AvP-JdB2kRMBeXUmY10HuvtNT0MEY4s3Cu4gTIxDypjJZR--ssIVrCtr0h7WgxC1D14QOJ-QlQ8T_xtOUY0OmsG0jTxUMPHjVEs1RIRh93e3FJTyvrEZcYaqdA2oeh5ujPufBIQ4j69X4npz6yuGsjyHeM5uBoUbWM-aer-sIzh4nLXFSw7YO19eyY",
+         "types" : [ "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Rue des Villas, 45., 4980 Trois-Ponts, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.38,
+               "lng" : 5.87
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5f963f6ab0d89f0f07b5d9f0fb8a47324839c67a",
+         "name" : "Le Beau Site",
+         "place_id" : "ChIJ7_fSb5BlwEcRNa3iZvUkelA",
+         "reference" : "CnRtAAAAHh-4YbrJhIcCJVndoq-K-a4_Rt4Hm2cxQBBIyCW7nqB76zynGFo6qq8ozKTo906s4wiQEs1KcnM_Ei0RF65vzuKpHmAuHRmgCsT7YLFxOBErBwAWAIP1lTA_mv9WpzVFzYhQ3FBdd8AxpMn_Brz03BIQ3LqvETh5-6_V5rvUCyTg8hoUIMmPctQXc1VlG9kDVLRra4cPM5s",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bois de Coulange, Source St, 57360 Amnéville, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.242083,
+               "lng" : 6.13625
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c19d477c82427d5d8493d76ba615fffb35eda05d",
+         "name" : "Hôtel Diane",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiGl33mq3fwC7z-vKDlTbzBB9j8vcVlFMek6APBbHjAeuXdNBMUdYsi7OciS18ZchLq_TAz8kdvdA9B2dTZlRy4asuDrcYS3umL0sGCbVyQYYPtntH3gubkyQHSC53Q2EkpKwVcerCsGeO2omCNaTGBIQB1z4P1sw7VSX3cWEBP_cqRoUeQnUl8u7Hla-O0uAWvvH3CkVYjA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJRQBwAVQmlUcRGahvRJjk4wM",
+         "reference" : "CnRtAAAAcLMH5HqGdrUj0coK0OJLXG82jJHwluKij3xQtc0buFvpsJam2L0BC9TZ_lHLea1KffA2HeYaL05A_PB31OWpHn4LYPS5VG6jpBPNEYrjvNmS3pPukjkmXni0LBICT_I3Bqsdav480G-2lupw65AlUhIQmFsCtczDXqfkIHzt57GY0xoUtRjeVMDO2T5HFgKiVpsa72sBy1U",
+         "types" : [ "lodging", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
