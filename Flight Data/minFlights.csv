@@ -1,0 +1,506 @@
+amsterdam,stockholm,120.0,258.1875
+amsterdam,barcelona,135.0,135.6875
+amsterdam,brussels,45.0,170.6875
+amsterdam,paris,255.0,203.975
+amsterdam,copenhagen,85.0,73.1875
+amsterdam,dublin,100.0,121.95
+amsterdam,edinburgh,85.0,258.1875
+amsterdam,rome,130.0,284.4375
+amsterdam,florence,355.0,303.1875
+amsterdam,hamburg,65.0,198.2625
+amsterdam,hong kong,870.0,674.35
+amsterdam,tokyo,1085.0,962.3875
+amsterdam,new york,1115.0,851.5625
+amsterdam,kyoto,645.0,1033.1875
+amsterdam,london,80.0,85.6875
+amsterdam,macau,1235.0,1015.45
+amsterdam,munich,85.0,238.1875
+amsterdam,monte carlo,405.0,236.475
+amsterdam,chicago,685.0,907.125
+amsterdam,oslo,105.0,221.9375
+amsterdam,rotterdam,290.0,235.275
+amsterdam,san francisco,1760.0,1013.375
+stockholm,amsterdam,195.0,150.93
+stockholm,barcelona,205.0,186.68
+stockholm,brussels,190.0,150.93
+stockholm,paris,160.0,142.87
+stockholm,copenhagen,70.0,97.37
+stockholm,dublin,160.0,240.37
+stockholm,edinburgh,330.0,169.39
+stockholm,rome,400.0,163.8
+stockholm,florence,405.0,310.57
+stockholm,hamburg,245.0,109.33
+stockholm,hong kong,945.0,759.59
+stockholm,tokyo,1530.0,1018.81
+stockholm,new york,670.0,665.08
+stockholm,kyoto,1195.0,1054.69
+stockholm,london,155.0,58.37
+stockholm,macau,885.0,789.1
+stockholm,munich,200.0,132.21
+stockholm,monte carlo,265.0,223.08
+stockholm,chicago,1240.0,938.08
+stockholm,oslo,55.0,142.87
+stockholm,rotterdam,480.0,207.87
+stockholm,san francisco,1345.0,628.81
+barcelona,amsterdam,135.0,138.35
+barcelona,stockholm,220.0,195.3875
+barcelona,brussels,125.0,75.85
+barcelona,paris,115.0,85.85
+barcelona,copenhagen,275.0,192.425
+barcelona,dublin,405.0,159.9125
+barcelona,edinburgh,330.0,176.6375
+barcelona,rome,105.0,103.35
+barcelona,florence,245.0,249.6
+barcelona,hamburg,160.0,138.15
+barcelona,hong kong,920.0,601.6
+barcelona,tokyo,1435.0,1065.15
+barcelona,new york,1104.0,877.5875
+barcelona,kyoto,1100.0,1039.3375
+barcelona,london,140.0,74.6
+barcelona,macau,1275.0,846.4
+barcelona,munich,125.0,113.35
+barcelona,monte carlo,425.0,115.85
+barcelona,chicago,870.0,1867.525
+barcelona,oslo,475.0,211.6375
+barcelona,rotterdam,485.0,192.45
+barcelona,san francisco,1084.0,2124.9375
+brussels,amsterdam,55.0,173.425
+brussels,stockholm,260.0,177.65
+brussels,barcelona,120.0,97.175
+brussels,paris,280.0,154.9125
+brussels,copenhagen,90.0,89.675
+brussels,dublin,360.0,204.2125
+brussels,edinburgh,290.0,257.175
+brussels,rome,125.0,97.175
+brussels,florence,685.0,498.425
+brussels,hamburg,300.0,173.3875
+brussels,hong kong,935.0,677.175
+brussels,tokyo,1500.0,1090.1375
+brussels,new york,1110.0,850.425
+brussels,kyoto,1495.0,1090.1375
+brussels,london,65.0,113.425
+brussels,macau,1260.0,719.4125
+brussels,munich,235.0,210.4625
+brussels,monte carlo,345.0,238.425
+brussels,chicago,795.0,581.2375
+brussels,oslo,205.0,188.425
+brussels,rotterdam,470.0,238.775
+brussels,san francisco,1760.0,1012.2375
+paris,amsterdam,75.0,85.75
+paris,stockholm,150.0,139.5
+paris,barcelona,105.0,85.75
+paris,brussels,300.0,194.0125
+paris,copenhagen,105.0,210.75
+paris,dublin,115.0,196.975
+paris,edinburgh,120.0,199.2625
+paris,rome,375.0,334.7125
+paris,florence,110.0,112.0
+paris,hamburg,90.0,223.325
+paris,hong kong,950.0,718.2
+paris,tokyo,1450.0,1061.5875
+paris,new york,1020.0,855.7125
+paris,kyoto,1115.0,964.7625
+paris,london,75.0,98.225
+paris,macau,1315.0,957.6625
+paris,munich,90.0,230.75
+paris,monte carlo,90.0,269.575
+paris,chicago,1240.0,834.6875
+paris,oslo,135.0,85.75
+paris,rotterdam,455.0,251.075
+paris,san francisco,1345.0,1024.4625
+copenhagen,amsterdam,85.0,84.83
+copenhagen,stockholm,70.0,127.33
+copenhagen,barcelona,275.0,177.99
+copenhagen,brussels,90.0,135.83
+copenhagen,paris,120.0,118.83
+copenhagen,dublin,250.0,160.82
+copenhagen,edinburgh,325.0,198.56
+copenhagen,rome,250.0,229.33
+copenhagen,florence,350.0,280.16
+copenhagen,hamburg,50.0,169.83
+copenhagen,hong kong,915.0,668.1
+copenhagen,tokyo,1490.0,1076.95
+copenhagen,new york,645.0,820.42
+copenhagen,kyoto,1155.0,982.6
+copenhagen,london,120.0,67.83
+copenhagen,macau,1230.0,837.59
+copenhagen,munich,175.0,160.99
+copenhagen,monte carlo,565.0,255.68
+copenhagen,chicago,1250.0,1000.62
+copenhagen,oslo,70.0,110.33
+copenhagen,rotterdam,460.0,250.07
+copenhagen,san francisco,1355.0,959.31
+dublin,amsterdam,270.0,185.1125
+dublin,stockholm,155.0,247.2625
+dublin,barcelona,280.0,201.8
+dublin,brussels,510.0,200.55
+dublin,paris,325.0,146.0125
+dublin,copenhagen,270.0,205.55
+dublin,edinburgh,320.0,178.05
+dublin,rome,295.0,215.55
+dublin,florence,440.0,496.2875
+dublin,hamburg,335.0,199.375
+dublin,hong kong,955.0,732.4
+dublin,tokyo,1495.0,852.7125
+dublin,new york,764.0,908.5375
+dublin,kyoto,1160.0,915.2125
+dublin,london,75.0,83.5125
+dublin,macau,1240.0,1100.975
+dublin,munich,315.0,213.05
+dublin,monte carlo,280.0,244.3
+dublin,chicago,1019.0,760.5375
+dublin,oslo,305.0,213.05
+dublin,rotterdam,255.0,185.1125
+dublin,san francisco,1110.0,813.5375
+edinburgh,amsterdam,90.0,260.1144
+edinburgh,stockholm,305.0,195.5928
+edinburgh,barcelona,385.0,163.6128
+edinburgh,brussels,275.0,267.15
+edinburgh,paris,125.0,145.9692
+edinburgh,copenhagen,310.0,198.042
+edinburgh,dublin,70.0,106.0644
+edinburgh,rome,360.0,197.1528
+edinburgh,florence,250.0,378.6744
+edinburgh,hamburg,430.0,181.5528
+edinburgh,hong kong,1040.0,930.7584
+edinburgh,tokyo,1075.0,1024.3584
+edinburgh,new york,715.0,959.3844
+edinburgh,kyoto,1120.0,1082.2344
+edinburgh,london,90.0,74.3652
+edinburgh,macau,1090.0,1006.278
+edinburgh,munich,325.0,212.5968
+edinburgh,monte carlo,350.0,233.0328
+edinburgh,chicago,755.0,1350.57
+edinburgh,oslo,345.0,273.234
+edinburgh,rotterdam,410.0,276.7128
+edinburgh,san francisco,1940.0,1475.682
+rome,amsterdam,290.0,163.0625
+rome,stockholm,330.0,263.9625
+rome,barcelona,105.0,109.975
+rome,brussels,135.0,103.725
+rome,paris,310.0,204.5125
+rome,copenhagen,155.0,233.725
+rome,dublin,385.0,233.2625
+rome,edinburgh,350.0,215.7625
+rome,florence,265.0,168.7625
+rome,hamburg,305.0,170.0375
+rome,hong kong,895.0,635.5375
+rome,tokyo,1460.0,1165.625
+rome,new york,930.0,897.3125
+rome,kyoto,1440.0,786.9375
+rome,london,170.0,121.225
+rome,macau,1200.0,913.075
+rome,munich,350.0,175.15
+rome,monte carlo,70.0,291.225
+rome,chicago,1760.0,777.8875
+rome,oslo,360.0,275.2125
+rome,rotterdam,490.0,264.075
+rome,san francisco,2040.0,1740.35
+florence,amsterdam,135.0,378.925
+florence,stockholm,350.0,347.8125
+florence,barcelona,350.0,165.2125
+florence,brussels,115.0,422.675
+florence,paris,110.0,111.425
+florence,copenhagen,320.0,232.85
+florence,dublin,530.0,755.45
+florence,edinburgh,395.0,243.025
+florence,rome,370.0,145.2125
+florence,hamburg,280.0,196.225
+florence,hong kong,1175.0,1026.7
+florence,tokyo,1320.0,1229.0125
+florence,new york,795.0,1559.3
+florence,kyoto,1130.0,1249.425
+florence,london,470.0,321.5625
+florence,macau,1550.0,1036.9125
+florence,munich,330.0,163.9625
+florence,monte carlo,775.0,310.5875
+florence,chicago,845.0,1708.8125
+florence,oslo,390.0,347.8125
+florence,rotterdam,985.0,217.275
+florence,san francisco,1871.0,1736.975
+hamburg,amsterdam,65.0,200.6
+hamburg,stockholm,180.0,154.825
+hamburg,barcelona,235.0,209.7625
+hamburg,brussels,310.0,151.7375
+hamburg,paris,90.0,86.85
+hamburg,copenhagen,50.0,165.6
+hamburg,dublin,345.0,201.3875
+hamburg,edinburgh,315.0,188.8875
+hamburg,rome,355.0,212.85
+hamburg,florence,345.0,201.575
+hamburg,hong kong,915.0,672.225
+hamburg,tokyo,1070.0,1105.6625
+hamburg,new york,890.0,737.6625
+hamburg,kyoto,775.0,1199.8375
+hamburg,london,105.0,88.1
+hamburg,macau,1150.0,1056.725
+hamburg,munich,80.0,108.2125
+hamburg,monte carlo,355.0,239.7625
+hamburg,chicago,1500.0,636.7625
+hamburg,oslo,155.0,147.0875
+hamburg,rotterdam,470.0,198.45
+hamburg,san francisco,1685.0,714.3875
+hong kong,amsterdam,1320.0,574.86
+hong kong,stockholm,830.0,723.06
+hong kong,barcelona,1075.0,650.26
+hong kong,brussels,1050.0,674.96
+hong kong,paris,1420.0,547.56
+hong kong,copenhagen,1020.0,656.76
+hong kong,dublin,1465.0,960.31
+hong kong,edinburgh,1105.0,960.31
+hong kong,rome,990.0,723.06
+hong kong,florence,1250.0,1014.13
+hong kong,hamburg,1070.0,675.09
+hong kong,tokyo,665.0,625.69
+hong kong,new york,1185.0,794.95
+hong kong,kyoto,425.0,345.02
+hong kong,london,1325.0,620.36
+hong kong,macau,260.0,500.5
+hong kong,munich,1005.0,629.98
+hong kong,monte carlo,1530.0,656.76
+hong kong,chicago,1265.0,1071.46
+hong kong,oslo,860.0,789.62
+hong kong,rotterdam,1120.0,982.54
+hong kong,san francisco,980.0,609.96
+tokyo,amsterdam,1185.0,617.988
+tokyo,stockholm,2575.0,1207.416
+tokyo,barcelona,1205.0,1166.172
+tokyo,brussels,2625.0,1036.14
+tokyo,paris,1595.0,904.512
+tokyo,copenhagen,1335.0,1207.416
+tokyo,dublin,1700.0,674.352
+tokyo,edinburgh,1060.0,1045.632
+tokyo,rome,1595.0,590.352
+tokyo,florence,1105.0,1493.1
+tokyo,hamburg,1210.0,975.912
+tokyo,hong kong,555.0,476.028
+tokyo,new york,1130.0,1026.732
+tokyo,kyoto,70.0,214.116
+tokyo,london,1165.0,838.824
+tokyo,macau,750.0,643.188
+tokyo,munich,1640.0,1289.148
+tokyo,monte carlo,1240.0,1161.132
+tokyo,chicago,911.0,1127.7
+tokyo,oslo,2580.0,1391.964
+tokyo,rotterdam,1180.0,2492.7
+tokyo,san francisco,1190.0,865.452
+new york,amsterdam,990.0,733.47
+new york,stockholm,600.0,594.8
+new york,barcelona,1170.0,898.0
+new york,brussels,1285.0,790.6
+new york,paris,570.0,739.47
+new york,copenhagen,605.0,594.8
+new york,dublin,391.0,672.6
+new york,edinburgh,740.0,724.67
+new york,rome,1080.0,778.47
+new york,florence,625.0,2065.2
+new york,hamburg,765.0,746.47
+new york,hong kong,1140.0,737.1
+new york,tokyo,1320.0,985.6
+new york,kyoto,1265.0,908.6
+new york,london,1110.0,537.6
+new york,macau,1325.0,788.6
+new york,munich,675.0,758.47
+new york,monte carlo,1015.0,759.37
+new york,chicago,184.0,223.5
+new york,oslo,970.0,594.8
+new york,rotterdam,925.0,2302.0
+new york,san francisco,380.0,227.1
+kyoto,amsterdam,1605.0,774.816
+kyoto,stockholm,1185.0,751.632
+kyoto,barcelona,1255.0,657.636
+kyoto,brussels,1235.0,876.372
+kyoto,paris,1250.0,640.836
+kyoto,copenhagen,1230.0,1211.364
+kyoto,dublin,1225.0,676.788
+kyoto,edinburgh,1260.0,777.504
+kyoto,rome,1240.0,640.836
+kyoto,florence,1240.0,1168.86
+kyoto,hamburg,1620.0,722.904
+kyoto,hong kong,415.0,305.256
+kyoto,tokyo,60.0,214.7208
+kyoto,new york,1695.0,1014.216
+kyoto,london,1015.0,615.132
+kyoto,macau,680.0,558.936
+kyoto,munich,1690.0,841.932
+kyoto,monte carlo,1290.0,640.836
+kyoto,chicago,2160.0,1721.412
+kyoto,oslo,1190.0,1079.652
+kyoto,rotterdam,1140.0,2376.78
+kyoto,san francisco,950.0,852.936
+london,amsterdam,70.0,119.5116
+london,stockholm,145.0,102.9756
+london,barcelona,120.0,133.5516
+london,brussels,70.0,131.9916
+london,paris,70.0,114.1608
+london,copenhagen,115.0,102.9756
+london,dublin,75.0,133.9104
+london,edinburgh,80.0,104.6916
+london,rome,155.0,139.7916
+london,florence,340.0,346.6008
+london,hamburg,90.0,124.1916
+london,hong kong,1085.0,939.2448
+london,tokyo,1085.0,1032.8448
+london,new york,660.0,560.8356
+london,kyoto,965.0,955.5936
+london,macau,995.0,951.7716
+london,munich,110.0,144.4716
+london,monte carlo,120.0,397.1916
+london,chicago,740.0,1073.0304
+london,oslo,130.0,149.6196
+london,rotterdam,695.0,618.3528
+london,san francisco,950.0,1190.0304
+macau,amsterdam,1535.0,1316.77
+macau,stockholm,970.0,885.56
+macau,barcelona,1325.0,859.04
+macau,brussels,2255.0,1324.44
+macau,paris,1050.0,815.36
+macau,copenhagen,1245.0,1502.93
+macau,dublin,1090.0,1421.81
+macau,edinburgh,1645.0,956.15
+macau,rome,1755.0,1391.13
+macau,florence,1290.0,859.04
+macau,hamburg,1135.0,859.17
+macau,hong kong,410.0,528.71
+macau,tokyo,1230.0,864.5
+macau,new york,2065.0,937.95
+macau,kyoto,1210.0,664.82
+macau,london,1745.0,795.47
+macau,munich,1425.0,1245.14
+macau,monte carlo,1355.0,1205.1
+macau,chicago,1537.0,1310.27
+macau,oslo,1255.0,865.54
+macau,rotterdam,1280.0,2344.16
+macau,san francisco,930.0,1252.94
+munich,amsterdam,90.0,227.35
+munich,stockholm,280.0,189.15
+munich,barcelona,120.0,113.6
+munich,brussels,285.0,192.5875
+munich,paris,100.0,87.35
+munich,copenhagen,195.0,179.575
+munich,dublin,290.0,231.8875
+munich,edinburgh,260.0,238.1375
+munich,rome,435.0,123.775
+munich,florence,285.0,202.3875
+munich,hamburg,80.0,109.0
+munich,hong kong,900.0,685.575
+munich,tokyo,1440.0,989.6375
+munich,new york,685.0,863.9875
+munich,kyoto,935.0,1200.4375
+munich,london,120.0,116.1
+munich,macau,1165.0,1014.725
+munich,monte carlo,465.0,261.1375
+munich,chicago,1500.0,862.7375
+munich,oslo,195.0,200.0875
+munich,rotterdam,655.0,251.45
+munich,san francisco,1685.0,728.6375
+monte carlo,amsterdam,400.0,208.35
+monte carlo,stockholm,435.0,195.475
+monte carlo,barcelona,300.0,127.7375
+monte carlo,brussels,335.0,164.1625
+monte carlo,paris,95.0,118.2625
+monte carlo,copenhagen,325.0,230.85
+monte carlo,dublin,260.0,207.1
+monte carlo,edinburgh,320.0,188.35
+monte carlo,rome,70.0,276.4875
+monte carlo,florence,240.0,557.3125
+monte carlo,hamburg,385.0,142.8
+monte carlo,hong kong,1400.0,956.7875
+monte carlo,tokyo,1430.0,1162.3375
+monte carlo,new york,655.0,928.175
+monte carlo,kyoto,870.0,1166.6
+monte carlo,london,120.0,93.8125
+monte carlo,macau,1165.0,874.7375
+monte carlo,munich,510.0,250.275
+monte carlo,chicago,815.0,2025.7
+monte carlo,rotterdam,480.0,239.1625
+monte carlo,san francisco,1875.0,1569.9375
+monte carlo,oslo,375.0,207.975
+chicago,amsterdam,845.0,830.6
+chicago,stockholm,1205.0,826.6
+chicago,barcelona,675.0,2288.1
+chicago,brussels,980.0,830.6
+chicago,paris,860.0,832.6
+chicago,copenhagen,1015.0,664.0
+chicago,dublin,575.0,742.1
+chicago,edinburgh,1095.0,1021.17
+chicago,rome,1725.0,1239.0
+chicago,florence,775.0,1970.3
+chicago,hamburg,1015.0,859.9
+chicago,hong kong,1145.0,829.1
+chicago,tokyo,1090.0,1005.6
+chicago,new york,138.0,223.5
+chicago,kyoto,1235.0,1008.1
+chicago,london,850.0,829.6
+chicago,macau,1635.0,1092.1
+chicago,munich,870.0,838.47
+chicago,monte carlo,2155.0,1634.8
+chicago,oslo,990.0,703.7
+chicago,rotterdam,820.0,2343.0
+chicago,san francisco,290.0,206.1
+oslo,amsterdam,95.0,212.38
+oslo,stockholm,55.0,111.16
+oslo,barcelona,515.0,210.84
+oslo,brussels,125.0,196.84
+oslo,paris,145.0,132.16
+oslo,copenhagen,70.0,97.16
+oslo,dublin,300.0,204.4
+oslo,edinburgh,280.0,166.6
+oslo,rome,360.0,232.4
+oslo,florence,465.0,424.62
+oslo,hamburg,85.0,195.16
+oslo,hong kong,865.0,763.0
+oslo,tokyo,1495.0,1463.98
+oslo,new york,745.0,650.3
+oslo,kyoto,1160.0,960.4
+oslo,london,140.0,76.3
+oslo,macau,1360.0,763.0
+oslo,munich,275.0,139.16
+oslo,monte carlo,250.0,162.96
+oslo,chicago,1442.0,576.1
+oslo,rotterdam,410.0,181.3
+oslo,san francisco,1645.0,652.68
+rotterdam,amsterdam,310.0,235.9125
+rotterdam,stockholm,440.0,360.9
+rotterdam,barcelona,490.0,212.1125
+rotterdam,brussels,360.0,210.8625
+rotterdam,paris,405.0,298.3625
+rotterdam,copenhagen,475.0,215.8625
+rotterdam,dublin,250.0,206.675
+rotterdam,edinburgh,230.0,199.175
+rotterdam,rome,505.0,396.325
+rotterdam,florence,235.0,800.9
+rotterdam,hamburg,495.0,203.4375
+rotterdam,hong kong,1320.0,1550.2625
+rotterdam,tokyo,955.0,1608.125
+rotterdam,new york,1805.0,1525.3125
+rotterdam,kyoto,1090.0,1560.075
+rotterdam,london,280.0,560.9
+rotterdam,macau,1700.0,1550.2625
+rotterdam,munich,80.0,546.325
+rotterdam,monte carlo,435.0,366.675
+rotterdam,chicago,935.0,1950.125
+rotterdam,oslo,380.0,337.15
+rotterdam,san francisco,1125.0,2479.8375
+san francisco,amsterdam,1105.0,973.47
+san francisco,stockholm,1028.0,904.8
+san francisco,barcelona,1895.0,1030.37
+san francisco,brussels,1105.0,996.6
+san francisco,paris,1053.0,973.47
+san francisco,copenhagen,1105.0,659.2
+san francisco,dublin,780.0,902.1
+san francisco,edinburgh,1085.0,958.57
+san francisco,rome,2115.0,1173.1
+san francisco,florence,1035.0,2179.3
+san francisco,hamburg,1730.0,990.97
+san francisco,hong kong,995.0,706.1
+san francisco,tokyo,1155.0,1150.8
+san francisco,new york,335.0,189.0
+san francisco,kyoto,1450.0,847.6
+san francisco,london,1110.0,953.47
+san francisco,macau,1530.0,728.6
+san francisco,munich,1130.0,644.7
+san francisco,monte carlo,2075.0,990.8
+san francisco,chicago,250.0,134.1
+san francisco,oslo,1080.0,659.2
+san francisco,rotterdam,800.0,2832.3
