@@ -1,506 +1,854 @@
-amsterdam,stockholm,120.0,258.1875
-amsterdam,barcelona,135.0,135.6875
-amsterdam,brussels,45.0,170.6875
-amsterdam,paris,255.0,203.975
-amsterdam,copenhagen,85.0,73.1875
-amsterdam,dublin,100.0,121.95
-amsterdam,edinburgh,85.0,258.1875
-amsterdam,rome,130.0,284.4375
-amsterdam,florence,355.0,303.1875
-amsterdam,hamburg,65.0,198.2625
-amsterdam,hong kong,870.0,674.35
-amsterdam,tokyo,1085.0,962.3875
-amsterdam,new york,1115.0,851.5625
-amsterdam,kyoto,645.0,1033.1875
-amsterdam,london,80.0,85.6875
-amsterdam,macau,1235.0,1015.45
-amsterdam,munich,85.0,238.1875
-amsterdam,monte carlo,405.0,236.475
-amsterdam,chicago,685.0,907.125
-amsterdam,oslo,105.0,221.9375
-amsterdam,rotterdam,290.0,235.275
-amsterdam,san francisco,1760.0,1013.375
-stockholm,amsterdam,195.0,150.93
-stockholm,barcelona,205.0,186.68
-stockholm,brussels,190.0,150.93
-stockholm,paris,160.0,142.87
-stockholm,copenhagen,70.0,97.37
-stockholm,dublin,160.0,240.37
-stockholm,edinburgh,330.0,169.39
-stockholm,rome,400.0,163.8
-stockholm,florence,405.0,310.57
-stockholm,hamburg,245.0,109.33
-stockholm,hong kong,945.0,759.59
-stockholm,tokyo,1530.0,1018.81
-stockholm,new york,670.0,665.08
-stockholm,kyoto,1195.0,1054.69
-stockholm,london,155.0,58.37
-stockholm,macau,885.0,789.1
-stockholm,munich,200.0,132.21
-stockholm,monte carlo,265.0,223.08
-stockholm,chicago,1240.0,938.08
-stockholm,oslo,55.0,142.87
-stockholm,rotterdam,480.0,207.87
-stockholm,san francisco,1345.0,628.81
-barcelona,amsterdam,135.0,138.35
-barcelona,stockholm,220.0,195.3875
-barcelona,brussels,125.0,75.85
-barcelona,paris,115.0,85.85
-barcelona,copenhagen,275.0,192.425
-barcelona,dublin,405.0,159.9125
-barcelona,edinburgh,330.0,176.6375
-barcelona,rome,105.0,103.35
-barcelona,florence,245.0,249.6
-barcelona,hamburg,160.0,138.15
-barcelona,hong kong,920.0,601.6
-barcelona,tokyo,1435.0,1065.15
-barcelona,new york,1104.0,877.5875
-barcelona,kyoto,1100.0,1039.3375
-barcelona,london,140.0,74.6
-barcelona,macau,1275.0,846.4
-barcelona,munich,125.0,113.35
-barcelona,monte carlo,425.0,115.85
-barcelona,chicago,870.0,1867.525
-barcelona,oslo,475.0,211.6375
-barcelona,rotterdam,485.0,192.45
-barcelona,san francisco,1084.0,2124.9375
-brussels,amsterdam,55.0,173.425
-brussels,stockholm,260.0,177.65
-brussels,barcelona,120.0,97.175
-brussels,paris,280.0,154.9125
-brussels,copenhagen,90.0,89.675
-brussels,dublin,360.0,204.2125
-brussels,edinburgh,290.0,257.175
-brussels,rome,125.0,97.175
-brussels,florence,685.0,498.425
-brussels,hamburg,300.0,173.3875
-brussels,hong kong,935.0,677.175
-brussels,tokyo,1500.0,1090.1375
-brussels,new york,1110.0,850.425
-brussels,kyoto,1495.0,1090.1375
-brussels,london,65.0,113.425
-brussels,macau,1260.0,719.4125
-brussels,munich,235.0,210.4625
-brussels,monte carlo,345.0,238.425
-brussels,chicago,795.0,581.2375
-brussels,oslo,205.0,188.425
-brussels,rotterdam,470.0,238.775
-brussels,san francisco,1760.0,1012.2375
-paris,amsterdam,75.0,85.75
-paris,stockholm,150.0,139.5
-paris,barcelona,105.0,85.75
-paris,brussels,300.0,194.0125
-paris,copenhagen,105.0,210.75
-paris,dublin,115.0,196.975
-paris,edinburgh,120.0,199.2625
-paris,rome,375.0,334.7125
-paris,florence,110.0,112.0
-paris,hamburg,90.0,223.325
-paris,hong kong,950.0,718.2
-paris,tokyo,1450.0,1061.5875
-paris,new york,1020.0,855.7125
-paris,kyoto,1115.0,964.7625
-paris,london,75.0,98.225
-paris,macau,1315.0,957.6625
-paris,munich,90.0,230.75
-paris,monte carlo,90.0,269.575
-paris,chicago,1240.0,834.6875
-paris,oslo,135.0,85.75
-paris,rotterdam,455.0,251.075
-paris,san francisco,1345.0,1024.4625
-copenhagen,amsterdam,85.0,84.83
-copenhagen,stockholm,70.0,127.33
-copenhagen,barcelona,275.0,177.99
-copenhagen,brussels,90.0,135.83
-copenhagen,paris,120.0,118.83
-copenhagen,dublin,250.0,160.82
-copenhagen,edinburgh,325.0,198.56
-copenhagen,rome,250.0,229.33
-copenhagen,florence,350.0,280.16
-copenhagen,hamburg,50.0,169.83
-copenhagen,hong kong,915.0,668.1
-copenhagen,tokyo,1490.0,1076.95
-copenhagen,new york,645.0,820.42
-copenhagen,kyoto,1155.0,982.6
-copenhagen,london,120.0,67.83
-copenhagen,macau,1230.0,837.59
-copenhagen,munich,175.0,160.99
-copenhagen,monte carlo,565.0,255.68
-copenhagen,chicago,1250.0,1000.62
-copenhagen,oslo,70.0,110.33
-copenhagen,rotterdam,460.0,250.07
-copenhagen,san francisco,1355.0,959.31
-dublin,amsterdam,270.0,185.1125
-dublin,stockholm,155.0,247.2625
-dublin,barcelona,280.0,201.8
-dublin,brussels,510.0,200.55
-dublin,paris,325.0,146.0125
-dublin,copenhagen,270.0,205.55
-dublin,edinburgh,320.0,178.05
-dublin,rome,295.0,215.55
-dublin,florence,440.0,496.2875
-dublin,hamburg,335.0,199.375
-dublin,hong kong,955.0,732.4
-dublin,tokyo,1495.0,852.7125
-dublin,new york,764.0,908.5375
-dublin,kyoto,1160.0,915.2125
-dublin,london,75.0,83.5125
-dublin,macau,1240.0,1100.975
-dublin,munich,315.0,213.05
-dublin,monte carlo,280.0,244.3
-dublin,chicago,1019.0,760.5375
-dublin,oslo,305.0,213.05
-dublin,rotterdam,255.0,185.1125
-dublin,san francisco,1110.0,813.5375
-edinburgh,amsterdam,90.0,260.1144
-edinburgh,stockholm,305.0,195.5928
-edinburgh,barcelona,385.0,163.6128
-edinburgh,brussels,275.0,267.15
-edinburgh,paris,125.0,145.9692
-edinburgh,copenhagen,310.0,198.042
-edinburgh,dublin,70.0,106.0644
-edinburgh,rome,360.0,197.1528
-edinburgh,florence,250.0,378.6744
-edinburgh,hamburg,430.0,181.5528
-edinburgh,hong kong,1040.0,930.7584
-edinburgh,tokyo,1075.0,1024.3584
-edinburgh,new york,715.0,959.3844
-edinburgh,kyoto,1120.0,1082.2344
-edinburgh,london,90.0,74.3652
-edinburgh,macau,1090.0,1006.278
-edinburgh,munich,325.0,212.5968
-edinburgh,monte carlo,350.0,233.0328
-edinburgh,chicago,755.0,1350.57
-edinburgh,oslo,345.0,273.234
-edinburgh,rotterdam,410.0,276.7128
-edinburgh,san francisco,1940.0,1475.682
-rome,amsterdam,290.0,163.0625
-rome,stockholm,330.0,263.9625
-rome,barcelona,105.0,109.975
-rome,brussels,135.0,103.725
-rome,paris,310.0,204.5125
-rome,copenhagen,155.0,233.725
-rome,dublin,385.0,233.2625
-rome,edinburgh,350.0,215.7625
-rome,florence,265.0,168.7625
-rome,hamburg,305.0,170.0375
-rome,hong kong,895.0,635.5375
-rome,tokyo,1460.0,1165.625
-rome,new york,930.0,897.3125
-rome,kyoto,1440.0,786.9375
-rome,london,170.0,121.225
-rome,macau,1200.0,913.075
-rome,munich,350.0,175.15
-rome,monte carlo,70.0,291.225
-rome,chicago,1760.0,777.8875
-rome,oslo,360.0,275.2125
-rome,rotterdam,490.0,264.075
-rome,san francisco,2040.0,1740.35
-florence,amsterdam,135.0,378.925
-florence,stockholm,350.0,347.8125
-florence,barcelona,350.0,165.2125
-florence,brussels,115.0,422.675
-florence,paris,110.0,111.425
-florence,copenhagen,320.0,232.85
-florence,dublin,530.0,755.45
-florence,edinburgh,395.0,243.025
-florence,rome,370.0,145.2125
-florence,hamburg,280.0,196.225
-florence,hong kong,1175.0,1026.7
-florence,tokyo,1320.0,1229.0125
-florence,new york,795.0,1559.3
-florence,kyoto,1130.0,1249.425
-florence,london,470.0,321.5625
-florence,macau,1550.0,1036.9125
-florence,munich,330.0,163.9625
-florence,monte carlo,775.0,310.5875
-florence,chicago,845.0,1708.8125
-florence,oslo,390.0,347.8125
-florence,rotterdam,985.0,217.275
-florence,san francisco,1871.0,1736.975
-hamburg,amsterdam,65.0,200.6
-hamburg,stockholm,180.0,154.825
-hamburg,barcelona,235.0,209.7625
-hamburg,brussels,310.0,151.7375
-hamburg,paris,90.0,86.85
-hamburg,copenhagen,50.0,165.6
-hamburg,dublin,345.0,201.3875
-hamburg,edinburgh,315.0,188.8875
-hamburg,rome,355.0,212.85
-hamburg,florence,345.0,201.575
-hamburg,hong kong,915.0,672.225
-hamburg,tokyo,1070.0,1105.6625
-hamburg,new york,890.0,737.6625
-hamburg,kyoto,775.0,1199.8375
-hamburg,london,105.0,88.1
-hamburg,macau,1150.0,1056.725
-hamburg,munich,80.0,108.2125
-hamburg,monte carlo,355.0,239.7625
-hamburg,chicago,1500.0,636.7625
-hamburg,oslo,155.0,147.0875
-hamburg,rotterdam,470.0,198.45
-hamburg,san francisco,1685.0,714.3875
-hong kong,amsterdam,1320.0,574.86
-hong kong,stockholm,830.0,723.06
-hong kong,barcelona,1075.0,650.26
-hong kong,brussels,1050.0,674.96
-hong kong,paris,1420.0,547.56
-hong kong,copenhagen,1020.0,656.76
-hong kong,dublin,1465.0,960.31
-hong kong,edinburgh,1105.0,960.31
-hong kong,rome,990.0,723.06
-hong kong,florence,1250.0,1014.13
-hong kong,hamburg,1070.0,675.09
-hong kong,tokyo,665.0,625.69
-hong kong,new york,1185.0,794.95
-hong kong,kyoto,425.0,345.02
-hong kong,london,1325.0,620.36
-hong kong,macau,260.0,500.5
-hong kong,munich,1005.0,629.98
-hong kong,monte carlo,1530.0,656.76
-hong kong,chicago,1265.0,1071.46
-hong kong,oslo,860.0,789.62
-hong kong,rotterdam,1120.0,982.54
-hong kong,san francisco,980.0,609.96
-tokyo,amsterdam,1185.0,617.988
-tokyo,stockholm,2575.0,1207.416
-tokyo,barcelona,1205.0,1166.172
-tokyo,brussels,2625.0,1036.14
-tokyo,paris,1595.0,904.512
-tokyo,copenhagen,1335.0,1207.416
-tokyo,dublin,1700.0,674.352
-tokyo,edinburgh,1060.0,1045.632
-tokyo,rome,1595.0,590.352
-tokyo,florence,1105.0,1493.1
-tokyo,hamburg,1210.0,975.912
-tokyo,hong kong,555.0,476.028
-tokyo,new york,1130.0,1026.732
-tokyo,kyoto,70.0,214.116
-tokyo,london,1165.0,838.824
-tokyo,macau,750.0,643.188
-tokyo,munich,1640.0,1289.148
-tokyo,monte carlo,1240.0,1161.132
-tokyo,chicago,911.0,1127.7
-tokyo,oslo,2580.0,1391.964
-tokyo,rotterdam,1180.0,2492.7
-tokyo,san francisco,1190.0,865.452
-new york,amsterdam,990.0,733.47
-new york,stockholm,600.0,594.8
-new york,barcelona,1170.0,898.0
-new york,brussels,1285.0,790.6
-new york,paris,570.0,739.47
-new york,copenhagen,605.0,594.8
-new york,dublin,391.0,672.6
-new york,edinburgh,740.0,724.67
-new york,rome,1080.0,778.47
-new york,florence,625.0,2065.2
-new york,hamburg,765.0,746.47
-new york,hong kong,1140.0,737.1
-new york,tokyo,1320.0,985.6
-new york,kyoto,1265.0,908.6
-new york,london,1110.0,537.6
-new york,macau,1325.0,788.6
-new york,munich,675.0,758.47
-new york,monte carlo,1015.0,759.37
-new york,chicago,184.0,223.5
-new york,oslo,970.0,594.8
-new york,rotterdam,925.0,2302.0
-new york,san francisco,380.0,227.1
-kyoto,amsterdam,1605.0,774.816
-kyoto,stockholm,1185.0,751.632
-kyoto,barcelona,1255.0,657.636
-kyoto,brussels,1235.0,876.372
-kyoto,paris,1250.0,640.836
-kyoto,copenhagen,1230.0,1211.364
-kyoto,dublin,1225.0,676.788
-kyoto,edinburgh,1260.0,777.504
-kyoto,rome,1240.0,640.836
-kyoto,florence,1240.0,1168.86
-kyoto,hamburg,1620.0,722.904
-kyoto,hong kong,415.0,305.256
-kyoto,tokyo,60.0,214.7208
-kyoto,new york,1695.0,1014.216
-kyoto,london,1015.0,615.132
-kyoto,macau,680.0,558.936
-kyoto,munich,1690.0,841.932
-kyoto,monte carlo,1290.0,640.836
-kyoto,chicago,2160.0,1721.412
-kyoto,oslo,1190.0,1079.652
-kyoto,rotterdam,1140.0,2376.78
-kyoto,san francisco,950.0,852.936
-london,amsterdam,70.0,119.5116
-london,stockholm,145.0,102.9756
-london,barcelona,120.0,133.5516
-london,brussels,70.0,131.9916
-london,paris,70.0,114.1608
-london,copenhagen,115.0,102.9756
-london,dublin,75.0,133.9104
-london,edinburgh,80.0,104.6916
-london,rome,155.0,139.7916
-london,florence,340.0,346.6008
-london,hamburg,90.0,124.1916
-london,hong kong,1085.0,939.2448
-london,tokyo,1085.0,1032.8448
-london,new york,660.0,560.8356
-london,kyoto,965.0,955.5936
-london,macau,995.0,951.7716
-london,munich,110.0,144.4716
-london,monte carlo,120.0,397.1916
-london,chicago,740.0,1073.0304
-london,oslo,130.0,149.6196
-london,rotterdam,695.0,618.3528
-london,san francisco,950.0,1190.0304
-macau,amsterdam,1535.0,1316.77
-macau,stockholm,970.0,885.56
-macau,barcelona,1325.0,859.04
-macau,brussels,2255.0,1324.44
-macau,paris,1050.0,815.36
-macau,copenhagen,1245.0,1502.93
-macau,dublin,1090.0,1421.81
-macau,edinburgh,1645.0,956.15
-macau,rome,1755.0,1391.13
-macau,florence,1290.0,859.04
-macau,hamburg,1135.0,859.17
-macau,hong kong,410.0,528.71
-macau,tokyo,1230.0,864.5
-macau,new york,2065.0,937.95
-macau,kyoto,1210.0,664.82
-macau,london,1745.0,795.47
-macau,munich,1425.0,1245.14
-macau,monte carlo,1355.0,1205.1
-macau,chicago,1537.0,1310.27
-macau,oslo,1255.0,865.54
-macau,rotterdam,1280.0,2344.16
-macau,san francisco,930.0,1252.94
-munich,amsterdam,90.0,227.35
-munich,stockholm,280.0,189.15
-munich,barcelona,120.0,113.6
-munich,brussels,285.0,192.5875
-munich,paris,100.0,87.35
-munich,copenhagen,195.0,179.575
-munich,dublin,290.0,231.8875
-munich,edinburgh,260.0,238.1375
-munich,rome,435.0,123.775
-munich,florence,285.0,202.3875
-munich,hamburg,80.0,109.0
-munich,hong kong,900.0,685.575
-munich,tokyo,1440.0,989.6375
-munich,new york,685.0,863.9875
-munich,kyoto,935.0,1200.4375
-munich,london,120.0,116.1
-munich,macau,1165.0,1014.725
-munich,monte carlo,465.0,261.1375
-munich,chicago,1500.0,862.7375
-munich,oslo,195.0,200.0875
-munich,rotterdam,655.0,251.45
-munich,san francisco,1685.0,728.6375
-monte carlo,amsterdam,400.0,208.35
-monte carlo,stockholm,435.0,195.475
-monte carlo,barcelona,300.0,127.7375
-monte carlo,brussels,335.0,164.1625
-monte carlo,paris,95.0,118.2625
-monte carlo,copenhagen,325.0,230.85
-monte carlo,dublin,260.0,207.1
-monte carlo,edinburgh,320.0,188.35
-monte carlo,rome,70.0,276.4875
-monte carlo,florence,240.0,557.3125
-monte carlo,hamburg,385.0,142.8
-monte carlo,hong kong,1400.0,956.7875
-monte carlo,tokyo,1430.0,1162.3375
-monte carlo,new york,655.0,928.175
-monte carlo,kyoto,870.0,1166.6
-monte carlo,london,120.0,93.8125
-monte carlo,macau,1165.0,874.7375
-monte carlo,munich,510.0,250.275
-monte carlo,chicago,815.0,2025.7
-monte carlo,rotterdam,480.0,239.1625
-monte carlo,san francisco,1875.0,1569.9375
-monte carlo,oslo,375.0,207.975
-chicago,amsterdam,845.0,830.6
-chicago,stockholm,1205.0,826.6
-chicago,barcelona,675.0,2288.1
-chicago,brussels,980.0,830.6
-chicago,paris,860.0,832.6
-chicago,copenhagen,1015.0,664.0
-chicago,dublin,575.0,742.1
-chicago,edinburgh,1095.0,1021.17
-chicago,rome,1725.0,1239.0
-chicago,florence,775.0,1970.3
-chicago,hamburg,1015.0,859.9
-chicago,hong kong,1145.0,829.1
-chicago,tokyo,1090.0,1005.6
-chicago,new york,138.0,223.5
-chicago,kyoto,1235.0,1008.1
-chicago,london,850.0,829.6
-chicago,macau,1635.0,1092.1
-chicago,munich,870.0,838.47
-chicago,monte carlo,2155.0,1634.8
-chicago,oslo,990.0,703.7
-chicago,rotterdam,820.0,2343.0
-chicago,san francisco,290.0,206.1
-oslo,amsterdam,95.0,212.38
-oslo,stockholm,55.0,111.16
-oslo,barcelona,515.0,210.84
-oslo,brussels,125.0,196.84
-oslo,paris,145.0,132.16
-oslo,copenhagen,70.0,97.16
-oslo,dublin,300.0,204.4
-oslo,edinburgh,280.0,166.6
-oslo,rome,360.0,232.4
-oslo,florence,465.0,424.62
-oslo,hamburg,85.0,195.16
-oslo,hong kong,865.0,763.0
-oslo,tokyo,1495.0,1463.98
-oslo,new york,745.0,650.3
-oslo,kyoto,1160.0,960.4
-oslo,london,140.0,76.3
-oslo,macau,1360.0,763.0
-oslo,munich,275.0,139.16
-oslo,monte carlo,250.0,162.96
-oslo,chicago,1442.0,576.1
-oslo,rotterdam,410.0,181.3
-oslo,san francisco,1645.0,652.68
-rotterdam,amsterdam,310.0,235.9125
-rotterdam,stockholm,440.0,360.9
-rotterdam,barcelona,490.0,212.1125
-rotterdam,brussels,360.0,210.8625
-rotterdam,paris,405.0,298.3625
-rotterdam,copenhagen,475.0,215.8625
-rotterdam,dublin,250.0,206.675
-rotterdam,edinburgh,230.0,199.175
-rotterdam,rome,505.0,396.325
-rotterdam,florence,235.0,800.9
-rotterdam,hamburg,495.0,203.4375
-rotterdam,hong kong,1320.0,1550.2625
-rotterdam,tokyo,955.0,1608.125
-rotterdam,new york,1805.0,1525.3125
-rotterdam,kyoto,1090.0,1560.075
-rotterdam,london,280.0,560.9
-rotterdam,macau,1700.0,1550.2625
-rotterdam,munich,80.0,546.325
-rotterdam,monte carlo,435.0,366.675
-rotterdam,chicago,935.0,1950.125
-rotterdam,oslo,380.0,337.15
-rotterdam,san francisco,1125.0,2479.8375
-san francisco,amsterdam,1105.0,973.47
-san francisco,stockholm,1028.0,904.8
-san francisco,barcelona,1895.0,1030.37
-san francisco,brussels,1105.0,996.6
-san francisco,paris,1053.0,973.47
-san francisco,copenhagen,1105.0,659.2
-san francisco,dublin,780.0,902.1
-san francisco,edinburgh,1085.0,958.57
-san francisco,rome,2115.0,1173.1
-san francisco,florence,1035.0,2179.3
-san francisco,hamburg,1730.0,990.97
-san francisco,hong kong,995.0,706.1
-san francisco,tokyo,1155.0,1150.8
-san francisco,new york,335.0,189.0
-san francisco,kyoto,1450.0,847.6
-san francisco,london,1110.0,953.47
-san francisco,macau,1530.0,728.6
-san francisco,munich,1130.0,644.7
-san francisco,monte carlo,2075.0,990.8
-san francisco,chicago,250.0,134.1
-san francisco,oslo,1080.0,659.2
-san francisco,rotterdam,800.0,2832.3
+amsterdam,stockholm,SK556,115,EUR60.55,75.6875
+amsterdam,barcelona,IB5657,135,EUR108.55,135.6875
+amsterdam,brussels,KL1731,45,EUR136.55,170.6875
+amsterdam,paris,SK552,255,EUR123.74,154.675
+amsterdam,paris,BA441,215,EUR163.18,203.975
+amsterdam,copenhagen,SK552,85,EUR58.55,73.1875
+amsterdam,copenhagen,SK554,80,EUR58.55,73.1875
+amsterdam,dublin,EI611,100,EUR97.56,121.95
+amsterdam,edinburgh,KL1289,85,EUR206.55,258.1875
+amsterdam,rome,VY6291,135,EUR66.55,83.1875
+amsterdam,rome,KL1609,130,EUR227.55,284.4375
+amsterdam,florence,BA8496,250,EUR177.83,222.2875
+amsterdam,florence,KL1645,115,EUR242.55,303.1875
+amsterdam,hamburg,4U7185,60,EUR48.61,60.7625
+amsterdam,hong kong,SU2551,870,EUR420.95,526.1875
+amsterdam,tokyo,EK150,1085,EUR724.55,905.6875
+amsterdam,tokyo,AF1441,890,EUR769.91,962.3875
+amsterdam,new york,FI501,660,EUR333.66,417.075
+amsterdam,kyoto,AF1341,865,EUR716.91,896.1375
+amsterdam,kyoto,KL867,645,EUR826.55,1033.1875
+amsterdam,london,BA443,70,EUR68.55,85.6875
+amsterdam,london,BA433,65,EUR68.55,85.6875
+amsterdam,macau,KL1767,1235,EUR668.88,836.1
+amsterdam,macau,SU2551,1040,EUR812.36,1015.45
+amsterdam,munich,KL1797,85,EUR190.55,238.1875
+amsterdam,monte carlo,VY6291,405,EUR114.55,143.1875
+amsterdam,monte carlo,BA439,280,EUR189.18,236.475
+amsterdam,chicago,IB3721,805,EUR313.25,391.5625
+amsterdam,chicago,EI603,685,EUR725.70,907.125
+amsterdam,oslo,SK822,105,EUR64.55,80.6875
+amsterdam,oslo,KL1221,95,EUR177.55,221.9375
+amsterdam,rotterdam,BA8460,290,EUR188.22,235.275
+amsterdam,rotterdam,BA8496,145,EUR188.22,235.275
+amsterdam,san francisco,FI501,1760,EUR501.80,627.25
+amsterdam,san francisco,EI603,895,EUR810.70,1013.375
+stockholm,amsterdam,SK557,125,SEK449,58.37
+stockholm,barcelona,VY1266,205,SEK660,85.8
+stockholm,brussels,SK2591,130,SEK499,64.87
+stockholm,paris,AF1463,160,SEK839,109.07
+stockholm,paris,SK579,150,SEK899,116.87
+stockholm,copenhagen,SK403,70,SEK649,84.37
+stockholm,dublin,SK483,230,SEK1430,185.9
+stockholm,dublin,SK535,160,SEK1849,240.37
+stockholm,edinburgh,SK2541,135,SEK449,58.37
+stockholm,rome,BT102,400,SEK677,88.01
+stockholm,rome,SK1841,190,SEK799,103.87
+stockholm,florence,AB8001,405,SEK1724,224.12
+stockholm,florence,SK635,280,SEK1823,236.99
+stockholm,hamburg,SK2645,95,SEK399,51.87
+stockholm,hong kong,SU2211,945,SEK3622,470.86
+stockholm,hong kong,CA912,915,SEK5843,759.59
+stockholm,tokyo,EK158,1530,SEK4708,612.04
+stockholm,tokyo,SU2211,1080,SEK6789,882.57
+stockholm,new york,FI307,640,SEK3070,399.1
+stockholm,new york,FI305,625,SEK3070,399.1
+stockholm,kyoto,EK158,1195,SEK4838,628.94
+stockholm,kyoto,TK1796,1050,SEK8113,1054.69
+stockholm,london,SK1527,155,SEK449,58.37
+stockholm,macau,CA912,885,SEK5843,759.59
+stockholm,munich,AB8003,200,SEK895,116.35
+stockholm,monte carlo,SK419,265,SEK1117,145.21
+stockholm,chicago,FI305,1240,SEK4093,532.09
+stockholm,chicago,AB8001,760,SEK7216,938.08
+stockholm,oslo,SK483,60,SEK799,103.87
+stockholm,oslo,SK897,55,SEK949,123.37
+stockholm,rotterdam,BA775,480,SEK1420,184.6
+stockholm,rotterdam,BA771,465,SEK1599,207.87
+stockholm,san francisco,FI305,1345,SEK4572,594.36
+stockholm,san francisco,FI307,965,SEK4572,594.36
+barcelona,amsterdam,IB5772,135,EUR100.68,125.85
+barcelona,stockholm,VY1265,220,EUR100.68,125.85
+barcelona,brussels,IB5791,125,EUR40.68,50.85
+barcelona,paris,AF1149,115,EUR68.68,85.85
+barcelona,copenhagen,VY1870,175,EUR80.68,100.85
+barcelona,dublin,IB2753,405,EUR89.56,111.95
+barcelona,dublin,EI565,155,EUR127.93,159.9125
+barcelona,edinburgh,IB5949,170,EUR110.68,138.35
+barcelona,rome,IB5819,105,EUR82.68,103.35
+barcelona,florence,IB5335,100,EUR102.68,128.35
+barcelona,hamburg,IB5446,160,EUR80.74,100.925
+barcelona,hong kong,SU2639,920,EUR415.37,519.2125
+barcelona,tokyo,EK186,1435,EUR462.97,578.7125
+barcelona,tokyo,BA477,1030,EUR826.20,1032.75
+barcelona,new york,SU2513,1104,EUR563.56,704.45
+barcelona,new york,EI563,820,EUR702.07,877.5875
+barcelona,kyoto,EK186,1100,EUR462.97,578.7125
+barcelona,kyoto,JL6854,940,EUR831.47,1039.3375
+barcelona,london,BA475,140,EUR59.68,74.6
+barcelona,london,BA487,130,EUR59.68,74.6
+barcelona,macau,CA6300,1275,EUR673.05,841.3125
+barcelona,macau,CA6290,1195,EUR677.12,846.4
+barcelona,munich,VY1812,125,EUR90.68,113.35
+barcelona,monte carlo,VY1515,75,EUR90.68,113.35
+barcelona,chicago,TK1852,1105,EUR626.16,782.7
+barcelona,chicago,KL1662,870,EUR1494.02,1867.525
+barcelona,oslo,SN3696,475,EUR119.94,149.925
+barcelona,oslo,4U7521,325,EUR136.14,170.175
+barcelona,rotterdam,BA2707,485,EUR141.96,177.45
+barcelona,rotterdam,BA479,405,EUR153.96,192.45
+barcelona,san francisco,TK1852,1165,EUR742.16,927.7
+barcelona,san francisco,LH1139,1015,EUR1504.31,1880.3875
+brussels,amsterdam,KL1724,60,EUR138.74,173.425
+brussels,amsterdam,KL1720,50,EUR138.74,173.425
+brussels,stockholm,SK590,125,EUR66.74,83.425
+brussels,barcelona,IB5794,120,EUR60.74,75.925
+brussels,barcelona,SN3703,115,EUR69.74,87.175
+brussels,paris,SN3631,55,EUR98.74,123.425
+brussels,copenhagen,SK2594,90,EUR71.74,89.675
+brussels,dublin,EI631,105,EUR96.65,120.8125
+brussels,dublin,EI639,95,EUR96.65,120.8125
+brussels,edinburgh,BA399,290,EUR148.37,185.4625
+brussels,edinburgh,SN2063,100,EUR205.74,257.175
+brussels,rome,VY8956,125,EUR68.74,85.925
+brussels,rome,SN3187,120,EUR71.74,89.675
+brussels,florence,VY8991,685,EUR177.88,222.35
+brussels,florence,SN3139,115,EUR251.74,314.675
+brussels,hamburg,SK594,300,EUR103.99,129.9875
+brussels,hamburg,4U2163,180,EUR138.71,173.3875
+brussels,hong kong,SU2169,935,EUR421.14,526.425
+brussels,hong kong,HU492,920,EUR429.19,536.4875
+brussels,tokyo,EK184,1500,EUR747.74,934.675
+brussels,tokyo,HU492,970,EUR766.62,958.275
+brussels,new york,FI555,660,EUR333.85,417.3125
+brussels,kyoto,HU492,960,EUR753.62,942.025
+brussels,london,BA397,70,EUR72.74,90.925
+brussels,london,SN2103,65,EUR90.74,113.425
+brussels,macau,HU492,1260,EUR499.93,624.9125
+brussels,macau,HU492,1005,EUR574.19,717.7375
+brussels,munich,SK1594,235,EUR103.93,129.9125
+brussels,monte carlo,SN3621,100,EUR105.74,132.175
+brussels,chicago,IB3207,795,EUR364.44,455.55
+brussels,oslo,SK4744,110,EUR76.74,95.925
+brussels,rotterdam,BA389,470,EUR161.02,201.275
+brussels,rotterdam,BA391,335,EUR191.02,238.775
+brussels,san francisco,FI555,1760,EUR501.99,627.4875
+brussels,san francisco,EI631,855,EUR809.79,1012.2375
+paris,amsterdam,KL1234,80,EUR58.60,73.25
+paris,amsterdam,AF8242,70,EUR68.60,85.75
+paris,stockholm,AF1062,150,EUR88.60,110.75
+paris,stockholm,SK580,145,EUR111.60,139.5
+paris,barcelona,IB5241,105,EUR61.60,77.0
+paris,barcelona,AF1548,100,EUR68.60,85.75
+paris,brussels,SN3634,50,EUR100.60,125.75
+paris,copenhagen,SK566,115,EUR60.60,75.75
+paris,copenhagen,SK568,105,EUR60.60,75.75
+paris,dublin,EI529,100,EUR103.05,128.8125
+paris,edinburgh,BE3052,120,EUR97.41,121.7625
+paris,rome,AB8311,375,EUR151.63,189.5375
+paris,rome,KU166,125,EUR267.77,334.7125
+paris,florence,AF1266,110,EUR88.60,110.75
+paris,hamburg,4U7407,85,EUR48.66,60.825
+paris,hong kong,SU260,950,EUR425.96,532.45
+paris,tokyo,EK74,1450,EUR516.56,645.7
+paris,tokyo,EK76,1075,EUR516.56,645.7
+paris,new york,FI541,1020,EUR356.09,445.1125
+paris,new york,FI541,625,EUR356.09,445.1125
+paris,kyoto,EK74,1115,EUR516.56,645.7
+paris,kyoto,CA934,1030,EUR771.81,964.7625
+paris,london,BA319,70,EUR69.58,86.975
+paris,macau,SN3632,1315,EUR588.76,735.95
+paris,macau,CA934,1060,EUR728.59,910.7375
+paris,munich,AF1622,95,EUR68.60,85.75
+paris,munich,AF1122,90,EUR68.60,85.75
+paris,monte carlo,AF7644,180,EUR132.93,166.1625
+paris,monte carlo,AF7714,90,EUR179.66,224.575
+paris,chicago,FI541,1240,EUR467.33,584.1625
+paris,chicago,FI543,870,EUR467.33,584.1625
+paris,oslo,SK834,135,EUR66.60,83.25
+paris,rotterdam,BA307,455,EUR157.86,197.325
+paris,rotterdam,BA309,375,EUR157.86,197.325
+paris,san francisco,FI541,1345,EUR524.23,655.2875
+paris,san francisco,EI521,840,EUR819.57,1024.4625
+copenhagen,amsterdam,SK1549,85,DKK399,67.83
+copenhagen,stockholm,OK508,70,DKK563,95.71
+copenhagen,barcelona,VY1873,170,DKK490,83.3
+copenhagen,brussels,SK1591,90,DKK499,84.83
+copenhagen,paris,SK559,110,DKK399,67.83
+copenhagen,dublin,SK537,135,DKK499,84.83
+copenhagen,edinburgh,SK400,325,DKK890,151.3
+copenhagen,edinburgh,SN2258,250,DKK1155,196.35
+copenhagen,rome,AZ125,160,DKK397,67.49
+copenhagen,rome,SK681,150,DKK1349,229.33
+copenhagen,florence,VY6805,135,DKK750,127.5
+copenhagen,hamburg,SK1641,55,DKK399,67.83
+copenhagen,hamburg,SK1647,50,DKK399,67.83
+copenhagen,hong kong,SU2659,915,DKK2846,483.82
+copenhagen,tokyo,EK152,1490,DKK3804,646.68
+copenhagen,tokyo,SU2659,1050,DKK5506,936.02
+copenhagen,new york,FI205,660,DKK2682,455.94
+copenhagen,new york,FI201,635,DKK2682,455.94
+copenhagen,kyoto,EK152,1155,DKK3804,646.68
+copenhagen,kyoto,TK1786,1010,DKK5780,982.6
+copenhagen,london,SK505,120,DKK399,67.83
+copenhagen,london,SK1507,115,DKK399,67.83
+copenhagen,macau,CA6816,1230,DKK4861,826.37
+copenhagen,macau,CA6812,1065,DKK4861,826.37
+copenhagen,munich,SK659,100,DKK499,84.83
+copenhagen,munich,SK1665,95,DKK849,144.33
+copenhagen,monte carlo,SK793,145,DKK749,127.33
+copenhagen,chicago,FI201,1250,DKK3512,597.04
+copenhagen,chicago,AB8031,725,DKK5886,1000.62
+copenhagen,oslo,SK1458,65,DKK649,110.33
+copenhagen,rotterdam,BA813,460,DKK1263,214.71
+copenhagen,rotterdam,SK503,435,DKK1464,248.88
+copenhagen,san francisco,FI201,1355,DKK3716,631.72
+copenhagen,san francisco,FI205,985,DKK3716,631.72
+dublin,amsterdam,SK4604,270,EUR99.19,123.9875
+dublin,amsterdam,BA4463,195,EUR148.09,185.1125
+dublin,stockholm,SK4604,245,EUR153.19,191.4875
+dublin,stockholm,SK536,155,EUR197.81,247.2625
+dublin,barcelona,IB3791,280,EUR92.22,115.275
+dublin,brussels,SK538,510,EUR88.00,110.0
+dublin,brussels,BA5966,240,EUR160.44,200.55
+dublin,paris,AF1717,115,EUR95.81,119.7625
+dublin,copenhagen,SK538,135,EUR54.81,68.5125
+dublin,edinburgh,BE383,320,EUR97.11,121.3875
+dublin,edinburgh,BA823,225,EUR142.44,178.05
+dublin,rome,BA829,295,EUR158.44,198.05
+dublin,florence,BA4461,365,EUR156.09,195.1125
+dublin,florence,BA4463,260,EUR156.09,195.1125
+dublin,hamburg,SK538,335,EUR108.06,135.075
+dublin,hamburg,BA835,250,EUR159.50,199.375
+dublin,hong kong,EK164,955,EUR463.90,579.875
+dublin,hong kong,KL3158,850,EUR585.92,732.4
+dublin,tokyo,EK162,1495,EUR499.90,624.875
+dublin,tokyo,AF1017,925,EUR682.17,852.7125
+dublin,new york,EI105,450,EUR482.69,603.3625
+dublin,kyoto,EK162,1160,EUR528.90,661.125
+dublin,kyoto,KL3156,790,EUR715.92,894.9
+dublin,london,BA827,80,EUR66.81,83.5125
+dublin,london,BA823,70,EUR66.81,83.5125
+dublin,macau,SK536,1240,EUR850.14,1062.675
+dublin,munich,LH2515,140,EUR96.81,121.0125
+dublin,monte carlo,BA837,280,EUR187.44,234.3
+dublin,monte carlo,BA835,275,EUR195.44,244.3
+dublin,chicago,EI123,500,EUR532.69,665.8625
+dublin,oslo,SK4604,130,EUR54.81,68.5125
+dublin,rotterdam,BA4467,255,EUR148.09,185.1125
+dublin,rotterdam,BA4463,155,EUR148.09,185.1125
+dublin,san francisco,EI147,660,EUR642.69,803.3625
+edinburgh,amsterdam,BE850,235,GBP87.97,137.2332
+edinburgh,amsterdam,KL1280,90,GBP166.74,260.1144
+edinburgh,stockholm,SK2542,130,GBP103.25,161.07
+edinburgh,barcelona,IB5950,160,GBP93.45,145.782
+edinburgh,brussels,BA1447,275,GBP121.38,189.3528
+edinburgh,brussels,SN2064,100,GBP171.25,267.15
+edinburgh,paris,BE3055,125,GBP80.57,125.6892
+edinburgh,copenhagen,BA1453,310,GBP124.38,194.0328
+edinburgh,copenhagen,SK2542,240,GBP126.95,198.042
+edinburgh,dublin,EI3251,70,GBP67.99,106.0644
+edinburgh,rome,BA1447,360,GBP126.38,197.1528
+edinburgh,rome,BA1455,295,GBP126.38,197.1528
+edinburgh,florence,BA8705,315,GBP155.38,242.3928
+edinburgh,florence,KL1290,250,GBP242.74,378.6744
+edinburgh,hamburg,BE844,430,GBP82.97,129.4332
+edinburgh,hamburg,BA1447,255,GBP116.38,181.5528
+edinburgh,hong kong,SU4343,1040,GBP480.45,749.502
+edinburgh,hong kong,KL1282,850,GBP583.74,910.6344
+edinburgh,tokyo,VS3006,1075,GBP538.85,840.606
+edinburgh,tokyo,AF1887,945,GBP656.64,1024.3584
+edinburgh,new york,VS3004,695,GBP291.95,455.442
+edinburgh,new york,EI3251,600,GBP614.99,959.3844
+edinburgh,kyoto,TK1346,1070,GBP506.95,790.842
+edinburgh,kyoto,KL1280,810,GBP693.74,1082.2344
+edinburgh,london,VS3006,90,GBP47.67,74.3652
+edinburgh,macau,VS3010,1090,GBP590.55,921.258
+edinburgh,munich,BA1447,325,GBP129.38,201.8328
+edinburgh,munich,BA1455,260,GBP129.38,201.8328
+edinburgh,monte carlo,BA2941,350,GBP130.94,204.2664
+edinburgh,monte carlo,BA1453,260,GBP149.38,233.0328
+edinburgh,chicago,EI3251,690,GBP659.99,1029.5844
+edinburgh,oslo,BA1453,345,GBP135.38,211.1928
+edinburgh,oslo,SK2542,245,GBP175.15,273.234
+edinburgh,rotterdam,BA2217,410,GBP114.38,178.4328
+edinburgh,rotterdam,BA8705,210,GBP149.38,233.0328
+edinburgh,san francisco,TK1346,1940,GBP627.95,979.602
+edinburgh,san francisco,EI3251,900,GBP734.99,1146.5844
+rome,amsterdam,VY6294,155,EUR58.98,73.725
+rome,stockholm,BT634,330,EUR89.26,111.575
+rome,stockholm,SK1842,190,EUR98.98,123.725
+rome,barcelona,VY6101,105,EUR87.98,109.975
+rome,brussels,AZ164,135,EUR82.98,103.725
+rome,brussels,SN3188,130,EUR82.98,103.725
+rome,paris,KU165,135,EUR103.01,128.7625
+rome,copenhagen,AZ124,165,EUR78.98,98.725
+rome,copenhagen,SK682,155,EUR186.98,233.725
+rome,dublin,IB3231,385,EUR124.89,156.1125
+rome,dublin,BA557,305,EUR186.61,233.2625
+rome,edinburgh,BA2543,350,EUR127.13,158.9125
+rome,edinburgh,BA559,295,EUR172.61,215.7625
+rome,florence,AZ1681,50,EUR68.88,86.1
+rome,hamburg,AB8727,305,EUR115.07,143.8375
+rome,hamburg,4U9883,225,EUR121.82,152.275
+rome,hong kong,SU2403,895,EUR428.83,536.0375
+rome,tokyo,EK98,1460,EUR508.43,635.5375
+rome,tokyo,JL7874,965,EUR932.50,1165.625
+rome,new york,AZ432,930,EUR548.75,685.9375
+rome,new york,EI403,760,EUR717.85,897.3125
+rome,kyoto,TK1862,1440,EUR430.43,538.0375
+rome,kyoto,TK1864,950,EUR430.43,538.0375
+rome,london,AZ204,170,EUR88.98,111.225
+rome,london,BA559,155,EUR96.98,121.225
+rome,macau,SN3176,1200,EUR586.76,733.45
+rome,macau,CA940,1025,EUR730.46,913.075
+rome,munich,VY6296,100,EUR48.98,61.225
+rome,monte carlo,VY6528,80,EUR53.98,67.475
+rome,monte carlo,AF9881,70,EUR211.98,264.975
+rome,chicago,TK1864,1760,EUR603.62,754.525
+rome,chicago,AB8707,1500,EUR622.31,777.8875
+rome,oslo,SK1842,360,EUR123.28,154.1
+rome,oslo,SK682,260,EUR220.17,275.2125
+rome,rotterdam,BA2543,490,EUR158.26,197.825
+rome,rotterdam,BA551,425,EUR185.26,231.575
+rome,san francisco,TK1866,2040,EUR633.62,792.025
+rome,san francisco,KL1596,860,EUR1392.28,1740.35
+florence,amsterdam,BA3280,270,EUR171.42,214.275
+florence,amsterdam,KL1642,130,EUR244.14,305.175
+florence,stockholm,AB8885,330,EUR185.49,231.8625
+florence,stockholm,LH309,270,EUR200.33,250.4125
+florence,barcelona,IB5282,95,EUR102.14,127.675
+florence,brussels,VY6004,330,EUR135.28,169.1
+florence,brussels,SN3140,115,EUR338.14,422.675
+florence,paris,AF1767,110,EUR89.14,111.425
+florence,copenhagen,IB5947,130,EUR135.14,168.925
+florence,dublin,BA3280,330,EUR165.42,206.775
+florence,edinburgh,BA3280,395,EUR159.42,199.275
+florence,edinburgh,BA3280,285,EUR159.42,199.275
+florence,rome,AZ1678,50,EUR68.96,86.2
+florence,hamburg,AB8885,280,EUR119.11,148.8875
+florence,hong kong,AZ1676,1175,EUR534.24,667.8
+florence,tokyo,AB8881,1165,EUR750.58,938.225
+florence,tokyo,AZ1684,1110,EUR934.00,1167.5
+florence,new york,AB8881,755,EUR575.11,718.8875
+florence,kyoto,LH309,1195,EUR864.58,1080.725
+florence,kyoto,AZ1684,1100,EUR920.95,1151.1875
+florence,london,AB8885,470,EUR144.05,180.0625
+florence,london,KL1642,275,EUR257.25,321.5625
+florence,macau,AZ1678,1550,EUR767.27,959.0875
+florence,macau,LH309,1240,EUR821.36,1026.7
+florence,munich,EN8197,75,EUR73.11,91.3875
+florence,monte carlo,VY6002,775,EUR140.28,175.35
+florence,monte carlo,SN3140,375,EUR248.47,310.5875
+florence,chicago,KL1638,880,EUR1306.44,1633.05
+florence,chicago,AF1267,845,EUR1367.05,1708.8125
+florence,oslo,LH313,390,EUR211.33,264.1625
+florence,oslo,KL1644,325,EUR278.25,347.8125
+florence,rotterdam,VY6002,985,EUR161.82,202.275
+florence,rotterdam,BA3280,225,EUR171.42,214.275
+florence,san francisco,LH315,1871,EUR709.13,886.4125
+florence,san francisco,KL1638,850,EUR1381.44,1726.8
+hamburg,amsterdam,4U7184,60,EUR48.48,60.6
+hamburg,stockholm,4U7218,95,EUR48.48,60.6
+hamburg,stockholm,SK2648,90,EUR49.48,61.85
+hamburg,barcelona,VY1821,150,EUR65.48,81.85
+hamburg,brussels,SK4830,310,EUR87.86,109.825
+hamburg,brussels,SK1648,190,EUR96.67,120.8375
+hamburg,paris,4U7406,90,EUR48.48,60.6
+hamburg,copenhagen,SK652,50,EUR51.48,64.35
+hamburg,dublin,SK648,345,EUR96.67,120.8375
+hamburg,dublin,EI393,120,EUR99.74,124.675
+hamburg,edinburgh,BA963,315,EUR146.11,182.6375
+hamburg,edinburgh,BA969,270,EUR146.11,182.6375
+hamburg,rome,4U7060,355,EUR99.26,124.075
+hamburg,rome,QS8543,250,EUR170.28,212.85
+hamburg,florence,AB6651,345,EUR122.39,152.9875
+hamburg,florence,AB6653,225,EUR122.39,152.9875
+hamburg,hong kong,SU2347,915,EUR450.18,562.725
+hamburg,tokyo,EK62,1100,EUR530.78,663.475
+hamburg,tokyo,CA6126,1070,EUR884.53,1105.6625
+hamburg,new york,FI511,655,EUR378.27,472.8375
+hamburg,kyoto,EK60,1060,EUR530.78,663.475
+hamburg,kyoto,JL6824,775,EUR948.95,1186.1875
+hamburg,london,4U7462,105,EUR48.48,60.6
+hamburg,london,BA975,100,EUR70.48,88.1
+hamburg,macau,SN2624,1150,EUR613.94,767.425
+hamburg,macau,CA6126,1105,EUR841.31,1051.6375
+hamburg,munich,AB6311,80,EUR86.57,108.2125
+hamburg,monte carlo,AB8490,355,EUR96.51,120.6375
+hamburg,monte carlo,SN2630,210,EUR191.81,239.7625
+hamburg,chicago,FI511,1500,EUR489.51,611.8875
+hamburg,chicago,FI511,875,EUR489.51,611.8875
+hamburg,oslo,SK4830,85,EUR57.48,71.85
+hamburg,rotterdam,BA965,470,EUR158.76,198.45
+hamburg,rotterdam,BA969,430,EUR158.76,198.45
+hamburg,san francisco,FI511,1685,EUR552.41,690.5125
+hamburg,san francisco,FI511,980,EUR552.41,690.5125
+hong kong,amsterdam,MH73,1320,HKD3121,405.73
+hong kong,amsterdam,SU213,1040,HKD3580,465.4
+hong kong,stockholm,SU213,830,HKD3230,419.9
+hong kong,barcelona,SU213,1075,HKD3580,465.4
+hong kong,brussels,SU213,1050,HKD3580,465.4
+hong kong,brussels,TK71,1010,HKD5086,661.18
+hong kong,paris,MH449,1420,HKD3121,405.73
+hong kong,paris,SU213,950,HKD3230,419.9
+hong kong,copenhagen,SU213,1020,HKD3580,465.4
+hong kong,dublin,EK383,1465,HKD5192,674.96
+hong kong,dublin,BA28,930,HKD7387,960.31
+hong kong,edinburgh,TK71,1105,HKD5086,661.18
+hong kong,edinburgh,BA28,925,HKD7387,960.31
+hong kong,rome,SU213,990,HKD3230,419.9
+hong kong,rome,CA118,985,HKD5562,723.06
+hong kong,florence,EK387,1250,HKD5424,705.12
+hong kong,florence,LX139,955,HKD7801,1014.13
+hong kong,hamburg,EK387,1070,HKD4843,629.59
+hong kong,hamburg,TK71,1040,HKD4907,637.91
+hong kong,tokyo,PR313,665,HKD2403,312.39
+hong kong,tokyo,NH860,250,HKD4813,625.69
+hong kong,new york,JL736,1185,HKD5102,663.26
+hong kong,new york,CA118,1070,HKD6115,794.95
+hong kong,kyoto,PR301,425,HKD1703,221.39
+hong kong,kyoto,AI314,200,HKD2633,342.29
+hong kong,london,MH73,1325,HKD3121,405.73
+hong kong,london,SU213,1040,HKD3230,419.9
+hong kong,macau,BR852,325,HKD2730,354.9
+hong kong,macau,BR828,260,HKD3850,500.5
+hong kong,munich,SU213,1005,HKD3230,419.9
+hong kong,munich,TK71,965,HKD4846,629.98
+hong kong,monte carlo,EK383,1530,HKD4702,611.26
+hong kong,monte carlo,TK71,1045,HKD4846,629.98
+hong kong,chicago,JL7040,1265,HKD5102,663.26
+hong kong,chicago,UA896,900,HKD8242,1071.46
+hong kong,oslo,SU213,860,HKD3580,465.4
+hong kong,rotterdam,TK71,1120,HKD4846,629.98
+hong kong,rotterdam,BA28,1115,HKD7558,982.54
+hong kong,san francisco,JL7032,980,HKD4328,562.64
+hong kong,san francisco,KE604,895,HKD4692,609.96
+tokyo,amsterdam,EK313,1185,JPY67370,565.908
+tokyo,amsterdam,VS7807,940,JPY70280,590.352
+tokyo,stockholm,EK313,2575,JPY70180,589.512
+tokyo,stockholm,CA184,950,JPY106860,897.624
+tokyo,barcelona,EK313,1205,JPY67370,565.908
+tokyo,barcelona,VS7807,1050,JPY70280,590.352
+tokyo,brussels,EK313,2625,JPY70180,589.512
+tokyo,brussels,VS7807,930,JPY73570,617.988
+tokyo,paris,EK313,1595,JPY67370,565.908
+tokyo,paris,CA184,1030,JPY99860,838.824
+tokyo,copenhagen,EK313,1180,JPY67370,565.908
+tokyo,copenhagen,VS7807,1065,JPY132000,1108.8
+tokyo,dublin,EK313,1700,JPY67370,565.908
+tokyo,dublin,VS7807,955,JPY80280,674.352
+tokyo,edinburgh,VS7807,1060,JPY70280,590.352
+tokyo,edinburgh,VS7807,975,JPY124480,1045.632
+tokyo,rome,EK313,1595,JPY67370,565.908
+tokyo,rome,VS7807,1045,JPY70280,590.352
+tokyo,florence,CA184,1270,JPY114060,958.104
+tokyo,florence,VS7807,1105,JPY177750,1493.1
+tokyo,hamburg,EK313,1210,JPY67380,565.992
+tokyo,hamburg,CA184,1175,JPY115690,971.796
+tokyo,hong kong,PR421,555,JPY41870,351.708
+tokyo,hong kong,KE720,440,JPY56670,476.028
+tokyo,new york,CA184,1130,JPY83460,701.064
+tokyo,new york,AC6,1057,JPY119350,1002.54
+tokyo,kyoto,NH93,75,JPY25490,214.116
+tokyo,kyoto,NH99,70,JPY25490,214.116
+tokyo,london,VS7807,750,JPY65970,554.148
+tokyo,macau,NH671,540,JPY63210,530.964
+tokyo,munich,EK313,1640,JPY67370,565.908
+tokyo,munich,VS7807,985,JPY153470,1289.148
+tokyo,monte carlo,EK313,1240,JPY67370,565.908
+tokyo,monte carlo,VS7807,990,JPY72780,611.352
+tokyo,chicago,KE720,1080,JPY115470,969.948
+tokyo,chicago,AC6,911,JPY134250,1127.7
+tokyo,oslo,EK313,2580,JPY70180,589.512
+tokyo,oslo,KE720,1200,JPY165710,1391.964
+tokyo,rotterdam,NH95,1505,JPY76580,643.272
+tokyo,rotterdam,BA8,1180,JPY296750,2492.7
+tokyo,san francisco,CA184,1190,JPY83460,701.064
+tokyo,san francisco,KE2712,1125,JPY103030,865.452
+new york,amsterdam,FI612,990,USD419.20,419.2
+new york,amsterdam,EI108,555,USD733.47,733.47
+new york,stockholm,FI612,600,USD410.20,410.2
+new york,stockholm,FI614,590,USD528.20,528.2
+new york,barcelona,SU101,1170,USD594.80,594.8
+new york,barcelona,EI104,640,USD783.47,783.47
+new york,brussels,SU103,1285,USD594.80,594.8
+new york,brussels,EI104,595,USD733.47,733.47
+new york,paris,FI612,610,USD419.20,419.2
+new york,paris,EI108,570,USD739.47,739.47
+new york,copenhagen,FI614,605,USD410.20,410.2
+new york,copenhagen,FI612,590,USD410.20,410.2
+new york,dublin,EI108,400,USD649.97,649.97
+new york,dublin,KL6192,391,USD672.60,672.6
+new york,edinburgh,AI6336,640,USD592.30,592.3
+new york,edinburgh,EI108,550,USD724.67,724.67
+new york,rome,SU101,1080,USD594.80,594.8
+new york,rome,EI104,695,USD778.47,778.47
+new york,florence,MS986,1330,USD1058.20,1058.2
+new york,florence,LX15,625,USD2065.20,2065.2
+new york,hamburg,FI612,765,USD546.20,546.2
+new york,hamburg,EI104,620,USD746.47,746.47
+new york,hong kong,BR31,1140,USD531.60,531.6
+new york,hong kong,CX845,950,USD737.10,737.1
+new york,tokyo,CI11,1320,USD705.60,705.6
+new york,tokyo,AC8901,1140,USD985.60,985.6
+new york,kyoto,CI11,1265,USD693.60,693.6
+new york,london,FI614,1110,USD380.20,380.2
+new york,london,KU102,420,USD472.60,472.6
+new york,macau,BR31,1325,USD531.60,531.6
+new york,macau,CI11,1195,USD788.60,788.6
+new york,munich,FI614,625,USD419.20,419.2
+new york,monte carlo,SU101,1015,USD654.80,654.8
+new york,monte carlo,EI108,680,USD752.47,752.47
+new york,chicago,US144,159,USD172.10,172.1
+new york,chicago,B6905,150,USD172.50,172.5
+new york,oslo,FI612,970,USD410.20,410.2
+new york,oslo,FI612,570,USD410.20,410.2
+new york,rotterdam,TK4,1035,USD935.80,935.8
+new york,rotterdam,LH405,925,USD2302.00,2302.0
+new york,san francisco,UA415,380,USD188.10,188.1
+kyoto,amsterdam,MH53,1605,JPY67040,563.136
+kyoto,amsterdam,CX569,1135,JPY92240,774.816
+kyoto,stockholm,EK317,1185,JPY68540,575.736
+kyoto,stockholm,CA162,920,JPY73230,615.132
+kyoto,barcelona,EK317,1255,JPY68540,575.736
+kyoto,barcelona,TK47,1195,JPY78290,657.636
+kyoto,brussels,EK317,1235,JPY68540,575.736
+kyoto,brussels,OK3303,1000,JPY103320,867.888
+kyoto,paris,EK317,1250,JPY68540,575.736
+kyoto,paris,CA162,1000,JPY73230,615.132
+kyoto,copenhagen,EK317,1230,JPY68540,575.736
+kyoto,copenhagen,KE722,1150,JPY142060,1193.304
+kyoto,dublin,EK317,1225,JPY68540,575.736
+kyoto,dublin,NH96,1155,JPY80570,676.788
+kyoto,edinburgh,NH96,1260,JPY70570,592.788
+kyoto,edinburgh,CA162,1210,JPY79840,670.656
+kyoto,rome,EK317,1240,JPY68540,575.736
+kyoto,rome,CA162,1015,JPY73230,615.132
+kyoto,florence,CA162,1240,JPY87430,734.412
+kyoto,florence,KE722,1210,JPY139150,1168.86
+kyoto,hamburg,EK317,1620,JPY68550,575.82
+kyoto,hamburg,CA162,1145,JPY86060,722.904
+kyoto,hong kong,AI315,250,JPY18540,155.736
+kyoto,tokyo,NH3826,75,JPY25490,214.116
+kyoto,tokyo,JL172,60,JPY25562,214.7208
+kyoto,new york,CZ390,1695,JPY83980,705.432
+kyoto,new york,CA162,1100,JPY93830,788.172
+kyoto,london,NH94,1015,JPY66260,556.584
+kyoto,london,NH96,950,JPY66260,556.584
+kyoto,macau,CA164,680,JPY41650,349.86
+kyoto,macau,BR131,360,JPY66540,558.936
+kyoto,munich,EK317,1690,JPY68540,575.736
+kyoto,munich,TK47,1080,JPY76290,640.836
+kyoto,monte carlo,EK317,1290,JPY68540,575.736
+kyoto,monte carlo,TK47,1160,JPY76290,640.836
+kyoto,chicago,KE724,2160,JPY115940,973.896
+kyoto,chicago,CA162,1285,JPY204930,1721.412
+kyoto,oslo,EK317,1190,JPY68540,575.736
+kyoto,rotterdam,TK47,1235,JPY76290,640.836
+kyoto,rotterdam,KE722,1140,JPY282950,2376.78
+kyoto,san francisco,MU730,950,JPY83900,704.76
+kyoto,san francisco,KE724,935,JPY101540,852.936
+london,amsterdam,BA440,75,GBP76.61,119.5116
+london,amsterdam,BA434,65,GBP76.61,119.5116
+london,stockholm,SK1524,145,GBP66.01,102.9756
+london,barcelona,IB7455,120,GBP77.61,121.0716
+london,brussels,BA388,70,GBP84.61,131.9916
+london,brussels,BA404,65,GBP84.61,131.9916
+london,paris,BA326,70,GBP69.61,108.5916
+london,copenhagen,SK502,115,GBP66.01,102.9756
+london,copenhagen,SK500,110,GBP66.01,102.9756
+london,dublin,EI155,80,GBP85.84,133.9104
+london,dublin,EI179,75,GBP85.84,133.9104
+london,edinburgh,VS3003,80,GBP67.11,104.6916
+london,rome,AZ207,155,GBP78.01,121.6956
+london,rome,BA560,145,GBP89.61,139.7916
+london,florence,AB5054,275,GBP161.11,251.3316
+london,hamburg,4U7465,95,GBP76.11,118.7316
+london,hamburg,AB5034,90,GBP78.81,122.9436
+london,hong kong,MH1,1085,GBP478.46,746.3976
+london,hong kong,AF1181,845,GBP602.08,939.2448
+london,tokyo,VS7808,700,GBP538.56,840.1536
+london,new york,KU101,440,GBP279.66,436.2696
+london,kyoto,MU552,940,GBP522.46,815.0376
+london,kyoto,CA856,875,GBP612.56,955.5936
+london,macau,CA938,995,GBP578.26,902.0856
+london,macau,CA856,905,GBP578.26,902.0856
+london,munich,LH2481,110,GBP71.08,110.8848
+london,monte carlo,BA352,115,GBP112.61,175.6716
+london,chicago,IB7441,830,GBP364.51,568.6356
+london,chicago,EI153,660,GBP687.84,1073.0304
+london,oslo,SK802,130,GBP66.01,102.9756
+london,rotterdam,SK500,695,GBP145.21,226.5276
+london,rotterdam,LH2475,245,GBP396.38,618.3528
+london,san francisco,FI451,985,GBP488.01,761.2956
+london,san francisco,EI153,870,GBP762.84,1190.0304
+macau,amsterdam,MU2008,1535,MOP6792,882.96
+macau,amsterdam,CA5454,1160,MOP10118,1315.34
+macau,stockholm,CA5454,970,MOP5556,722.28
+macau,barcelona,CA5454,1325,MOP6052,786.76
+macau,barcelona,CA5454,1165,MOP6458,839.54
+macau,brussels,MU2008,2255,MOP6256,813.28
+macau,brussels,CA5454,1255,MOP10157,1320.41
+macau,paris,CA5454,1050,MOP5556,722.28
+macau,copenhagen,MU2008,1490,MOP6812,885.56
+macau,copenhagen,CA5454,1195,MOP11391,1480.83
+macau,dublin,CA5454,1355,MOP6608,859.04
+macau,dublin,CA5404,1090,MOP10937,1421.81
+macau,edinburgh,CA5404,1645,MOP6001,780.13
+macau,edinburgh,CA5454,1260,MOP6001,780.13
+macau,rome,CA5402,1755,MOP5556,722.28
+macau,rome,CA5454,1065,MOP5556,722.28
+macau,florence,CA5454,1290,MOP6052,786.76
+macau,florence,CA5402,1170,MOP6608,859.04
+macau,hamburg,CA5402,1135,MOP6529,848.77
+macau,hong kong,BR802,395,MOP4024,523.12
+macau,hong kong,BR806,265,MOP4024,523.12
+macau,tokyo,MU2008,1230,MOP2660,345.8
+macau,tokyo,BR808,480,MOP6089,791.57
+macau,new york,MU2008,2065,MOP5700,741.0
+macau,new york,CA5454,1150,MOP6120,795.6
+macau,kyoto,MU2008,1210,MOP2240,291.2
+macau,kyoto,BR830,330,MOP4479,582.27
+macau,london,CA5402,1745,MOP5556,722.28
+macau,london,CA5404,910,MOP5556,722.28
+macau,munich,CA5402,950,MOP8286,1077.18
+macau,monte carlo,CA5454,1355,MOP6608,859.04
+macau,monte carlo,CA5402,1125,MOP9270,1205.1
+macau,chicago,CA5454,1537,MOP7170,932.1
+macau,chicago,BR812,1270,MOP10079,1310.27
+macau,oslo,CA5454,1255,MOP6091,791.83
+macau,oslo,CA5454,1105,MOP6308,820.04
+macau,rotterdam,CA5404,1605,MOP16740,2176.2
+macau,rotterdam,CA5402,1130,MOP16740,2176.2
+macau,san francisco,CA5454,1210,MOP5420,704.6
+macau,san francisco,BR812,845,MOP9638,1252.94
+munich,amsterdam,KL1796,90,EUR181.88,227.35
+munich,stockholm,BT222,280,EUR99.16,123.95
+munich,stockholm,SK1666,195,EUR129.07,161.3375
+munich,barcelona,VY1817,120,EUR90.88,113.6
+munich,brussels,SK662,285,EUR108.07,135.0875
+munich,brussels,SK2658,275,EUR154.07,192.5875
+munich,paris,AF1423,100,EUR69.88,87.35
+munich,copenhagen,SK662,95,EUR66.88,83.6
+munich,dublin,EI353,155,EUR118.46,148.075
+munich,dublin,LH2514,145,EUR164.88,206.1
+munich,edinburgh,BA953,260,EUR170.51,213.1375
+munich,rome,VY6299,95,EUR48.88,61.1
+munich,florence,EN8196,75,EUR77.88,97.35
+munich,hamburg,AB6308,80,EUR87.20,109.0
+munich,hong kong,SU2323,900,EUR460.86,576.075
+munich,hong kong,AB6186,895,EUR509.00,636.25
+munich,tokyo,EK50,1440,EUR541.46,676.825
+munich,tokyo,CA962,935,EUR791.71,989.6375
+munich,new york,FI533,655,EUR389.67,487.0875
+munich,new york,AB6036,630,EUR685.53,856.9125
+munich,kyoto,EK50,1105,EUR541.46,676.825
+munich,kyoto,CA962,925,EUR791.71,989.6375
+munich,london,LH2478,120,EUR92.88,116.1
+munich,macau,CA962,970,EUR748.49,935.6125
+munich,monte carlo,VY6299,465,EUR96.88,121.1
+munich,monte carlo,AB8461,235,EUR208.91,261.1375
+munich,chicago,FI533,1500,EUR500.91,626.1375
+munich,chicago,AB6182,715,EUR690.19,862.7375
+munich,oslo,SK4760,130,EUR119.88,149.85
+munich,rotterdam,BA949,655,EUR183.16,228.95
+munich,rotterdam,BA949,475,EUR183.16,228.95
+munich,san francisco,FI533,1685,EUR563.81,704.7625
+munich,san francisco,FI533,980,EUR563.81,704.7625
+monte carlo,amsterdam,KL1272,120,EUR69.19,86.4875
+monte carlo,stockholm,SK794,435,EUR123.38,154.225
+monte carlo,stockholm,SK794,270,EUR123.38,154.225
+monte carlo,barcelona,VY1518,75,EUR90.19,112.7375
+monte carlo,brussels,SN3624,95,EUR101.19,126.4875
+monte carlo,paris,AF7701,95,EUR94.61,118.2625
+monte carlo,copenhagen,SK794,135,EUR88.19,110.2375
+monte carlo,dublin,EI545,155,EUR105.69,132.1125
+monte carlo,edinburgh,BA345,320,EUR150.68,188.35
+monte carlo,edinburgh,BA345,260,EUR150.68,188.35
+monte carlo,rome,VY6529,65,EUR49.19,61.4875
+monte carlo,florence,VY1516,215,EUR168.33,210.4125
+monte carlo,hamburg,AB8341,385,EUR97.28,121.6
+monte carlo,hamburg,AB8331,245,EUR114.03,142.5375
+monte carlo,hong kong,EK78,1400,EUR455.22,569.025
+monte carlo,hong kong,EK78,1005,EUR455.22,569.025
+monte carlo,tokyo,EK78,1430,EUR498.22,622.775
+monte carlo,tokyo,BA341,1020,EUR929.87,1162.3375
+monte carlo,new york,SN3618,805,EUR608.01,760.0125
+monte carlo,new york,AB8331,655,EUR742.54,928.175
+monte carlo,kyoto,EK78,1095,EUR498.22,622.775
+monte carlo,kyoto,AY882,870,EUR933.28,1166.6
+monte carlo,london,BA345,120,EUR75.05,93.8125
+monte carlo,london,BA357,115,EUR75.05,93.8125
+monte carlo,macau,AZ355,1165,EUR630.20,787.75
+monte carlo,macau,BA355,1160,EUR684.40,855.5
+monte carlo,munich,SK794,510,EUR119.38,149.225
+monte carlo,munich,AB8341,180,EUR200.22,250.275
+monte carlo,chicago,TK1816,1815,EUR649.41,811.7625
+monte carlo,chicago,BA347,720,EUR1620.56,2025.7
+monte carlo,rotterdam,BA341,480,EUR163.33,204.1625
+monte carlo,rotterdam,BA8476,315,EUR191.33,239.1625
+monte carlo,san francisco,TK1816,1875,EUR699.41,874.2625
+monte carlo,san francisco,LH1065,1831,EUR780.56,975.7
+monte carlo,oslo,SK794,375,EUR123.38,154.225
+monte carlo,oslo,SK794,270,EUR123.38,154.225
+chicago,amsterdam,B6312,845,USD619.70,619.7
+chicago,amsterdam,EI122,805,USD813.47,813.47
+chicago,stockholm,AB7421,1205,USD705.00,705.0
+chicago,stockholm,AB7421,685,USD705.00,705.0
+chicago,barcelona,TK6,1060,USD861.70,861.7
+chicago,barcelona,UA8300,615,USD2287.60,2287.6
+chicago,brussels,EI122,635,USD813.47,813.47
+chicago,paris,B6312,860,USD619.70,619.7
+chicago,paris,EI122,650,USD813.47,813.47
+chicago,copenhagen,AC7402,1015,USD554.20,554.2
+chicago,copenhagen,AB7421,710,USD664.00,664.0
+chicago,dublin,EI122,445,USD729.97,729.97
+chicago,edinburgh,EI122,605,USD791.67,791.67
+chicago,rome,TK6,1725,USD844.80,844.8
+chicago,rome,EI122,735,USD858.47,858.47
+chicago,florence,AB7421,865,USD1753.40,1753.4
+chicago,florence,UA8332,775,USD1970.30,1970.3
+chicago,hamburg,B6312,1015,USD758.70,758.7
+chicago,hamburg,EI122,660,USD826.47,826.47
+chicago,hong kong,AC5101,1145,USD686.10,686.1
+chicago,hong kong,CX807,950,USD737.10,737.1
+chicago,tokyo,AC5138,1090,USD979.60,979.6
+chicago,tokyo,UA3656,970,USD979.60,979.6
+chicago,new york,US149,166,USD172.10,172.1
+chicago,new york,B6106,132,USD197.50,197.5
+chicago,kyoto,UA3656,1235,USD982.10,982.1
+chicago,london,B6312,850,USD588.70,588.7
+chicago,london,EI122,615,USD819.47,819.47
+chicago,macau,AS21,1635,USD715.10,715.1
+chicago,macau,UA769,1380,USD1092.10,1092.1
+chicago,munich,B6312,870,USD619.70,619.7
+chicago,munich,AB7421,665,USD745.00,745.0
+chicago,monte carlo,TK6,2155,USD831.80,831.8
+chicago,monte carlo,US92,765,USD1634.80,1634.8
+chicago,oslo,AC7402,990,USD554.20,554.2
+chicago,oslo,B6312,825,USD622.70,622.7
+chicago,rotterdam,TK6,2080,USD819.80,819.8
+chicago,rotterdam,LH433,820,USD2343.00,2343.0
+chicago,san francisco,VX211,290,USD134.10,134.1
+chicago,san francisco,VX205,270,USD206.10,206.1
+oslo,amsterdam,SK821,105,NOK394,55.16
+oslo,amsterdam,KL1212,95,NOK1517,212.38
+oslo,stockholm,SK868,55,NOK694,97.16
+oslo,barcelona,BA763,515,NOK1285,179.9
+oslo,barcelona,BA761,390,NOK1506,210.84
+oslo,brussels,SK4745,115,NOK494,69.16
+oslo,paris,SK835,130,NOK394,55.16
+oslo,copenhagen,SK1475,70,NOK694,97.16
+oslo,dublin,SK4603,135,NOK494,69.16
+oslo,edinburgh,SK844,280,NOK1135,158.9
+oslo,edinburgh,SK482,235,NOK1135,158.9
+oslo,rome,BT152,360,NOK611,85.54
+oslo,rome,SK455,285,NOK1660,232.4
+oslo,florence,SK4755,290,NOK1717,240.38
+oslo,florence,KL1144,275,NOK3033,424.62
+oslo,hamburg,4U7195,85,NOK727,101.78
+oslo,hong kong,SU2175,865,NOK3104,434.56
+oslo,tokyo,EK160,1495,NOK4016,562.24
+oslo,tokyo,BA761,985,NOK10457,1463.98
+oslo,new york,FI319,615,NOK2960,414.4
+oslo,kyoto,EK160,1160,NOK4146,580.44
+oslo,kyoto,SU2175,990,NOK6185,865.9
+oslo,london,SK805,140,NOK444,62.16
+oslo,london,BA769,125,NOK545,76.3
+oslo,macau,CA6856,1360,NOK5450,763.0
+oslo,macau,CA6852,1075,NOK5450,763.0
+oslo,munich,SK1467,275,NOK735,102.9
+oslo,munich,SK4759,135,NOK994,139.16
+oslo,monte carlo,SK451,250,NOK1023,143.22
+oslo,chicago,FI319,1442,NOK3945,552.3
+oslo,chicago,FI319,835,NOK3945,552.3
+oslo,rotterdam,BA765,410,NOK1295,181.3
+oslo,san francisco,FI319,1645,NOK4300,602.0
+oslo,san francisco,FI319,940,NOK4300,602.0
+rotterdam,amsterdam,BA4450,220,EUR188.73,235.9125
+rotterdam,amsterdam,BA4452,180,EUR188.73,235.9125
+rotterdam,stockholm,BA4454,440,EUR173.69,217.1125
+rotterdam,stockholm,LH2315,290,EUR288.72,360.9
+rotterdam,barcelona,BA4454,490,EUR145.53,181.9125
+rotterdam,barcelona,BA4456,355,EUR169.69,212.1125
+rotterdam,brussels,BA4456,360,EUR168.69,210.8625
+rotterdam,brussels,BA4454,335,EUR168.69,210.8625
+rotterdam,paris,BA4456,405,EUR149.69,187.1125
+rotterdam,paris,BA4450,355,EUR184.69,230.8625
+rotterdam,copenhagen,LH2315,475,EUR158.35,197.9375
+rotterdam,copenhagen,BA4456,345,EUR172.69,215.8625
+rotterdam,dublin,BA4456,250,EUR165.34,206.675
+rotterdam,dublin,BA4458,200,EUR165.34,206.675
+rotterdam,edinburgh,BA4452,230,EUR159.34,199.175
+rotterdam,edinburgh,BA4456,205,EUR159.34,199.175
+rotterdam,rome,BA4452,505,EUR143.53,179.4125
+rotterdam,rome,TK1376,425,EUR317.06,396.325
+rotterdam,florence,BA4450,420,EUR179.34,224.175
+rotterdam,florence,LH2315,235,EUR640.72,800.9
+rotterdam,hamburg,BA4452,495,EUR162.75,203.4375
+rotterdam,hamburg,BA4456,340,EUR162.75,203.4375
+rotterdam,hong kong,LH2317,1165,EUR1040.18,1300.225
+rotterdam,hong kong,LH2315,910,EUR1189.44,1486.8
+rotterdam,tokyo,BA4450,1035,EUR988.58,1235.725
+rotterdam,tokyo,BA4456,955,EUR1286.50,1608.125
+rotterdam,new york,LH2315,980,EUR1177.69,1472.1125
+rotterdam,new york,LH2315,955,EUR1200.78,1500.975
+rotterdam,kyoto,BA4450,1130,EUR1064.40,1330.5
+rotterdam,kyoto,TK1376,1090,EUR1248.06,1560.075
+rotterdam,london,LH2315,535,EUR174.91,218.6375
+rotterdam,london,LH2315,280,EUR448.72,560.9
+rotterdam,macau,LH2315,1490,EUR1140.99,1426.2375
+rotterdam,macau,LH2315,1280,EUR1140.99,1426.2375
+rotterdam,munich,BA4456,410,EUR178.69,223.3625
+rotterdam,munich,LH2317,80,EUR437.06,546.325
+rotterdam,monte carlo,BA4454,435,EUR180.53,225.6625
+rotterdam,monte carlo,BA4450,315,EUR293.34,366.675
+rotterdam,chicago,LH2317,1400,EUR1185.23,1481.5375
+rotterdam,chicago,LH2315,935,EUR1560.10,1950.125
+rotterdam,oslo,BA4456,380,EUR186.69,233.3625
+rotterdam,oslo,LH2315,365,EUR269.72,337.15
+rotterdam,san francisco,BA4450,990,EUR1939.19,2423.9875
+rotterdam,san francisco,BA4452,955,EUR1939.19,2423.9875
+san francisco,amsterdam,VX22,1105,USD630.70,630.7
+san francisco,amsterdam,EI146,815,USD973.47,973.47
+san francisco,stockholm,B6534,1028,USD781.70,781.7
+san francisco,barcelona,AS223,1895,USD891.25,891.25
+san francisco,barcelona,UA688,1015,USD1027.97,1027.97
+san francisco,brussels,TK80,1105,USD904.80,904.8
+san francisco,brussels,EI146,825,USD973.47,973.47
+san francisco,paris,B6534,1053,USD644.70,644.7
+san francisco,paris,EI146,840,USD973.47,973.47
+san francisco,copenhagen,VX84,1105,USD621.70,621.7
+san francisco,copenhagen,B6534,1043,USD647.70,647.7
+san francisco,dublin,UA917,845,USD854.10,854.1
+san francisco,dublin,EI146,615,USD889.97,889.97
+san francisco,edinburgh,EI146,780,USD951.67,951.67
+san francisco,rome,TK80,2115,USD968.80,968.8
+san francisco,rome,EI146,1045,USD1008.47,1008.47
+san francisco,florence,AS223,1885,USD1168.23,1168.23
+san francisco,florence,AC760,1030,USD2115.30,2115.3
+san francisco,hamburg,VX34,1730,USD630.80,630.8
+san francisco,hamburg,UA688,995,USD990.97,990.97
+san francisco,hong kong,CI3,995,USD555.60,555.6
+san francisco,hong kong,CX879,855,USD706.10,706.1
+san francisco,tokyo,CI3,1155,USD663.60,663.6
+san francisco,tokyo,JL1,670,USD1150.80,1150.8
+san francisco,new york,UA637,335,USD170.10,170.1
+san francisco,new york,UA502,317,USD170.10,170.1
+san francisco,kyoto,CI3,1450,USD663.60,663.6
+san francisco,kyoto,CI3,1100,USD663.60,663.6
+san francisco,london,VX22,1110,USD591.70,591.7
+san francisco,london,EI146,820,USD953.47,953.47
+san francisco,macau,BR17,1530,USD668.60,668.6
+san francisco,macau,CI3,1030,USD728.60,728.6
+san francisco,munich,VX22,1130,USD630.70,630.7
+san francisco,munich,B6534,1063,USD644.70,644.7
+san francisco,monte carlo,AS377,2075,USD857.25,857.25
+san francisco,monte carlo,TK80,1900,USD990.80,990.8
+san francisco,chicago,UA624,250,USD134.10,134.1
+san francisco,chicago,UA705,237,USD134.10,134.1
+san francisco,oslo,VX84,1080,USD621.70,621.7
+san francisco,oslo,B6534,1018,USD647.70,647.7
+san francisco,rotterdam,TK80,2205,USD904.80,904.8
+san francisco,rotterdam,UA8882,800,USD2832.30,2832.3
